@@ -1,0 +1,10 @@
+{
+  "name": "@sps/startup-models-project-frontend-api",
+  "$schema": "../../../../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/modules/startup/models/project/frontend/api/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "lint": {}
+  }
+}

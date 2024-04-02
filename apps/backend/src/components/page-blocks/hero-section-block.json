@@ -26,7 +26,13 @@
     },
     "variant": {
       "type": "enumeration",
-      "enum": ["simple-centered", "split", "kultfond-media-on-right"],
+      "enum": [
+        "simple-centered",
+        "split",
+        "kultfond-media-on-right",
+        "kultfond-description",
+        "kultfond-message-from-management"
+      ],
       "default": "simple-centered",
       "required": true
     },

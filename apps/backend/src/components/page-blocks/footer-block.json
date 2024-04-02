@@ -13,7 +13,7 @@
     },
     "variant": {
       "type": "enumeration",
-      "enum": ["four-columns-with-company-mission"],
+      "enum": ["four-columns-with-company-mission", "kultfond-four-columns"],
       "default": "four-columns-with-company-mission",
       "required": true
     },

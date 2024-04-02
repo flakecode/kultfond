@@ -781,6 +781,9 @@
       "@sps/sps-website-builder-models-footer-block-frontend-component-variants-sps-lite-four-columns-with-company-mission": [
         "libs/modules/sps-website-builder/models/footer-block/frontend/component/variants/sps-lite/four-columns-with-company-mission/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-footer-block-frontend-component-variants-startup-kultfond-four-columns": [
+        "libs/modules/sps-website-builder/models/footer-block/frontend/component/variants/startup/kultfond-four-columns/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-footer-block-frontend-redux": [
         "libs/modules/sps-website-builder/models/footer-block/frontend/redux/src/index.ts"
       ],
@@ -798,6 +801,9 @@
       ],
       "@sps/sps-website-builder-models-footer-frontend-component-variants-sps-lite-boxed": [
         "libs/modules/sps-website-builder/models/footer/frontend/component/variants/sps-lite/boxed/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-footer-frontend-component-variants-startup-kultfond-black": [
+        "libs/modules/sps-website-builder/models/footer/frontend/component/variants/startup/kultfond-black/src/index.ts"
       ],
       "@sps/sps-website-builder-models-footer-frontend-redux": [
         "libs/modules/sps-website-builder/models/footer/frontend/redux/src/index.ts"
@@ -838,8 +844,14 @@
       "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-sps-split": [
         "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/sps/split/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-startup-kultfond-description": [
+        "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/startup/kultfond-description/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-startup-kultfond-media-on-right": [
         "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/startup/kultfond-media-on-right/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-startup-kultfond-message-from-management": [
+        "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/startup/kultfond-message-from-management/src/index.ts"
       ],
       "@sps/sps-website-builder-models-hero-section-block-frontend-redux": [
         "libs/modules/sps-website-builder/models/hero-section-block/frontend/redux/src/index.ts"
@@ -1305,6 +1317,33 @@
       ],
       "@sps/sps-website-builder-page-blocks-contracts": [
         "libs/modules/sps-website-builder/models/page-blocks/contracts/src/index.ts"
+      ],
+      "@sps/startup-frontend": [
+        "libs/modules/startup/frontend/root/src/index.ts"
+      ],
+      "@sps/startup-frontend-components": [
+        "libs/modules/startup/frontend/components/src/index.ts"
+      ],
+      "@sps/startup-models-project-contracts": [
+        "libs/modules/startup/models/project/contracts/root/src/index.ts"
+      ],
+      "@sps/startup-models-project-contracts-extended": [
+        "libs/modules/startup/models/project/contracts/extended/src/index.ts"
+      ],
+      "@sps/startup-models-project-frontend-api": [
+        "libs/modules/startup/models/project/frontend/api/src/index.ts"
+      ],
+      "@sps/startup-models-project-frontend-component": [
+        "libs/modules/startup/models/project/frontend/component/root/src/index.ts"
+      ],
+      "@sps/startup-models-project-frontend-component-variants-startup-kultfond-card": [
+        "libs/modules/startup/models/project/frontend/component/variants/startup/kultfond-card/src/index.ts"
+      ],
+      "@sps/startup-models-project-frontend-component-variants-startup-kultfond-get-all": [
+        "libs/modules/startup/models/project/frontend/component/variants/startup/kultfond-get-all/src/index.ts"
+      ],
+      "@sps/startup-models-project-frontend-redux": [
+        "libs/modules/startup/models/project/frontend/redux/src/index.ts"
       ],
       "@sps/store": ["libs/shared/store/src/index.ts"],
       "@sps/ui-adapter": ["libs/shared/ui/adapter/src/index.ts"],
