@@ -8,7 +8,11 @@
   "attributes": {
     "variant": {
       "type": "enumeration",
-      "enum": ["simple-links-on-left", "centered-logotype"],
+      "enum": [
+        "simple-links-on-left",
+        "centered-logotype",
+        "kultfond-links-on-right"
+      ],
       "default": "simple-links-on-left",
       "required": true
     },
