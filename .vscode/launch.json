@@ -1,0 +1,45 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "resolveSourceMapLocations": ["${workspaceFolder}/**", "!**/node_modules/**"],
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "trace": true,
+      "sourceMaps": true,
+      "outputCapture": "std",
+      "name": "backend",
+      "runtimeVersion": "18.17",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run-script", "backend:debug", "--preserve-symlinks"],
+      "cwd": "${workspaceFolder}",
+      "localRoot": "${workspaceFolder}",
+      "skipFiles": ["<node_internals>/**"]
+    },
+    // This is for debugging the frontend server side
+    // Client side can be debugging in Chrome -> Source -> Left side bar -> Add filesystem and add current directory
+    {
+      "name": "frontend",
+      "type": "node",
+      "request": "launch",
+      "trace": true,
+      "sourceMaps": true,
+      "runtimeVersion": "18.17",
+      "outputCapture": "std",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run-script", "frontend:dev", "--preserve-symlinks"],
+      "cwd": "${workspaceFolder}",
+      "internalConsoleOptions": "openOnSessionStart",
+      "localRoot": "${workspaceFolder}/apps/frontend",
+      "console": "internalConsole",
+      "autoAttachChildProcesses": true,
+      "env": {
+        "TS_NODE_IGNORE": "false",
+        "TS_NODE_PROJECT": "${workspaceFolder}/apps/frontend/tsconfig.json"
+      }
+    }
+  ]
+}

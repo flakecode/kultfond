@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "next start"
+  },
+  "dependencies": {
+    "@sps/shared-frontend-utils-client": "*",
+    "@sps/sps-website-builder-models-locale-contracts": "*"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0 <=20.x.x",
+    "npm": ">=6.0.0"
+  },
+  "msw": {
+    "workerDirectory": "./public"
+  },
+  "overrides": {
+    "msw": "$msw"
+  }
+}
