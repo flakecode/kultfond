@@ -10,7 +10,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="hero-section-block"
       data-variant={props.variant}
-      className="w-full"
+      className="w-full overflow-hidden"
     >
       <div className="mx-auto max-w-7xl">
         <div className="flex items-center justify-between min-h-[70vh]">

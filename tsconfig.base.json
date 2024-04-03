@@ -583,6 +583,9 @@
       "@sps/sps-website-builder-models-buttons-array-frontend-component-variants-sps-lite-row": [
         "libs/modules/sps-website-builder/models/buttons-array/frontend/component/variants/sps-lite/row/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-buttons-array-frontend-component-variants-startup-kultfond-column-with-title": [
+        "libs/modules/sps-website-builder/models/buttons-array/frontend/component/variants/startup/kultfond-column-with-title/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-buttons-array-frontend-redux": [
         "libs/modules/sps-website-builder/models/buttons-array/frontend/redux/src/index.ts"
       ],
@@ -945,6 +948,9 @@
       ],
       "@sps/sps-website-builder-models-logotype-frontend-component-variants-startup-kultfond-square": [
         "libs/modules/sps-website-builder/models/logotype/frontend/component/variants/startup/kultfond-square/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-logotype-frontend-component-variants-startup-kultfond-wide": [
+        "libs/modules/sps-website-builder/models/logotype/frontend/component/variants/startup/kultfond-wide/src/index.ts"
       ],
       "@sps/sps-website-builder-models-logotype-frontend-redux": [
         "libs/modules/sps-website-builder/models/logotype/frontend/redux/src/index.ts"

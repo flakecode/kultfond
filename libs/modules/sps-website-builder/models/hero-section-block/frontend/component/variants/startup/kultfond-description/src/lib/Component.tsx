@@ -1,6 +1,7 @@
 import React from "react";
 import { IComponentPropsExtended } from "./interface";
 import ReactMarkdown from "react-markdown";
+import Link from "next/link";
 
 export function Component(props: IComponentPropsExtended) {
   return (
@@ -18,7 +19,26 @@ export function Component(props: IComponentPropsExtended) {
         ) : null}
 
         {props.data.description ? (
-          <ReactMarkdown className="text-lg tracking-tight text-white flex flex-col gap-6">
+          <ReactMarkdown
+            className="text-lg tracking-tight text-white flex flex-col gap-6"
+            components={{
+              a: ({ node, ...props }) => {
+                if (!props.href) {
+                  return <p>{props.children}</p>;
+                }
+
+                return (
+                  <Link
+                    {...props}
+                    href={props.href}
+                    className="text-white underline underline-offset-2 hover:opacity-70 transition duration-200"
+                  >
+                    {props.children}
+                  </Link>
+                );
+              },
+            }}
+          >
             {props.data.description}
           </ReactMarkdown>
         ) : null}

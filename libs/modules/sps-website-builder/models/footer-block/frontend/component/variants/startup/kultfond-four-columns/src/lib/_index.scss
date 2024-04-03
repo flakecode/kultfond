@@ -1,6 +1,30 @@
 [data-module="sps-website-builder"] {
   &[data-model="footer-block"] {
     &[data-variant="kultfond-four-columns"] {
+      [data-model="elements.buttons-array"] {
+        &[data-variant="column-with-title"],
+        &[data-variant="kultfond-column-with-title"] {
+          .buttons-array-column-with-title {
+            .buttons-array-title {
+              @apply text-white opacity-100 capitalize text-2xl mb-6;
+            }
+
+            .buttons-array-description {
+              @apply text-white text-opacity-50 text-lg;
+            }
+
+            .buttons-array-buttons-container {
+              @apply gap-5;
+
+              [data-ui="button"] {
+                &[data-ui-variant="link"] {
+                  @apply text-white text-opacity-50 hover:text-[#A48A67] text-lg;
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
