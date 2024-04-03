@@ -27,7 +27,7 @@ export function Component(props: IComponentPropsExtended) {
         </div>
         <div className="w-[60%] flex flex-col gap-10">
           {props.data.title ? (
-            <h1 className="text-4xl font-bold tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl">
+            <h1 className="text-4xl font-bold tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl font-primary">
               <ReactMarkdown>{props.data.title}</ReactMarkdown>
             </h1>
           ) : null}

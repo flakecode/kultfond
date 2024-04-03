@@ -2,16 +2,11 @@
   "collectionName": "components_page_blocks_projects_list_blocks",
   "info": {
     "displayName": "Projects List Block",
-    "icon": "collapse"
+    "icon": "collapse",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "title": {
-      "type": "blocks"
-    },
-    "subtitle": {
-      "type": "blocks"
-    },
     "variant": {
       "type": "enumeration",
       "enum": ["kultfond-with-filters", "kultfond-default"],
@@ -29,8 +24,14 @@
       "default": true,
       "required": true
     },
+    "title": {
+      "type": "richtext"
+    },
+    "subtitle": {
+      "type": "richtext"
+    },
     "description": {
-      "type": "blocks"
+      "type": "richtext"
     }
   }
 }

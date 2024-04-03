@@ -13,7 +13,7 @@ export function Component(props: IComponentPropsExtended) {
     >
       <div className="mx-auto max-w-7xl flex flex-col gap-12">
         {props.data.title ? (
-          <h2 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl text-center text-white">
+          <h2 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl text-center text-white font-primary">
             <ReactMarkdown>{props.data.title}</ReactMarkdown>
           </h2>
         ) : null}
