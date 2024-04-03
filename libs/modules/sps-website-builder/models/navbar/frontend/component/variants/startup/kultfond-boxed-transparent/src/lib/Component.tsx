@@ -1,17 +1,22 @@
 import React from "react";
+import { Component as PageBlocks } from "@sps/sps-website-builder-page-blocks-component";
 import { IComponentPropsExtended } from "./interface";
 
 export function Component(props: IComponentPropsExtended) {
   return (
-    <div
+    <nav
       data-module="sps-website-builder"
       data-model="navbar"
       data-variant={props.variant}
-      className="w-full py-10 text-center flex flex-col gap-1"
+      className="w-full"
     >
-      <p className="font-bold">Generated variant</p>
-      <p className="font-bold text-4xl">Model: navbar</p>
-      <p className="font-bold text-4xl">Variant: kultfond-boxed-transparent</p>
-    </div>
+      <div className="navbar-container">
+        <PageBlocks
+          variant="default"
+          isServer={props.isServer}
+          data={props.data}
+        />
+      </div>
+    </nav>
   );
 }

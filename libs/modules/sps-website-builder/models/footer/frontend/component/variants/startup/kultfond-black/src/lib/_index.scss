@@ -1,6 +1,7 @@
 [data-module="sps-website-builder"] {
   &[data-model="footer"] {
     &[data-variant="kultfond-black"] {
+      @apply bg-[#1F1F1F];
     }
   }
 }

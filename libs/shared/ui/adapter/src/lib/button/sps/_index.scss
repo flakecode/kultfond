@@ -33,4 +33,13 @@
   &[data-ui-variant="transparent"] {
     @apply p-0 cursor-default;
   }
+
+  // kultfond
+  &[data-ui-variant="link"] {
+    @apply p-0 hover:no-underline text-[#1D1D1D] hover:text-[#A48A67] text-xl;
+  }
+
+  &[data-ui-variant="outline"] {
+    @apply p-5 border border-[#A48A67] rounded-none text-lg font-medium hover:bg-[#A48A67] hover:text-white leading-none;
+  }
 }

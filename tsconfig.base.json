@@ -943,6 +943,9 @@
       "@sps/sps-website-builder-models-logotype-frontend-component-variants-sps-lite-default": [
         "libs/modules/sps-website-builder/models/logotype/frontend/component/variants/sps-lite/default/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-logotype-frontend-component-variants-startup-kultfond-square": [
+        "libs/modules/sps-website-builder/models/logotype/frontend/component/variants/startup/kultfond-square/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-logotype-frontend-redux": [
         "libs/modules/sps-website-builder/models/logotype/frontend/redux/src/index.ts"
       ],
