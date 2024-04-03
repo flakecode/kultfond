@@ -1,0 +1,44 @@
+{
+  "id": 10,
+  "title": "Projects Page",
+  "url": "/projects",
+  "createdAt": "2024-04-03T14:41:04.838Z",
+  "updatedAt": "2024-04-03T14:52:08.410Z",
+  "publishedAt": "2024-04-03T14:41:07.335Z",
+  "locale": "en",
+  "localizations": [],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.projects-list-block",
+      "id": 1,
+      "title": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Проекты",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "subtitle": null,
+      "variant": "kultfond-with-filters",
+      "class_name": null,
+      "anchor": null,
+      "show_all": true,
+      "description": null
+    }
+  ],
+  "layout": {
+    "id": 2,
+    "title": "Public Page Layout",
+    "uid": "public-page-layout",
+    "variant": "wide",
+    "class_name": "[&>.layout-container]:pt-16",
+    "createdAt": "2024-04-02T21:53:26.879Z",
+    "updatedAt": "2024-04-02T21:53:32.391Z",
+    "publishedAt": "2023-04-20T03:23:38.447Z",
+    "locale": "en"
+  }
+}

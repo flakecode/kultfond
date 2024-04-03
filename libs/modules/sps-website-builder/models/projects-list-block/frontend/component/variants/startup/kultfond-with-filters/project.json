@@ -1,0 +1,10 @@
+{
+  "name": "@sps/sps-website-builder-models-projects-list-block-frontend-component-variants-startup-kultfond-with-filters",
+  "$schema": "../../../../../../../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/modules/sps-website-builder/models/projects-list-block/frontend/component/variants/startup/kultfond-with-filters/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "lint": {}
+  }
+}

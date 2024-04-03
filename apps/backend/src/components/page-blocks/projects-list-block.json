@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_page_blocks_projects_list_blocks",
+  "info": {
+    "displayName": "Projects List Block",
+    "icon": "collapse"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "blocks"
+    },
+    "subtitle": {
+      "type": "blocks"
+    },
+    "variant": {
+      "type": "enumeration",
+      "enum": ["kultfond-with-filters", "kultfond-default"],
+      "default": "kultfond-with-filters",
+      "required": true
+    },
+    "class_name": {
+      "type": "string"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "show_all": {
+      "type": "boolean",
+      "default": true,
+      "required": true
+    },
+    "description": {
+      "type": "blocks"
+    }
+  }
+}

@@ -1,12 +1,12 @@
 {
   "id": 1,
-  "title": "Lite Single Page Startup",
-  "description": "The fastest way to create startup",
+  "title": "Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге",
+  "description": "Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге",
   "script": null,
   "gtm_key": null,
   "is_default": true,
-  "createdAt": "2024-02-01T09:01:22.333Z",
-  "updatedAt": "2024-02-09T15:14:40.307Z",
+  "createdAt": "2024-04-02T21:53:26.897Z",
+  "updatedAt": "2024-04-03T14:38:27.740Z",
   "publishedAt": "2023-04-08T06:09:23.027Z",
   "locale": "en",
   "localizations": [
@@ -17,30 +17,30 @@
       "script": null,
       "gtm_key": null,
       "is_default": true,
-      "createdAt": "2024-02-01T09:01:22.343Z",
-      "updatedAt": "2024-02-09T15:14:40.627Z",
+      "createdAt": "2024-04-02T21:53:26.902Z",
+      "updatedAt": "2024-04-03T14:38:27.786Z",
       "publishedAt": "2024-01-13T00:01:32.693Z",
       "locale": "fr"
     }
   ],
   "favicon": {
-    "id": 164,
-    "name": "favicon.svg",
+    "id": 52,
+    "name": "logo.svg",
     "alternativeText": null,
     "caption": null,
-    "width": 485,
-    "height": 485,
+    "width": 67,
+    "height": 70,
     "formats": null,
-    "hash": "favicon_d4525ad70d",
+    "hash": "logo_2fc4e2ef48",
     "ext": ".svg",
     "mime": "image/svg+xml",
-    "size": 2.61,
-    "url": "/uploads/favicon_d4525ad70d.svg",
+    "size": 2490.17,
+    "url": "/uploads/logo_2fc4e2ef48.svg",
     "previewUrl": null,
     "provider": "local",
     "provider_metadata": null,
     "folderPath": "/",
-    "createdAt": "2024-02-09T15:14:40.267Z",
-    "updatedAt": "2024-02-09T15:14:40.267Z"
+    "createdAt": "2024-04-03T14:36:15.277Z",
+    "updatedAt": "2024-04-03T14:36:15.277Z"
   }
 }

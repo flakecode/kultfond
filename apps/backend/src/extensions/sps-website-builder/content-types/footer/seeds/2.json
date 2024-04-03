@@ -4,8 +4,8 @@
   "uid": "pied-de-page-public",
   "variant": "boxed",
   "class_name": null,
-  "createdAt": "2024-02-01T09:01:22.273Z",
-  "updatedAt": "2024-02-09T15:14:39.866Z",
+  "createdAt": "2024-04-02T21:53:26.864Z",
+  "updatedAt": "2024-04-02T21:53:32.348Z",
   "publishedAt": "2024-01-12T23:31:13.162Z",
   "locale": "fr",
   "localizations": [
@@ -13,10 +13,10 @@
       "id": 1,
       "title": "Public Page Footer",
       "uid": "footer",
-      "variant": "boxed",
+      "variant": "kultfond-black",
       "class_name": null,
-      "createdAt": "2024-02-01T09:01:22.261Z",
-      "updatedAt": "2024-02-09T18:39:36.997Z",
+      "createdAt": "2024-04-02T21:53:26.857Z",
+      "updatedAt": "2024-04-03T14:40:19.660Z",
       "publishedAt": "2024-01-10T11:45:35.047Z",
       "locale": "en"
     }
@@ -24,37 +24,16 @@
   "page_blocks": [
     {
       "__component": "page-blocks.footer-block",
-      "id": 8,
+      "id": 2,
       "copyrights": "2024 Démarrage d'une seule page",
       "description": "Le moyen le plus rapide de développer votre startup",
       "variant": "four-columns-with-company-mission",
       "class_name": null,
       "logotype": {
-        "id": 14,
+        "id": 2,
         "title": null,
         "url": null,
-        "media": [
-          {
-            "id": 163,
-            "name": "sps-full dark.svg",
-            "alternativeText": null,
-            "caption": null,
-            "width": 4725,
-            "height": 729,
-            "formats": null,
-            "hash": "sps_full_dark_a497ec2fa3",
-            "ext": ".svg",
-            "mime": "image/svg+xml",
-            "size": 16.9,
-            "url": "/uploads/sps_full_dark_a497ec2fa3.svg",
-            "previewUrl": null,
-            "provider": "local",
-            "provider_metadata": null,
-            "folderPath": "/",
-            "createdAt": "2024-02-09T15:14:39.800Z",
-            "updatedAt": "2024-02-09T15:14:39.800Z"
-          }
-        ],
+        "media": null,
         "additional_media": null
       },
       "buttons_arrays": [],
@@ -69,8 +48,8 @@
       "uid": "mise-en-page-publique",
       "variant": "wide",
       "class_name": "[&>.layout-container]:pt-16",
-      "createdAt": "2024-02-01T09:01:22.307Z",
-      "updatedAt": "2024-02-09T15:14:39.973Z",
+      "createdAt": "2024-04-02T21:53:26.886Z",
+      "updatedAt": "2024-04-02T21:53:32.408Z",
       "publishedAt": "2024-01-12T23:28:53.035Z",
       "locale": "fr"
     }

@@ -1,49 +1,40 @@
 {
   "id": 2,
   "variant": "simple",
-  "title": "Hero Flyout",
-  "uid": "hero-flyout",
+  "title": "Icône déroulante Paramètres régionaux",
+  "uid": "icone-deroulante-parametres-regionaux",
   "class_name": null,
-  "createdAt": "2024-02-01T09:01:22.242Z",
-  "updatedAt": "2024-02-09T22:29:32.386Z",
-  "publishedAt": "2023-05-11T18:03:51.955Z",
-  "locale": "en",
+  "createdAt": "2024-04-02T21:53:26.842Z",
+  "updatedAt": "2024-04-02T21:53:32.153Z",
+  "publishedAt": "2024-01-12T23:59:23.441Z",
+  "locale": "fr",
   "localizations": [],
   "page_blocks": [
     {
-      "__component": "page-blocks.hero-section-block",
-      "id": 20,
-      "title": "Flyout",
-      "description": "With Page Blocks",
-      "variant": "simple-centered",
-      "anchor": null,
+      "__component": "elements.button",
+      "id": 4,
+      "url": "/en",
+      "description": null,
+      "variant": "ghost",
+      "title": "EN (English)",
+      "additional_attributes": null,
       "class_name": null,
-      "buttons": [
-        {
-          "id": 121,
-          "url": null,
-          "description": null,
-          "variant": "primary",
-          "title": "Locales",
-          "additional_attributes": null,
-          "class_name": null,
-          "media": null,
-          "additional_media": null,
-          "flyout": {
-            "id": 4,
-            "variant": "simple",
-            "title": "Locales",
-            "uid": "locales-flyout",
-            "class_name": null,
-            "createdAt": "2024-02-04T09:31:41.332Z",
-            "updatedAt": "2024-02-09T22:29:42.078Z",
-            "publishedAt": "2023-05-11T16:28:36.473Z",
-            "locale": "en"
-          }
-        }
-      ],
       "media": null,
-      "additional_media": null
+      "additional_media": null,
+      "flyout": null
+    },
+    {
+      "__component": "elements.button",
+      "id": 5,
+      "url": "/fr",
+      "description": null,
+      "variant": "ghost",
+      "title": "FR (French)",
+      "additional_attributes": null,
+      "class_name": null,
+      "media": null,
+      "additional_media": null,
+      "flyout": null
     }
   ]
 }

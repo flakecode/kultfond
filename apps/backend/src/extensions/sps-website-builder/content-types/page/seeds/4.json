@@ -2,15 +2,15 @@
   "id": 4,
   "title": "Terms and Conditions",
   "url": "/terms-and-conditions",
-  "createdAt": "2024-02-01T09:01:22.444Z",
-  "updatedAt": "2024-02-09T15:15:00.560Z",
+  "createdAt": "2024-04-02T21:53:26.947Z",
+  "updatedAt": "2024-04-02T21:53:40.030Z",
   "publishedAt": "2023-05-04T08:38:22.465Z",
   "locale": "en",
   "localizations": [],
   "page_blocks": [
     {
       "__component": "page-blocks.hero-section-block",
-      "id": 23,
+      "id": 3,
       "title": "Terms and Conditions",
       "description": null,
       "variant": "simple-centered",
@@ -27,8 +27,8 @@
     "uid": "public-page-layout",
     "variant": "wide",
     "class_name": "[&>.layout-container]:pt-16",
-    "createdAt": "2024-02-01T09:01:22.297Z",
-    "updatedAt": "2024-02-09T15:14:39.946Z",
+    "createdAt": "2024-04-02T21:53:26.879Z",
+    "updatedAt": "2024-04-02T21:53:32.391Z",
     "publishedAt": "2023-04-20T03:23:38.447Z",
     "locale": "en"
   }

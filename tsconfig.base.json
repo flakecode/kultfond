@@ -1099,6 +1099,27 @@
       "@sps/sps-website-builder-models-products-list-block-frontend-redux": [
         "libs/modules/sps-website-builder/models/products-list-block/frontend/redux/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-projects-list-block-contracts": [
+        "libs/modules/sps-website-builder/models/projects-list-block/contracts/root/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-projects-list-block-contracts-extended": [
+        "libs/modules/sps-website-builder/models/projects-list-block/contracts/extended/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-projects-list-block-frontend-api": [
+        "libs/modules/sps-website-builder/models/projects-list-block/frontend/api/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-projects-list-block-frontend-component": [
+        "libs/modules/sps-website-builder/models/projects-list-block/frontend/component/root/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-projects-list-block-frontend-component-variants-startup-kultfond-default": [
+        "libs/modules/sps-website-builder/models/projects-list-block/frontend/component/variants/startup/kultfond-default/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-projects-list-block-frontend-component-variants-startup-kultfond-with-filters": [
+        "libs/modules/sps-website-builder/models/projects-list-block/frontend/component/variants/startup/kultfond-with-filters/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-projects-list-block-frontend-redux": [
+        "libs/modules/sps-website-builder/models/projects-list-block/frontend/redux/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-reviews-list-block-contracts": [
         "libs/modules/sps-website-builder/models/reviews-list-block/contracts/root/src/index.ts"
       ],
