@@ -10,17 +10,19 @@ import { api } from "@sps/startup-models-project-frontend-api";
 
 export default function Client(props: IComponentProps) {
   const { data, isFetching, isLoading, isUninitialized } =
-    api.rtk.useFindOneQuery({
-      id: props.data.id,
-    });
+    api.rtk.useFindManyQuery({});
 
   if (isFetching || isLoading || isUninitialized || !data) {
     return <Skeleton {...props} />;
   }
 
-  return (
-    <ErrorBoundary fallback={Error}>
-      <Component {...props} data={data} />
-    </ErrorBoundary>
-  );
+  if (!data) {
+    return <></>;
+  }
+
+  if (props.children) {
+    return props.children({ data });
+  }
+
+  return <></>;
 }

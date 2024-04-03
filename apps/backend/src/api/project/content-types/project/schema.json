@@ -1,10 +1,11 @@
 {
-  "kind": "singleType",
+  "kind": "collectionType",
   "collectionName": "projects",
   "info": {
     "singularName": "project",
     "pluralName": "projects",
-    "displayName": "Project"
+    "displayName": "Project",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -16,9 +17,10 @@
   },
   "attributes": {
     "media": {
-      "allowedTypes": ["images"],
       "type": "media",
       "multiple": true,
+      "required": false,
+      "allowedTypes": ["images"],
       "pluginOptions": {
         "i18n": {
           "localized": false

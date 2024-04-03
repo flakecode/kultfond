@@ -10,7 +10,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="hero-section-block"
       data-variant={props.variant}
-      className="w-full overflow-hidden"
+      className="w-full overflow-hidden bg-gradient-to-b from-white to-[#F5F5F5]"
     >
       <div className="mx-auto max-w-7xl">
         <div className="flex items-center justify-between min-h-[70vh]">

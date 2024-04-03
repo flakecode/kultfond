@@ -32,6 +32,11 @@
     },
     "description": {
       "type": "richtext"
+    },
+    "buttons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.button"
     }
   }
 }
