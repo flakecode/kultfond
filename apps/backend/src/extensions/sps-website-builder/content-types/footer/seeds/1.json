@@ -5,7 +5,7 @@
   "variant": "kultfond-black",
   "class_name": null,
   "createdAt": "2024-04-02T21:53:26.857Z",
-  "updatedAt": "2024-04-03T14:40:19.660Z",
+  "updatedAt": "2024-04-03T20:36:51.263Z",
   "publishedAt": "2024-01-10T11:45:35.047Z",
   "locale": "en",
   "localizations": [
@@ -160,7 +160,7 @@
           "id": 3,
           "title": "Контакты",
           "class_name": null,
-          "variant": "column-with-title",
+          "variant": "kultfond-column-with-title",
           "description": "По вопросам сотрудничества вы можете писать нам на почту [press@kultfond.ru](press@kultfond.ru)",
           "url": null,
           "additional_attributes": null,

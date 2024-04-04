@@ -11,23 +11,14 @@
     {
       "__component": "page-blocks.projects-list-block",
       "id": 1,
-      "title": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Проекты",
-              "type": "text"
-            }
-          ]
-        }
-      ],
-      "subtitle": null,
       "variant": "kultfond-with-filters",
       "class_name": null,
       "anchor": null,
       "show_all": true,
-      "description": null
+      "title": null,
+      "subtitle": null,
+      "description": null,
+      "buttons": []
     }
   ],
   "layout": {
