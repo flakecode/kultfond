@@ -1108,6 +1108,24 @@
       "@sps/sps-website-builder-models-products-list-block-frontend-redux": [
         "libs/modules/sps-website-builder/models/products-list-block/frontend/redux/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-project-overview-block-contracts": [
+        "libs/modules/sps-website-builder/models/project-overview-block/contracts/root/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-project-overview-block-contracts-extended": [
+        "libs/modules/sps-website-builder/models/project-overview-block/contracts/extended/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-project-overview-block-frontend-api": [
+        "libs/modules/sps-website-builder/models/project-overview-block/frontend/api/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-project-overview-block-frontend-component": [
+        "libs/modules/sps-website-builder/models/project-overview-block/frontend/component/root/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-project-overview-block-frontend-component-variants-startup-kultfond-default": [
+        "libs/modules/sps-website-builder/models/project-overview-block/frontend/component/variants/startup/kultfond-default/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-project-overview-block-frontend-redux": [
+        "libs/modules/sps-website-builder/models/project-overview-block/frontend/redux/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-projects-list-block-contracts": [
         "libs/modules/sps-website-builder/models/projects-list-block/contracts/root/src/index.ts"
       ],
@@ -1371,6 +1389,12 @@
       ],
       "@sps/startup-models-project-frontend-component-variants-startup-kultfond-get-all": [
         "libs/modules/startup/models/project/frontend/component/variants/startup/kultfond-get-all/src/index.ts"
+      ],
+      "@sps/startup-models-project-frontend-component-variants-startup-kultfond-get-from-url": [
+        "libs/modules/startup/models/project/frontend/component/variants/startup/kultfond-get-from-url/src/index.ts"
+      ],
+      "@sps/startup-models-project-frontend-component-variants-startup-kultfond-overview": [
+        "libs/modules/startup/models/project/frontend/component/variants/startup/kultfond-overview/src/index.ts"
       ],
       "@sps/startup-models-project-frontend-redux": [
         "libs/modules/startup/models/project/frontend/redux/src/index.ts"
