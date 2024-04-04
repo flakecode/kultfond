@@ -73,6 +73,15 @@
       "updatedAt": "2024-04-03T14:52:08.410Z",
       "publishedAt": "2024-04-03T14:41:07.335Z",
       "locale": "en"
+    },
+    {
+      "id": 11,
+      "title": "Project Page",
+      "url": "/projects/[api::project.project.id]",
+      "createdAt": "2024-04-04T09:52:25.695Z",
+      "updatedAt": "2024-04-04T10:03:57.584Z",
+      "publishedAt": "2024-04-04T09:52:27.029Z",
+      "locale": "en"
     }
   ]
 }

@@ -8,6 +8,6 @@ const pageBlockPopulate = {
 
 export const populate = {
   ...parentPopulate,
-  pageBlocks: { populate: pageBlockPopulate },
+  page_blocks: { populate: pageBlockPopulate },
   media: { populate: filePopulate },
 };
