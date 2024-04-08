@@ -1,0 +1,175 @@
+{
+  "id": 1,
+  "title": "Храм во имя святого благоверного князя Александра Невского",
+  "location": "Ленинградская обл., пос. Апраксин",
+  "createdAt": "2024-04-03T22:28:55.255Z",
+  "updatedAt": "2024-04-04T12:19:26.218Z",
+  "publishedAt": "2024-04-03T22:28:56.110Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 60,
+      "name": "1.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1512,
+      "height": 1112,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_1_9d4145bcda.png",
+          "hash": "large_1_9d4145bcda",
+          "mime": "image/png",
+          "name": "large_1.png",
+          "path": null,
+          "size": 684.46,
+          "width": 1000,
+          "height": 735
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_1_9d4145bcda.png",
+          "hash": "small_1_9d4145bcda",
+          "mime": "image/png",
+          "name": "small_1.png",
+          "path": null,
+          "size": 193.51,
+          "width": 500,
+          "height": 368
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_1_9d4145bcda.png",
+          "hash": "medium_1_9d4145bcda",
+          "mime": "image/png",
+          "name": "medium_1.png",
+          "path": null,
+          "size": 405.73,
+          "width": 750,
+          "height": 552
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_1_9d4145bcda.png",
+          "hash": "thumbnail_1_9d4145bcda",
+          "mime": "image/png",
+          "name": "thumbnail_1.png",
+          "path": null,
+          "size": 41.83,
+          "width": 212,
+          "height": 156
+        }
+      },
+      "hash": "1_9d4145bcda",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 421.37,
+      "url": "/uploads/1_9d4145bcda.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-03T22:28:52.604Z",
+      "updatedAt": "2024-04-03T22:28:52.604Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 9,
+      "title": "Храм во имя святого благоверного князя Александра Невского",
+      "description": null,
+      "variant": "kultfond-media-on-right",
+      "anchor": null,
+      "class_name": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": [
+        {
+          "id": 60,
+          "name": "1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1512,
+          "height": 1112,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_1_9d4145bcda.png",
+              "hash": "large_1_9d4145bcda",
+              "mime": "image/png",
+              "name": "large_1.png",
+              "path": null,
+              "size": 684.46,
+              "width": 1000,
+              "height": 735
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_1_9d4145bcda.png",
+              "hash": "small_1_9d4145bcda",
+              "mime": "image/png",
+              "name": "small_1.png",
+              "path": null,
+              "size": 193.51,
+              "width": 500,
+              "height": 368
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_1_9d4145bcda.png",
+              "hash": "medium_1_9d4145bcda",
+              "mime": "image/png",
+              "name": "medium_1.png",
+              "path": null,
+              "size": 405.73,
+              "width": 750,
+              "height": 552
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_1_9d4145bcda.png",
+              "hash": "thumbnail_1_9d4145bcda",
+              "mime": "image/png",
+              "name": "thumbnail_1.png",
+              "path": null,
+              "size": 41.83,
+              "width": 212,
+              "height": 156
+            }
+          },
+          "hash": "1_9d4145bcda",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 421.37,
+          "url": "/uploads/1_9d4145bcda.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-03T22:28:52.604Z",
+          "updatedAt": "2024-04-03T22:28:52.604Z"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "В стадии реализации",
+      "createdAt": "2024-04-08T21:58:51.234Z",
+      "updatedAt": "2024-04-08T21:59:09.853Z",
+      "publishedAt": "2024-04-08T21:58:52.745Z",
+      "locale": "en"
+    },
+    {
+      "id": 2,
+      "title": "В регионах России",
+      "createdAt": "2024-04-08T21:59:31.508Z",
+      "updatedAt": "2024-04-08T21:59:32.322Z",
+      "publishedAt": "2024-04-08T21:59:32.318Z",
+      "locale": "en"
+    }
+  ]
+}

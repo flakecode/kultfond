@@ -1244,6 +1244,9 @@
       "@sps/sps-website-builder-models-page-frontend-component-variants-sps-lite-simple": [
         "libs/modules/sps-website-builder/models/page/frontend/component/variants/sps-lite/simple/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-page-frontend-component-variants-startup-kultfond-get-query-from-url": [
+        "libs/modules/sps-website-builder/models/page/frontend/component/variants/startup/kultfond-get-query-from-url/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-page-frontend-redux": [
         "libs/modules/sps-website-builder/models/page/frontend/redux/src/index.ts"
       ],
@@ -1573,6 +1576,36 @@
       ],
       "@sps/startup-frontend-components": [
         "libs/modules/startup/frontend/components/src/index.ts"
+      ],
+      "@sps/startup-models-category-contracts": [
+        "libs/modules/startup/models/category/contracts/root/src/index.ts"
+      ],
+      "@sps/startup-models-category-contracts-extended": [
+        "libs/modules/startup/models/category/contracts/extended/src/index.ts"
+      ],
+      "@sps/startup-models-category-frontend-api-client": [
+        "libs/modules/startup/models/category/frontend/api/client/src/index.ts"
+      ],
+      "@sps/startup-models-category-frontend-api-server": [
+        "libs/modules/startup/models/category/frontend/api/server/src/index.ts"
+      ],
+      "@sps/startup-models-category-frontend-component": [
+        "libs/modules/startup/models/category/frontend/component/root/src/index.ts"
+      ],
+      "@sps/startup-models-category-frontend-component-variants-startup-kultfond-get-all": [
+        "libs/modules/startup/models/category/frontend/component/variants/startup/kultfond-get-all/src/index.ts"
+      ],
+      "@sps/startup-models-category-frontend-component-variants-startup-kultfond-list": [
+        "libs/modules/startup/models/category/frontend/component/variants/startup/kultfond-list/src/index.ts"
+      ],
+      "@sps/startup-models-category-frontend-component-variants-startup-kultfond-pill": [
+        "libs/modules/startup/models/category/frontend/component/variants/startup/kultfond-pill/src/index.ts"
+      ],
+      "@sps/startup-models-category-frontend-component-variants-startup-kultfond-set-query-button": [
+        "libs/modules/startup/models/category/frontend/component/variants/startup/kultfond-set-query-button/src/index.ts"
+      ],
+      "@sps/startup-models-category-frontend-redux": [
+        "libs/modules/startup/models/category/frontend/redux/src/index.ts"
       ],
       "@sps/startup-models-project-contracts": [
         "libs/modules/startup/models/project/contracts/root/src/index.ts"

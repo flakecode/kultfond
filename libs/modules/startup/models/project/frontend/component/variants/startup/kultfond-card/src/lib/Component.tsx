@@ -2,6 +2,7 @@ import React from "react";
 import { IComponentPropsExtended } from "./interface";
 import { Component as File } from "@sps/sps-file-storage-models-file-frontend-component";
 import Link from "next/link";
+import { Component as Category } from "@sps/startup-models-category-frontend-component";
 
 export function Component(props: IComponentPropsExtended) {
   return (
@@ -23,10 +24,24 @@ export function Component(props: IComponentPropsExtended) {
           />
         ) : null}
       </div>
-      <div className="flex flex-col gap-5 px-5">
-        <h5 className="font-medium text-[#1D1D1D] group-hover:text-[#A48A67] text-xl leading-tight transition duration-500">
-          {props.data.title}
-        </h5>
+      <div className="flex flex-col gap-5 px-5 h-full justify-between">
+        <div className="flex flex-col gap-5">
+          <div className="flex items-center gap-3">
+            {props.data.categories?.map((category, index) => {
+              return (
+                <Category
+                  key={index}
+                  isServer={props.isServer}
+                  variant="kultfond-pill"
+                  data={category}
+                />
+              );
+            })}
+          </div>
+          <h5 className="font-medium text-[#1D1D1D] group-hover:text-[#A48A67] text-xl leading-tight transition duration-500">
+            {props.data.title}
+          </h5>
+        </div>
         <div className="flex items-center gap-3">
           <svg
             xmlns="http://www.w3.org/2000/svg"

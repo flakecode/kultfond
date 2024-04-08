@@ -1,0 +1,167 @@
+{
+  "id": 2,
+  "title": "Церковь Пресвятой Троицы в составе выявленного объекта культурного наследия «Киновия Александро-Невской лавры»",
+  "location": "Санкт-Петербург, Октябрьская наб.",
+  "createdAt": "2024-04-03T22:30:14.791Z",
+  "updatedAt": "2024-04-04T12:20:11.994Z",
+  "publishedAt": "2024-04-03T22:30:15.944Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 61,
+      "name": "2.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1512,
+      "height": 1112,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_2_67efd6f82c.png",
+          "hash": "large_2_67efd6f82c",
+          "mime": "image/png",
+          "name": "large_2.png",
+          "path": null,
+          "size": 991.55,
+          "width": 1000,
+          "height": 735
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_2_67efd6f82c.png",
+          "hash": "small_2_67efd6f82c",
+          "mime": "image/png",
+          "name": "small_2.png",
+          "path": null,
+          "size": 275.56,
+          "width": 500,
+          "height": 368
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_2_67efd6f82c.png",
+          "hash": "medium_2_67efd6f82c",
+          "mime": "image/png",
+          "name": "medium_2.png",
+          "path": null,
+          "size": 584.24,
+          "width": 750,
+          "height": 552
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_2_67efd6f82c.png",
+          "hash": "thumbnail_2_67efd6f82c",
+          "mime": "image/png",
+          "name": "thumbnail_2.png",
+          "path": null,
+          "size": 56.69,
+          "width": 212,
+          "height": 156
+        }
+      },
+      "hash": "2_67efd6f82c",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 579.27,
+      "url": "/uploads/2_67efd6f82c.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-03T22:30:11.113Z",
+      "updatedAt": "2024-04-03T22:30:11.113Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 10,
+      "title": "Церковь Пресвятой Троицы в составе выявленного объекта культурного наследия «Киновия Александро-Невской лавры»",
+      "description": null,
+      "variant": "kultfond-media-on-right",
+      "anchor": null,
+      "class_name": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": [
+        {
+          "id": 61,
+          "name": "2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1512,
+          "height": 1112,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_2_67efd6f82c.png",
+              "hash": "large_2_67efd6f82c",
+              "mime": "image/png",
+              "name": "large_2.png",
+              "path": null,
+              "size": 991.55,
+              "width": 1000,
+              "height": 735
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_2_67efd6f82c.png",
+              "hash": "small_2_67efd6f82c",
+              "mime": "image/png",
+              "name": "small_2.png",
+              "path": null,
+              "size": 275.56,
+              "width": 500,
+              "height": 368
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_2_67efd6f82c.png",
+              "hash": "medium_2_67efd6f82c",
+              "mime": "image/png",
+              "name": "medium_2.png",
+              "path": null,
+              "size": 584.24,
+              "width": 750,
+              "height": 552
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_2_67efd6f82c.png",
+              "hash": "thumbnail_2_67efd6f82c",
+              "mime": "image/png",
+              "name": "thumbnail_2.png",
+              "path": null,
+              "size": 56.69,
+              "width": 212,
+              "height": 156
+            }
+          },
+          "hash": "2_67efd6f82c",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 579.27,
+          "url": "/uploads/2_67efd6f82c.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-03T22:30:11.113Z",
+          "updatedAt": "2024-04-03T22:30:11.113Z"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "title": "Завершённые проекты",
+      "createdAt": "2024-04-08T21:59:47.741Z",
+      "updatedAt": "2024-04-08T21:59:48.418Z",
+      "publishedAt": "2024-04-08T21:59:48.415Z",
+      "locale": "en"
+    }
+  ]
+}

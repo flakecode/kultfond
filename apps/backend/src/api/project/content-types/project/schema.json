@@ -51,6 +51,12 @@
       },
       "type": "dynamiczone",
       "components": ["page-blocks.hero-section-block"]
+    },
+    "categories": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::category.category",
+      "mappedBy": "projects"
     }
   }
 }

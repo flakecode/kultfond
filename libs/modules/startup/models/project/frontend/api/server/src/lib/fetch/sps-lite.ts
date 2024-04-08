@@ -10,11 +10,12 @@ export const api = {
       rootPath: "/api",
     });
   },
-  findMany: async () => {
+  findMany: async (params?: { filters: any; pagination: any }) => {
     return await utilsFetch.api.find<IModelExtended>({
       model: route,
       populate,
       rootPath: "/api",
+      ...(params || {}),
     });
   },
 };
