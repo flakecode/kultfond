@@ -1,7 +1,7 @@
 import React from "react";
 import { IComponentPropsExtended } from "./interface";
 import { Component as Project } from "@sps/startup-models-project-frontend-component";
-import { IModel as IProject } from "@sps/startup-models-project-contracts-extended";
+import { Component as PageGetUrlModelId } from "@sps/sps-website-builder-models-page-frontend-component-variants-sps-lite-get-url-model-id";
 
 export function Component(props: IComponentPropsExtended) {
   return (
@@ -11,17 +11,35 @@ export function Component(props: IComponentPropsExtended) {
       data-variant={props.variant}
       className="w-full"
     >
-      <Project isServer={props.isServer} variant="kultfond-get-from-url">
-        {({ data }: { data: IProject }) => {
+      <PageGetUrlModelId
+        isServer={props.isServer}
+        variant="get-url-model-id"
+        model="project"
+      >
+        {({ data: projectId }) => {
+          if (!projectId) {
+            return <></>;
+          }
+
           return (
             <Project
               isServer={props.isServer}
-              variant="kultfond-overview"
-              data={data}
-            />
+              variant="kultfond-get-by-id"
+              id={projectId}
+            >
+              {({ data }) => {
+                return (
+                  <Project
+                    isServer={props.isServer}
+                    variant="kultfond-overview"
+                    data={data}
+                  />
+                );
+              }}
+            </Project>
           );
         }}
-      </Project>
+      </PageGetUrlModelId>
     </div>
   );
 }

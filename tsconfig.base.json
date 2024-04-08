@@ -1274,8 +1274,11 @@
       "@sps/sps-website-builder-models-project-overview-block-contracts-extended": [
         "libs/modules/sps-website-builder/models/project-overview-block/contracts/extended/src/index.ts"
       ],
-      "@sps/sps-website-builder-models-project-overview-block-frontend-api": [
-        "libs/modules/sps-website-builder/models/project-overview-block/frontend/api/src/index.ts"
+      "@sps/sps-website-builder-models-project-overview-block-frontend-api-client": [
+        "libs/modules/sps-website-builder/models/project-overview-block/frontend/api/client/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-project-overview-block-frontend-api-server": [
+        "libs/modules/sps-website-builder/models/project-overview-block/frontend/api/server/src/index.ts"
       ],
       "@sps/sps-website-builder-models-project-overview-block-frontend-component": [
         "libs/modules/sps-website-builder/models/project-overview-block/frontend/component/root/src/index.ts"
@@ -1292,8 +1295,11 @@
       "@sps/sps-website-builder-models-projects-list-block-contracts-extended": [
         "libs/modules/sps-website-builder/models/projects-list-block/contracts/extended/src/index.ts"
       ],
-      "@sps/sps-website-builder-models-projects-list-block-frontend-api": [
-        "libs/modules/sps-website-builder/models/projects-list-block/frontend/api/src/index.ts"
+      "@sps/sps-website-builder-models-projects-list-block-frontend-api-client": [
+        "libs/modules/sps-website-builder/models/projects-list-block/frontend/api/client/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-projects-list-block-frontend-api-server": [
+        "libs/modules/sps-website-builder/models/projects-list-block/frontend/api/server/src/index.ts"
       ],
       "@sps/sps-website-builder-models-projects-list-block-frontend-component": [
         "libs/modules/sps-website-builder/models/projects-list-block/frontend/component/root/src/index.ts"
@@ -1574,8 +1580,11 @@
       "@sps/startup-models-project-contracts-extended": [
         "libs/modules/startup/models/project/contracts/extended/src/index.ts"
       ],
-      "@sps/startup-models-project-frontend-api": [
-        "libs/modules/startup/models/project/frontend/api/src/index.ts"
+      "@sps/startup-models-project-frontend-api-client": [
+        "libs/modules/startup/models/project/frontend/api/client/src/index.ts"
+      ],
+      "@sps/startup-models-project-frontend-api-server": [
+        "libs/modules/startup/models/project/frontend/api/server/src/index.ts"
       ],
       "@sps/startup-models-project-frontend-component": [
         "libs/modules/startup/models/project/frontend/component/root/src/index.ts"
@@ -1586,8 +1595,8 @@
       "@sps/startup-models-project-frontend-component-variants-startup-kultfond-get-all": [
         "libs/modules/startup/models/project/frontend/component/variants/startup/kultfond-get-all/src/index.ts"
       ],
-      "@sps/startup-models-project-frontend-component-variants-startup-kultfond-get-from-url": [
-        "libs/modules/startup/models/project/frontend/component/variants/startup/kultfond-get-from-url/src/index.ts"
+      "@sps/startup-models-project-frontend-component-variants-startup-kultfond-get-by-id": [
+        "libs/modules/startup/models/project/frontend/component/variants/startup/kultfond-get-by-id/src/index.ts"
       ],
       "@sps/startup-models-project-frontend-component-variants-startup-kultfond-overview": [
         "libs/modules/startup/models/project/frontend/component/variants/startup/kultfond-overview/src/index.ts"
