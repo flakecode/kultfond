@@ -1247,9 +1247,6 @@
       "@sps/sps-website-builder-models-page-frontend-component-variants-sps-lite-simple": [
         "libs/modules/sps-website-builder/models/page/frontend/component/variants/sps-lite/simple/src/index.ts"
       ],
-      "@sps/sps-website-builder-models-page-frontend-component-variants-startup-kultfond-get-query-from-url": [
-        "libs/modules/sps-website-builder/models/page/frontend/component/variants/startup/kultfond-get-query-from-url/src/index.ts"
-      ],
       "@sps/sps-website-builder-models-page-frontend-redux": [
         "libs/modules/sps-website-builder/models/page/frontend/redux/src/index.ts"
       ],

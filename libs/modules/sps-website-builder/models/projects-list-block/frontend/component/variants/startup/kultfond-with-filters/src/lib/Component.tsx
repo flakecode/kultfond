@@ -2,7 +2,7 @@ import React from "react";
 import { IComponentPropsExtended } from "./interface";
 import ReactMarkdown from "react-markdown";
 import { Component as Category } from "@sps/startup-models-category-frontend-component";
-import { Component as PageKultfondGetQueryFromUrl } from "@sps/sps-website-builder-models-page-frontend-component-variants-startup-kultfond-get-query-from-url";
+import { Component as PageGetQueryFromUrl } from "@sps/sps-website-builder-models-page-frontend-component-variants-sps-lite-get-query-from-url";
 import { Component as Project } from "@sps/startup-models-project-frontend-component";
 import Link from "next/link";
 
@@ -14,9 +14,9 @@ export function Component(props: IComponentPropsExtended) {
       data-variant={props.variant}
       className="w-full py-32 bg-[#F5F5F5]"
     >
-      <PageKultfondGetQueryFromUrl
+      <PageGetQueryFromUrl
         isServer={props.isServer}
-        variant="kultfond-get-query-from-url"
+        variant="get-query-from-url"
       >
         {({ data: query }) => {
           return (
@@ -83,7 +83,7 @@ export function Component(props: IComponentPropsExtended) {
             </div>
           );
         }}
-      </PageKultfondGetQueryFromUrl>
+      </PageGetQueryFromUrl>
     </div>
   );
 }
