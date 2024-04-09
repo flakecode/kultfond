@@ -7,7 +7,7 @@
   "position": "fixed",
   "side": "top",
   "createdAt": "2024-04-02T21:53:26.915Z",
-  "updatedAt": "2024-04-03T14:37:18.170Z",
+  "updatedAt": "2024-04-09T12:16:58.653Z",
   "publishedAt": "2023-04-08T05:04:22.148Z",
   "locale": "en",
   "localizations": [
@@ -38,24 +38,24 @@
         "url": "/",
         "media": [
           {
-            "id": 52,
-            "name": "logo.svg",
+            "id": 63,
+            "name": "logo-wide-blue.svg",
             "alternativeText": null,
             "caption": null,
-            "width": 67,
+            "width": 584,
             "height": 70,
             "formats": null,
-            "hash": "logo_2fc4e2ef48",
+            "hash": "logo_wide_blue_6a4305981f",
             "ext": ".svg",
             "mime": "image/svg+xml",
-            "size": 2490.17,
-            "url": "/uploads/logo_2fc4e2ef48.svg",
+            "size": 2531.8,
+            "url": "/uploads/logo_wide_blue_6a4305981f.svg",
             "previewUrl": null,
             "provider": "local",
             "provider_metadata": null,
             "folderPath": "/",
-            "createdAt": "2024-04-03T14:36:15.277Z",
-            "updatedAt": "2024-04-03T14:36:15.277Z"
+            "createdAt": "2024-04-09T12:16:54.762Z",
+            "updatedAt": "2024-04-09T12:16:54.762Z"
           }
         ],
         "additional_media": null
@@ -63,7 +63,7 @@
       "buttons": [
         {
           "id": 12,
-          "url": "/",
+          "url": "/#about",
           "description": null,
           "variant": "link",
           "title": "О фонде",
@@ -86,32 +86,8 @@
           "flyout": null
         },
         {
-          "id": 40,
-          "url": "/",
-          "description": null,
-          "variant": "link",
-          "title": "Новости",
-          "additional_attributes": null,
-          "class_name": null,
-          "media": null,
-          "additional_media": null,
-          "flyout": null
-        },
-        {
-          "id": 41,
-          "url": "/",
-          "description": null,
-          "variant": "link",
-          "title": "Видео о нас",
-          "additional_attributes": null,
-          "class_name": null,
-          "media": null,
-          "additional_media": null,
-          "flyout": null
-        },
-        {
           "id": 42,
-          "url": "/",
+          "url": "/contacts",
           "description": null,
           "variant": "link",
           "title": "Контакты",

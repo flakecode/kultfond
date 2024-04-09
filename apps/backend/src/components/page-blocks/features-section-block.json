@@ -22,7 +22,7 @@
     },
     "variant": {
       "type": "enumeration",
-      "enum": ["with-icon"],
+      "enum": ["with-icon", "kultfond-contacts"],
       "default": "with-icon",
       "required": true
     },
@@ -39,9 +39,10 @@
       "allowedTypes": ["images", "files", "videos", "audios"]
     },
     "additional_media": {
-      "allowedTypes": ["images", "files", "videos", "audios"],
       "type": "media",
-      "multiple": true
+      "multiple": true,
+      "required": false,
+      "allowedTypes": ["images", "files", "videos", "audios"]
     }
   }
 }

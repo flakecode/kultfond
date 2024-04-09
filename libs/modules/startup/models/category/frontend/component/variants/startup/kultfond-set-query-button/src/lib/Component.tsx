@@ -19,7 +19,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="startup"
       data-model="category"
       data-variant={props.variant}
-      className="px-8 py-4 text-xl text-[#1D1D1D] relative leading-none"
+      className="px-5 py-3 lg:px-8 lg:py-4 text-base lg:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left"
       href={`?${href}`}
     >
       <p className="">{props.data.title}</p>

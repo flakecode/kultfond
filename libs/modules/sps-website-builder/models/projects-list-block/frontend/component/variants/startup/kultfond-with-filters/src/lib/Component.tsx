@@ -12,7 +12,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="projects-list-block"
       data-variant={props.variant}
-      className="w-full py-32 bg-[#F5F5F5]"
+      className="w-full px-4 lg:px-0 py-20 lg:py-40 bg-[#F5F5F5]"
     >
       <PageGetQueryFromUrl
         isServer={props.isServer}
@@ -22,19 +22,19 @@ export function Component(props: IComponentPropsExtended) {
           return (
             <div className="mx-auto w-full max-w-7xl flex flex-col gap-12">
               {props.data.title ? (
-                <h1 className="text-4xl font-bold tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl text-center font-primary">
+                <h1 className="text-4xl font-bold tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl font-primary">
                   <ReactMarkdown>{props.data.title}</ReactMarkdown>
                 </h1>
               ) : null}
               <Category isServer={props.isServer} variant="kultfond-get-all">
                 {({ data }) => {
                   return (
-                    <div className="flex mx-auto">
+                    <div className="flex flex-col lg:flex-row">
                       <Link
                         data-module="startup"
                         data-model="category"
                         data-variant={props.variant}
-                        className="px-8 py-4 text-xl text-[#1D1D1D] relative leading-none"
+                        className="px-5 py-3 lg:px-8 lg:py-4 text-base lg:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left"
                         href="?"
                       >
                         <p className="">Все проекты</p>
@@ -65,7 +65,7 @@ export function Component(props: IComponentPropsExtended) {
               >
                 {({ data }) => {
                   return (
-                    <div className="grid grid-cols-3 gap-8">
+                    <div className="flex flex-col lg:grid grid-cols-3 gap-4 lg:gap-8">
                       {data?.map((project, index) => {
                         return (
                           <Project

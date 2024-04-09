@@ -9,7 +9,8 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="hero-section-block"
       data-variant={props.variant}
-      className="w-full bg-[#A48A67] pt-16 pb-24"
+      className="w-full bg-[#A48A67] px-4 lg:px-0 pt-16 pb-24"
+      id={props.data.anchor ? props.data.anchor : undefined}
     >
       <div className="mx-auto max-w-7xl flex flex-col gap-12">
         {props.data.title ? (

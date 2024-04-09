@@ -10,13 +10,13 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="hero-section-block"
       data-variant={props.variant}
-      className="w-full overflow-hidden bg-gradient-to-b from-white to-[#F5F5F5]"
+      className="w-full overflow-hidden bg-gradient-to-b from-white to-[#F5F5F5] px-4 lg:px-0"
     >
       <div className="mx-auto max-w-7xl">
-        <div className="flex items-center justify-between min-h-[70vh]">
+        <div className="flex items-center justify-between min-h-[50vh] lg:min-h-[70vh]">
           <div className="flex flex-shrink-0 w-8/12 flex-col gap-16">
             {props.data.title ? (
-              <h1 className="text-[40px] font-bold leading-tight leading-relaxed xl:inline text-[#252525] md:text-[60px] font-primary">
+              <h1 className="text-xl lg:text-[40px] font-bold leading-tight leading-relaxed xl:inline text-[#252525] md:text-[60px] font-primary">
                 <ReactMarkdown>{props.data.title}</ReactMarkdown>
               </h1>
             ) : null}
@@ -34,7 +34,7 @@ export function Component(props: IComponentPropsExtended) {
             </div>
           </div>
           {props.data.additionalMedia?.length ? (
-            <div className="w-full -mr-[60%] flex object-shrink-0 max-w-[1100px]">
+            <div className="w-full -mr-[50%] flex object-shrink-0 max-w-[1100px]">
               <File
                 variant="image"
                 isServer={false}

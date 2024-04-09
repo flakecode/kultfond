@@ -25,8 +25,8 @@ export function Component(props: IComponentPropsExtended) {
         ) : null}
       </div>
       <div className="flex flex-col gap-5 px-5 h-full justify-between">
-        <div className="flex flex-col gap-5">
-          <div className="flex items-center gap-3">
+        <div className="flex justify-start flex-col gap-5">
+          <div className="flex flex-row flex-wrap items-center gap-3">
             {props.data.categories?.map((category, index) => {
               return (
                 <Category
@@ -38,14 +38,14 @@ export function Component(props: IComponentPropsExtended) {
               );
             })}
           </div>
-          <h5 className="font-medium text-[#1D1D1D] group-hover:text-[#A48A67] text-xl leading-tight transition duration-500">
+          <h5 className="font-medium text-[#1D1D1D] group-hover:text-[#A48A67] text-base lg:text-xl leading-tight transition duration-500">
             {props.data.title}
           </h5>
         </div>
         <div className="flex items-center gap-3">
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="w-4 h-5"
+            className="w-2 lg:w-4 h-3 lg:h-5"
             viewBox="0 0 15 20"
             fill="none"
           >
@@ -54,7 +54,7 @@ export function Component(props: IComponentPropsExtended) {
               fill="#808080"
             />
           </svg>
-          <p className="text-[#808080] text-nowrap truncate">
+          <p className="text-xs lg:text-base text-[#808080] text-nowrap truncate">
             {props.data.location}
           </p>
         </div>

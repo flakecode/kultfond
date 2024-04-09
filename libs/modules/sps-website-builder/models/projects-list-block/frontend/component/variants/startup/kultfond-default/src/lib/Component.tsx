@@ -11,7 +11,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="projects-list-block"
       data-variant={props.variant}
-      className="w-full pb-32 bg-[#F5F5F5]"
+      className="w-full px-4 lg:px-0 pb-32 bg-[#F5F5F5]"
     >
       <div className="mx-auto w-full max-w-7xl flex flex-col gap-12">
         {props.data.title ? (
@@ -22,7 +22,7 @@ export function Component(props: IComponentPropsExtended) {
         <Project isServer={props.isServer} variant="kultfond-get-all">
           {({ data }: { data: IProject[] }) => {
             return (
-              <div className="grid grid-cols-3 gap-8">
+              <div className="flex flex-col lg:grid grid-cols-3 gap-4 lg:gap-8">
                 {data.map((project, index) => {
                   return (
                     <Project
