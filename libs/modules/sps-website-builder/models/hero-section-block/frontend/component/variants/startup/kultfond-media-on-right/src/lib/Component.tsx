@@ -16,7 +16,7 @@ export function Component(props: IComponentPropsExtended) {
         <div className="flex items-center justify-between min-h-[50vh] lg:min-h-[70vh]">
           <div className="flex flex-shrink-0 w-8/12 flex-col gap-16">
             {props.data.title ? (
-              <h1 className="text-xl lg:text-[40px] font-bold leading-tight leading-relaxed xl:inline text-[#252525] md:text-[60px] font-primary">
+              <h1 className="text-xl lg:text-[40px] leading-tight leading-relaxed xl:inline text-[#252525] md:text-[60px] font-primary">
                 <ReactMarkdown>{props.data.title}</ReactMarkdown>
               </h1>
             ) : null}
