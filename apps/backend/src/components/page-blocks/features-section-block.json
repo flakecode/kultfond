@@ -22,7 +22,7 @@
     },
     "variant": {
       "type": "enumeration",
-      "enum": ["with-icon", "kultfond-contacts"],
+      "enum": ["with-icon", "kultfond-contacts", "kultfond-years"],
       "default": "with-icon",
       "required": true
     },

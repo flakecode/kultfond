@@ -30,8 +30,11 @@
         "simple-centered",
         "split",
         "kultfond-media-on-right",
+        "kultfond-media-on-right-small",
         "kultfond-description",
-        "kultfond-message-from-management"
+        "kultfond-description-light",
+        "kultfond-message-from-management",
+        "kultfond-quote"
       ],
       "default": "simple-centered",
       "required": true

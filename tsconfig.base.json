@@ -812,6 +812,9 @@
       "@sps/sps-website-builder-models-feature-frontend-component-variants-startup-kultfond-contact": [
         "libs/modules/sps-website-builder/models/feature/frontend/component/variants/startup/kultfond-contact/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-feature-frontend-component-variants-startup-kultfond-year": [
+        "libs/modules/sps-website-builder/models/feature/frontend/component/variants/startup/kultfond-year/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-feature-frontend-redux": [
         "libs/modules/sps-website-builder/models/feature/frontend/redux/src/index.ts"
       ],
@@ -835,6 +838,9 @@
       ],
       "@sps/sps-website-builder-models-features-section-block-frontend-component-variants-startup-kultfond-contacts": [
         "libs/modules/sps-website-builder/models/features-section-block/frontend/component/variants/startup/kultfond-contacts/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-features-section-block-frontend-component-variants-startup-kultfond-years": [
+        "libs/modules/sps-website-builder/models/features-section-block/frontend/component/variants/startup/kultfond-years/src/index.ts"
       ],
       "@sps/sps-website-builder-models-features-section-block-frontend-redux": [
         "libs/modules/sps-website-builder/models/features-section-block/frontend/redux/src/index.ts"
@@ -971,11 +977,20 @@
       "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-startup-kultfond-description": [
         "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/startup/kultfond-description/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-startup-kultfond-description-light": [
+        "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/startup/kultfond-description-light/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-startup-kultfond-media-on-right": [
         "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/startup/kultfond-media-on-right/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-startup-kultfond-media-on-right-small": [
+        "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/startup/kultfond-media-on-right-small/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-startup-kultfond-message-from-management": [
         "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/startup/kultfond-message-from-management/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-hero-section-block-frontend-component-variants-startup-kultfond-quote": [
+        "libs/modules/sps-website-builder/models/hero-section-block/frontend/component/variants/startup/kultfond-quote/src/index.ts"
       ],
       "@sps/sps-website-builder-models-hero-section-block-frontend-redux": [
         "libs/modules/sps-website-builder/models/hero-section-block/frontend/redux/src/index.ts"
