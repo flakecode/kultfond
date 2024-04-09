@@ -45,7 +45,7 @@ function DisclosureInner({
     <div className="mx-auto flex flex-row w-full">
       <div className="flex w-full justify-between lg:pt-8">
         <div className="flex w-full px-2 lg:px-0 justify-between">
-          <div className="flex flex-col gap-4 w-10/12 lg:w-4/12">
+          <div className="flex flex-col gap-4 w-10/12 lg:w-4/12 max-w-[450px]">
             {props.data.logotype ? (
               <Link href={props.data.logotype?.url || "/"}>
                 <Logotype

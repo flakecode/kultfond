@@ -9,7 +9,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="hero-section-block"
       data-variant={props.variant}
-      className="w-full px-4 lg:px-0 pt-24 pb-32 bg-[#F5F5F5]"
+      className={`w-full px-4 lg:px-0 bg-[#F5F5F5] ${props.data.className || "pt-24 pb-32"}`}
     >
       <div className="mx-auto max-w-7xl flex flex-col lg:flex-row items-center gap-12">
         <div className="w-full lg:w-[50%] -ml-[10%] flex">

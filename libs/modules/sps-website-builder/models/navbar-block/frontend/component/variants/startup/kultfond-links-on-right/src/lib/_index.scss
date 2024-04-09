@@ -2,7 +2,7 @@
   &[data-model="page-blocks.navbar-block"] {
     &[data-variant="kultfond-links-on-right"] {
       [data-ui="button"][data-ui-variant="link"] {
-        @apply text-wrap text-center text-4xl lg:text-lg p-0;
+        @apply font-primary font-normal text-wrap text-center text-4xl lg:text-lg p-0;
       }
     }
   }

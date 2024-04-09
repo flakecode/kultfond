@@ -11,7 +11,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="projects-list-block"
       data-variant={props.variant}
-      className="w-full px-4 lg:px-0 pb-32 bg-[#F5F5F5]"
+      className={`w-full px-4 lg:px-0 bg-[#F5F5F5] ${props.data.className || "pb-32"}`}
     >
       <div className="mx-auto w-full max-w-7xl flex flex-col gap-12">
         {props.data.title ? (
