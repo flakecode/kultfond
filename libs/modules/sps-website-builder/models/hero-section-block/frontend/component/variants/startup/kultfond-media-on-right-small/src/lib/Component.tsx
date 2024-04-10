@@ -47,7 +47,7 @@ export function Component(props: IComponentPropsExtended) {
                       variant="image"
                       isServer={false}
                       data={props.data.additionalMedia[0]}
-                      containerClassName="w-full relative aspect-w-4 aspect-h-4"
+                      containerClassName="w-full relative aspect-w-4 aspect-h-3"
                       className="object-contain"
                     />
                     {/* <div className="absolute inset-y-0 w-1/3 bg-gradient-to-r from-[#F4F4F4]"></div> */}

@@ -91,7 +91,7 @@ function DisclosureInner({
       </div>
 
       <Disclosure.Panel className="fixed flex flex-col items-center w-screen h-screen bg-white lg:hidden p-2">
-        <div className="w-10/12 h-full flex flex-col items-center justify-center gap-20 font-primary">
+        <div className="w-10/12 h-full flex flex-col items-center justify-center gap-20">
           {props.data.buttons?.map((button, index) => {
             return (
               <Button
