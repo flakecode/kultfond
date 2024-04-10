@@ -3,7 +3,7 @@
   "title": "Смольный Собор",
   "location": "Санкт-Петербург",
   "createdAt": "2024-04-10T00:04:07.352Z",
-  "updatedAt": "2024-04-10T12:42:13.690Z",
+  "updatedAt": "2024-04-10T14:36:29.264Z",
   "publishedAt": "2024-04-10T00:04:08.739Z",
   "locale": "en",
   "localizations": [],
@@ -178,6 +178,30 @@
       "additional_media": null
     },
     {
+      "__component": "page-blocks.slider-block",
+      "id": 5,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 4,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Входная группа",
+        "uid": null,
+        "createdAt": "2024-04-10T14:33:21.296Z",
+        "updatedAt": "2024-04-10T14:33:22.127Z",
+        "publishedAt": "2024-04-10T14:33:22.113Z",
+        "locale": "en"
+      }
+    },
+    {
       "__component": "page-blocks.hero-section-block",
       "id": 36,
       "title": "Иконостас",
@@ -190,6 +214,30 @@
       "additional_media": null
     },
     {
+      "__component": "page-blocks.slider-block",
+      "id": 6,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 5,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Иконостас",
+        "uid": null,
+        "createdAt": "2024-04-10T14:36:03.138Z",
+        "updatedAt": "2024-04-10T14:36:04.378Z",
+        "publishedAt": "2024-04-10T14:36:04.371Z",
+        "locale": "en"
+      }
+    },
+    {
       "__component": "page-blocks.hero-section-block",
       "id": 38,
       "title": "Музей «Собрание ангелов»",
@@ -200,6 +248,30 @@
       "media": null,
       "buttons": [],
       "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 4,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 3,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Музей «Собрание ангелов»",
+        "uid": null,
+        "createdAt": "2024-04-10T14:27:29.846Z",
+        "updatedAt": "2024-04-10T14:31:55.324Z",
+        "publishedAt": "2024-04-10T14:27:30.578Z",
+        "locale": "en"
+      }
     },
     {
       "__component": "page-blocks.hero-section-block",

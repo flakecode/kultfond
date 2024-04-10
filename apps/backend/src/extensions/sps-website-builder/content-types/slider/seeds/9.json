@@ -1,0 +1,625 @@
+{
+  "id": 9,
+  "variant": "fade-with-previews",
+  "show_full_screen": false,
+  "show_previews": false,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "Храм иконы Божией Матери «Всех скорбящих Радость (с грошиками)»",
+  "uid": null,
+  "createdAt": "2024-04-10T14:47:28.598Z",
+  "updatedAt": "2024-04-10T14:47:29.478Z",
+  "publishedAt": "2024-04-10T14:47:29.472Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 67,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 141,
+          "name": "DJI_0430.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1266,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_DJI_0430_405c85ba9a.webp",
+              "hash": "large_DJI_0430_405c85ba9a",
+              "mime": "image/webp",
+              "name": "large_DJI_0430.webp",
+              "path": null,
+              "size": 120.2,
+              "width": 1000,
+              "height": 666
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_DJI_0430_405c85ba9a.webp",
+              "hash": "small_DJI_0430_405c85ba9a",
+              "mime": "image/webp",
+              "name": "small_DJI_0430.webp",
+              "path": null,
+              "size": 32.88,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_DJI_0430_405c85ba9a.webp",
+              "hash": "medium_DJI_0430_405c85ba9a",
+              "mime": "image/webp",
+              "name": "medium_DJI_0430.webp",
+              "path": null,
+              "size": 70.86,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_DJI_0430_405c85ba9a.webp",
+              "hash": "thumbnail_DJI_0430_405c85ba9a",
+              "mime": "image/webp",
+              "name": "thumbnail_DJI_0430.webp",
+              "path": null,
+              "size": 8.06,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "DJI_0430_405c85ba9a",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 430.51,
+          "url": "/uploads/DJI_0430_405c85ba9a.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:46:52.853Z",
+          "updatedAt": "2024-04-10T14:46:52.853Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 64,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 140,
+          "name": "DJI_0428.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1266,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_DJI_0428_e8f76cd7ac.webp",
+              "hash": "large_DJI_0428_e8f76cd7ac",
+              "mime": "image/webp",
+              "name": "large_DJI_0428.webp",
+              "path": null,
+              "size": 82.78,
+              "width": 1000,
+              "height": 666
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_DJI_0428_e8f76cd7ac.webp",
+              "hash": "small_DJI_0428_e8f76cd7ac",
+              "mime": "image/webp",
+              "name": "small_DJI_0428.webp",
+              "path": null,
+              "size": 23.59,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_DJI_0428_e8f76cd7ac.webp",
+              "hash": "medium_DJI_0428_e8f76cd7ac",
+              "mime": "image/webp",
+              "name": "medium_DJI_0428.webp",
+              "path": null,
+              "size": 49.05,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_DJI_0428_e8f76cd7ac.webp",
+              "hash": "thumbnail_DJI_0428_e8f76cd7ac",
+              "mime": "image/webp",
+              "name": "thumbnail_DJI_0428.webp",
+              "path": null,
+              "size": 6.09,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "DJI_0428_e8f76cd7ac",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 303.04,
+          "url": "/uploads/DJI_0428_e8f76cd7ac.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:46:52.838Z",
+          "updatedAt": "2024-04-10T14:46:52.838Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 68,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 139,
+          "name": "DJI_0477.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1266,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_DJI_0477_842eabb23d.webp",
+              "hash": "large_DJI_0477_842eabb23d",
+              "mime": "image/webp",
+              "name": "large_DJI_0477.webp",
+              "path": null,
+              "size": 128.05,
+              "width": 1000,
+              "height": 666
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_DJI_0477_842eabb23d.webp",
+              "hash": "small_DJI_0477_842eabb23d",
+              "mime": "image/webp",
+              "name": "small_DJI_0477.webp",
+              "path": null,
+              "size": 36.84,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_DJI_0477_842eabb23d.webp",
+              "hash": "medium_DJI_0477_842eabb23d",
+              "mime": "image/webp",
+              "name": "medium_DJI_0477.webp",
+              "path": null,
+              "size": 74.93,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_DJI_0477_842eabb23d.webp",
+              "hash": "thumbnail_DJI_0477_842eabb23d",
+              "mime": "image/webp",
+              "name": "thumbnail_DJI_0477.webp",
+              "path": null,
+              "size": 9.34,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "DJI_0477_842eabb23d",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 472.48,
+          "url": "/uploads/DJI_0477_842eabb23d.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:46:52.515Z",
+          "updatedAt": "2024-04-10T14:46:52.515Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 66,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 138,
+          "name": "DJI_0434.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1266,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_DJI_0434_d881c2ad4a.webp",
+              "hash": "large_DJI_0434_d881c2ad4a",
+              "mime": "image/webp",
+              "name": "large_DJI_0434.webp",
+              "path": null,
+              "size": 116.03,
+              "width": 1000,
+              "height": 666
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_DJI_0434_d881c2ad4a.webp",
+              "hash": "small_DJI_0434_d881c2ad4a",
+              "mime": "image/webp",
+              "name": "small_DJI_0434.webp",
+              "path": null,
+              "size": 33.33,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_DJI_0434_d881c2ad4a.webp",
+              "hash": "medium_DJI_0434_d881c2ad4a",
+              "mime": "image/webp",
+              "name": "medium_DJI_0434.webp",
+              "path": null,
+              "size": 69.31,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_DJI_0434_d881c2ad4a.webp",
+              "hash": "thumbnail_DJI_0434_d881c2ad4a",
+              "mime": "image/webp",
+              "name": "thumbnail_DJI_0434.webp",
+              "path": null,
+              "size": 8.61,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "DJI_0434_d881c2ad4a",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 410.41,
+          "url": "/uploads/DJI_0434_d881c2ad4a.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:46:52.372Z",
+          "updatedAt": "2024-04-10T14:46:52.372Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 65,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 137,
+          "name": "GEO04419.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_04419_1c978c0264.webp",
+              "hash": "large_GEO_04419_1c978c0264",
+              "mime": "image/webp",
+              "name": "large_GEO04419.webp",
+              "path": null,
+              "size": 94.78,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_04419_1c978c0264.webp",
+              "hash": "small_GEO_04419_1c978c0264",
+              "mime": "image/webp",
+              "name": "small_GEO04419.webp",
+              "path": null,
+              "size": 23.59,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_04419_1c978c0264.webp",
+              "hash": "medium_GEO_04419_1c978c0264",
+              "mime": "image/webp",
+              "name": "medium_GEO04419.webp",
+              "path": null,
+              "size": 52.7,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_04419_1c978c0264.webp",
+              "hash": "thumbnail_GEO_04419_1c978c0264",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO04419.webp",
+              "path": null,
+              "size": 6.55,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_04419_1c978c0264",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 445.69,
+          "url": "/uploads/GEO_04419_1c978c0264.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:46:52.322Z",
+          "updatedAt": "2024-04-10T14:46:52.322Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 69,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 136,
+          "name": "ZD5_3189 2 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1425,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_ZD_5_3189_2_copy_339dc3db43.webp",
+              "hash": "large_ZD_5_3189_2_copy_339dc3db43",
+              "mime": "image/webp",
+              "name": "large_ZD5_3189 2 copy.webp",
+              "path": null,
+              "size": 109.01,
+              "width": 1000,
+              "height": 750
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_ZD_5_3189_2_copy_339dc3db43.webp",
+              "hash": "small_ZD_5_3189_2_copy_339dc3db43",
+              "mime": "image/webp",
+              "name": "small_ZD5_3189 2 copy.webp",
+              "path": null,
+              "size": 28.41,
+              "width": 500,
+              "height": 375
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_ZD_5_3189_2_copy_339dc3db43.webp",
+              "hash": "medium_ZD_5_3189_2_copy_339dc3db43",
+              "mime": "image/webp",
+              "name": "medium_ZD5_3189 2 copy.webp",
+              "path": null,
+              "size": 61.85,
+              "width": 750,
+              "height": 562
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_ZD_5_3189_2_copy_339dc3db43.webp",
+              "hash": "thumbnail_ZD_5_3189_2_copy_339dc3db43",
+              "mime": "image/webp",
+              "name": "thumbnail_ZD5_3189 2 copy.webp",
+              "path": null,
+              "size": 6.17,
+              "width": 208,
+              "height": 156
+            }
+          },
+          "hash": "ZD_5_3189_2_copy_339dc3db43",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 428.5,
+          "url": "/uploads/ZD_5_3189_2_copy_339dc3db43.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:46:52.314Z",
+          "updatedAt": "2024-04-10T14:46:52.314Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 70,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 135,
+          "name": "DJI_0462.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1266,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_DJI_0462_3c42f7baf5.webp",
+              "hash": "large_DJI_0462_3c42f7baf5",
+              "mime": "image/webp",
+              "name": "large_DJI_0462.webp",
+              "path": null,
+              "size": 107.26,
+              "width": 1000,
+              "height": 666
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_DJI_0462_3c42f7baf5.webp",
+              "hash": "small_DJI_0462_3c42f7baf5",
+              "mime": "image/webp",
+              "name": "small_DJI_0462.webp",
+              "path": null,
+              "size": 33.2,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_DJI_0462_3c42f7baf5.webp",
+              "hash": "medium_DJI_0462_3c42f7baf5",
+              "mime": "image/webp",
+              "name": "medium_DJI_0462.webp",
+              "path": null,
+              "size": 66.42,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_DJI_0462_3c42f7baf5.webp",
+              "hash": "thumbnail_DJI_0462_3c42f7baf5",
+              "mime": "image/webp",
+              "name": "thumbnail_DJI_0462.webp",
+              "path": null,
+              "size": 8.98,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "DJI_0462_3c42f7baf5",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 361.3,
+          "url": "/uploads/DJI_0462_3c42f7baf5.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:46:52.219Z",
+          "updatedAt": "2024-04-10T14:46:52.219Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 71,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 134,
+          "name": "DJI_0485.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1266,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_DJI_0485_08ff8f2fb4.webp",
+              "hash": "large_DJI_0485_08ff8f2fb4",
+              "mime": "image/webp",
+              "name": "large_DJI_0485.webp",
+              "path": null,
+              "size": 76.48,
+              "width": 1000,
+              "height": 666
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_DJI_0485_08ff8f2fb4.webp",
+              "hash": "small_DJI_0485_08ff8f2fb4",
+              "mime": "image/webp",
+              "name": "small_DJI_0485.webp",
+              "path": null,
+              "size": 23.61,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_DJI_0485_08ff8f2fb4.webp",
+              "hash": "medium_DJI_0485_08ff8f2fb4",
+              "mime": "image/webp",
+              "name": "medium_DJI_0485.webp",
+              "path": null,
+              "size": 46.82,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_DJI_0485_08ff8f2fb4.webp",
+              "hash": "thumbnail_DJI_0485_08ff8f2fb4",
+              "mime": "image/webp",
+              "name": "thumbnail_DJI_0485.webp",
+              "path": null,
+              "size": 6.53,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "DJI_0485_08ff8f2fb4",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 277.75,
+          "url": "/uploads/DJI_0485_08ff8f2fb4.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:46:52.107Z",
+          "updatedAt": "2024-04-10T14:46:52.107Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}
