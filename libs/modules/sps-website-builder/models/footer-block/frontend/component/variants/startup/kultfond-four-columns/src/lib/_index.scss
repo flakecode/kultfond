@@ -10,15 +10,15 @@
             }
 
             .buttons-array-description {
-              @apply text-white text-opacity-50 text-sm lg:text-lg;
+              @apply text-white text-opacity-50 text-sm lg:text-base;
             }
 
             .buttons-array-buttons-container {
-              @apply gap-2 lg:gap-5;
+              @apply gap-2 lg:gap-4;
 
               [data-ui="button"] {
                 &[data-ui-variant="link"] {
-                  @apply text-white text-opacity-50 hover:text-[#A48A67] text-sm lg:text-lg;
+                  @apply text-white text-opacity-50 hover:text-[#A48A67] text-sm lg:text-base;
                 }
               }
             }

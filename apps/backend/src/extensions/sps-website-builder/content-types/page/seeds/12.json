@@ -3,7 +3,7 @@
   "title": "Contacts",
   "url": "/contacts",
   "createdAt": "2024-04-09T11:08:03.873Z",
-  "updatedAt": "2024-04-09T11:09:17.768Z",
+  "updatedAt": "2024-04-10T11:35:20.513Z",
   "publishedAt": "2024-04-09T11:08:07.474Z",
   "locale": "en",
   "localizations": [],
@@ -30,7 +30,7 @@
         },
         {
           "id": 13,
-          "description": "[press@kultfond.сom](mailto:press@kultfond.сom)",
+          "description": "[info@kultfond.сom](mailto:info@kultfond.сom)",
           "title": "Адрес электронной почты",
           "subtitle": null,
           "media": null,

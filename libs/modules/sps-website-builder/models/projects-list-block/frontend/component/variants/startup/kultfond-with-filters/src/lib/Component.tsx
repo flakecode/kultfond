@@ -20,66 +20,106 @@ export function Component(props: IComponentPropsExtended) {
       >
         {({ data: query }) => {
           return (
-            <div className="mx-auto w-full max-w-7xl flex flex-col gap-12">
-              {props.data.title ? (
-                <h1 className="text-4xl tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl font-primary">
-                  <ReactMarkdown>{props.data.title}</ReactMarkdown>
-                </h1>
-              ) : null}
-              <Category isServer={props.isServer} variant="kultfond-get-all">
-                {({ data }) => {
-                  return (
-                    <div className="flex flex-col lg:flex-row">
-                      <Link
-                        data-module="startup"
-                        data-model="category"
-                        data-variant={props.variant}
-                        className="px-5 py-3 lg:px-8 lg:py-4 text-base lg:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left"
-                        href="?"
-                      >
-                        <p className="">Все проекты</p>
-                        <div
-                          className={`absolute inset-x-0 h-[2px] ${typeof query === "object" && Object.keys(query).length === 0 ? "bg-black" : "bg-[#D2D2D2]"} bottom-0`}
-                        />
-                      </Link>
-                      {data?.map((category, index) => {
-                        return (
-                          <Category
-                            key={index}
-                            isServer={props.isServer}
-                            variant="kultfond-set-query-button"
-                            data={category}
-                            query={query}
+            <div className="mx-auto w-full flex flex-col gap-12">
+              <div className="mx-auto w-full max-w-7xl">
+                {props.data.title ? (
+                  <h1 className="text-4xl tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl font-primary">
+                    <ReactMarkdown>{props.data.title}</ReactMarkdown>
+                  </h1>
+                ) : null}
+              </div>
+              <div className="mx-auto w-full max-w-7xl">
+                <Category isServer={props.isServer} variant="kultfond-get-all">
+                  {({ data }) => {
+                    return (
+                      <div className="flex flex-col lg:flex-row">
+                        <Link
+                          data-module="startup"
+                          data-model="category"
+                          data-variant={props.variant}
+                          className="px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left"
+                          href="?"
+                        >
+                          <p className="">Все проекты</p>
+                          <div
+                            className={`absolute inset-x-0 h-[2px] ${typeof query === "object" && Object.keys(query).length === 0 ? "bg-black" : "bg-[#D2D2D2]"} bottom-0`}
                           />
-                        );
-                      })}
-                    </div>
-                  );
-                }}
-              </Category>
-
-              <Project
-                isServer={props.isServer}
-                variant="kultfond-get-all"
-                query={query}
-              >
-                {({ data }) => {
-                  return (
-                    <div className="flex flex-col lg:grid grid-cols-3 gap-4 lg:gap-8">
-                      {data?.map((project, index) => {
-                        return (
-                          <Project
-                            key={index}
-                            isServer={props.isServer}
-                            variant="kultfond-card"
-                            data={project}
+                        </Link>
+                        {data?.map((category, index) => {
+                          return (
+                            <Category
+                              key={index}
+                              isServer={props.isServer}
+                              variant="kultfond-set-query-button"
+                              data={category}
+                              query={query}
+                            />
+                          );
+                        })}
+                        <Link
+                          data-module="startup"
+                          data-model="category"
+                          data-variant={props.variant}
+                          className="px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left"
+                          href="?filters[title]=Колокольня Смольного собора"
+                        >
+                          <p className="">Колокольня Смольного собора</p>
+                          <div
+                            className={`absolute inset-x-0 h-[2px] ${query?.filters?.title === "Колокольня Смольного собора" ? "bg-black" : "bg-[#D2D2D2]"} bottom-0`}
                           />
-                        );
-                      })}
-                    </div>
-                  );
-                }}
-              </Project>
+                        </Link>
+                      </div>
+                    );
+                  }}
+                </Category>
+              </div>
+              {query?.filters?.title === "Колокольня Смольного собора" ? (
+                <Project
+                  isServer={props.isServer}
+                  variant="kultfond-get-all"
+                  query={query}
+                >
+                  {({ data }) => {
+                    return (
+                      <div className="w-full">
+                        {data?.map((project, index) => {
+                          return (
+                            <Project
+                              key={index}
+                              isServer={props.isServer}
+                              variant="kultfond-overview"
+                              data={project}
+                            />
+                          );
+                        })}
+                      </div>
+                    );
+                  }}
+                </Project>
+              ) : (
+                <Project
+                  isServer={props.isServer}
+                  variant="kultfond-get-all"
+                  query={query}
+                >
+                  {({ data }) => {
+                    return (
+                      <div className="mx-auto w-full max-w-7xl flex flex-col lg:grid grid-cols-3 gap-4 lg:gap-8">
+                        {data?.map((project, index) => {
+                          return (
+                            <Project
+                              key={index}
+                              isServer={props.isServer}
+                              variant="kultfond-card"
+                              data={project}
+                            />
+                          );
+                        })}
+                      </div>
+                    );
+                  }}
+                </Project>
+              )}
             </div>
           );
         }}
