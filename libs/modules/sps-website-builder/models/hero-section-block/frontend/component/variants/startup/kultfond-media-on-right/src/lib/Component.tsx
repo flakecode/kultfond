@@ -10,13 +10,13 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="hero-section-block"
       data-variant={props.variant}
-      className={`w-full overflow-hidden bg-gradient-to-b from-white to-[#F5F5F5] px-4 lg:px-0 ${props.data.className || ""}`}
+      className={`w-full overflow-hidden bg-gradient-to-b from-white to-[#F5F5F5] px-4 lg:px-2 ${props.data.className || ""}`}
     >
       <div className="mx-auto max-w-7xl">
         <div className="flex items-center justify-between min-h-[50vh] lg:min-h-[70vh]">
-          <div className="flex flex-shrink-0 w-8/12 flex-col gap-16 relative z-10">
+          <div className="flex flex-shrink-0 w-8/12 flex-col gap-16 relative z-10 mt-20">
             {props.data.title ? (
-              <h1 className="text-2xl lg:text-[60px] leading-tight xl:inline text-[#252525] md:text-[60px] font-primary">
+              <h1 className="text-2xl lg:text-[52px] leading-tight text-[#252525] font-primary">
                 <ReactMarkdown>{props.data.title}</ReactMarkdown>
               </h1>
             ) : null}

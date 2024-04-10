@@ -10,7 +10,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="footer-block"
       data-variant={props.variant}
-      className="mx-auto max-w-7xl py-12 px-4 lg:pt-16 lg:pb-5 lg:px-0"
+      className="mx-auto max-w-7xl py-12 px-4 lg:pt-16 lg:pb-5 lg:px-2"
     >
       <div className="flex flex-col gap-4 lg:flex-row justify-between">
         <div className="flex flex-col gap-4 w-9/12 lg:w-4/12">

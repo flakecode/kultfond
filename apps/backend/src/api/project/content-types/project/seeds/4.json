@@ -1,0 +1,179 @@
+{
+  "id": 4,
+  "title": "Памятный знак в честь Троице-Петровского собора ",
+  "location": "Санкт-Петербург, Троицкая площадь",
+  "createdAt": "2024-04-09T23:49:59.525Z",
+  "updatedAt": "2024-04-09T23:50:01.332Z",
+  "publishedAt": "2024-04-09T23:50:01.327Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 60,
+      "name": "1.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1512,
+      "height": 1112,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_1_9d4145bcda.png",
+          "hash": "large_1_9d4145bcda",
+          "mime": "image/png",
+          "name": "large_1.png",
+          "path": null,
+          "size": 684.46,
+          "width": 1000,
+          "height": 735
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_1_9d4145bcda.png",
+          "hash": "small_1_9d4145bcda",
+          "mime": "image/png",
+          "name": "small_1.png",
+          "path": null,
+          "size": 193.51,
+          "width": 500,
+          "height": 368
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_1_9d4145bcda.png",
+          "hash": "medium_1_9d4145bcda",
+          "mime": "image/png",
+          "name": "medium_1.png",
+          "path": null,
+          "size": 405.73,
+          "width": 750,
+          "height": 552
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_1_9d4145bcda.png",
+          "hash": "thumbnail_1_9d4145bcda",
+          "mime": "image/png",
+          "name": "thumbnail_1.png",
+          "path": null,
+          "size": 41.83,
+          "width": 212,
+          "height": 156
+        }
+      },
+      "hash": "1_9d4145bcda",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 421.37,
+      "url": "/uploads/1_9d4145bcda.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-03T22:28:52.604Z",
+      "updatedAt": "2024-04-03T22:28:52.604Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 21,
+      "title": "Памятный знак в честь Троице-Петровского собора ",
+      "description": "Санкт-Петербург, Троицкая площадь",
+      "variant": "kultfond-media-on-right-small",
+      "anchor": null,
+      "class_name": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": [
+        {
+          "id": 60,
+          "name": "1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1512,
+          "height": 1112,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_1_9d4145bcda.png",
+              "hash": "large_1_9d4145bcda",
+              "mime": "image/png",
+              "name": "large_1.png",
+              "path": null,
+              "size": 684.46,
+              "width": 1000,
+              "height": 735
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_1_9d4145bcda.png",
+              "hash": "small_1_9d4145bcda",
+              "mime": "image/png",
+              "name": "small_1.png",
+              "path": null,
+              "size": 193.51,
+              "width": 500,
+              "height": 368
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_1_9d4145bcda.png",
+              "hash": "medium_1_9d4145bcda",
+              "mime": "image/png",
+              "name": "medium_1.png",
+              "path": null,
+              "size": 405.73,
+              "width": 750,
+              "height": 552
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_1_9d4145bcda.png",
+              "hash": "thumbnail_1_9d4145bcda",
+              "mime": "image/png",
+              "name": "thumbnail_1.png",
+              "path": null,
+              "size": 41.83,
+              "width": 212,
+              "height": 156
+            }
+          },
+          "hash": "1_9d4145bcda",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 421.37,
+          "url": "/uploads/1_9d4145bcda.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-03T22:28:52.604Z",
+          "updatedAt": "2024-04-03T22:28:52.604Z"
+        }
+      ]
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 22,
+      "title": null,
+      "description": "Церковь, подарившая название Троицкой площади, была построена Петром I в год основания города, и в ней же Петр Великий принял титул императора. За 230 лет своего существования Троице-Петровский собор много раз менялся: сначала здание было деревянным, потом оно неоднократно горело и перестраивалось. В 1924–1928 годах собор был в очередной раз восстановлен как историческая святыня под наблюдением реставрационной мастерской ленинградского отделения Главнауки. Однако в 1933 году его закрыли, а затем и вовсе снесли, несмотря на то что он числился под охраной как уникальный памятник архитектуры.\n\nФонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге выступил с инициативой установить на Троицкой площади памятный знак в честь первой петербургской церкви. Во второй половине 1990-х годов на месте, где был собор, прошли раскопки, точно установившие расположение фундамента утраченной церкви. Храм стоял в северной части Троицкой площади, где сейчас находятся проезжая часть, газон, тротуар и фасад дома по улице Куйбышева. Таким образом, воссоздание Троице-Петровского собора на прежнем месте невозможно, к тому же деревянное здание не впишется в окружающую застройку. Фонд предложил создать памятный знак с ориентацией на первоначальный облик храма, известный только по рисункам, поскольку строился он до изобретения фотографии.\n\nПредложение было принято администрацией города, и вскоре это знаковое для Петербурга место будет увековечено памятником, который даст жителям и туристам представление о том, как выглядел собор при основании города. Автор скульптурной композиции — известный российский скульптор Павел Шевченко. По предварительным расчетам высота памятного знака составит 2,5 метра: постамент будет высотой 1,4 метра, а скульптура — 1,1 метра. Памятник практически готов, в данный момент ведется подготовка к его установке. ",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "title": "В регионах России",
+      "createdAt": "2024-04-08T21:59:31.508Z",
+      "updatedAt": "2024-04-08T21:59:32.322Z",
+      "publishedAt": "2024-04-08T21:59:32.318Z",
+      "locale": "en"
+    }
+  ]
+}

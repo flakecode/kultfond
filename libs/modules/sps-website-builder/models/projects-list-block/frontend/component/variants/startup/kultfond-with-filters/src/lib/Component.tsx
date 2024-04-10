@@ -12,7 +12,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="projects-list-block"
       data-variant={props.variant}
-      className={`w-full px-4 lg:px-0 bg-[#F5F5F5] ${props.data.className || "py-20 lg:py-40"}`}
+      className={`w-full px-4 lg:px-2 bg-[#F5F5F5] ${props.data.className || "py-20 lg:py-40"}`}
     >
       <PageGetQueryFromUrl
         isServer={props.isServer}
