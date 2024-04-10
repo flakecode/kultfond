@@ -7,7 +7,7 @@
   "position": "fixed",
   "side": "top",
   "createdAt": "2024-04-02T21:53:26.915Z",
-  "updatedAt": "2024-04-03T14:37:18.170Z",
+  "updatedAt": "2024-04-10T12:25:30.520Z",
   "publishedAt": "2023-04-08T05:04:22.148Z",
   "locale": "en",
   "localizations": [
@@ -63,7 +63,7 @@
       "buttons": [
         {
           "id": 12,
-          "url": "/",
+          "url": "/#about",
           "description": null,
           "variant": "link",
           "title": "О фонде",
@@ -86,32 +86,8 @@
           "flyout": null
         },
         {
-          "id": 40,
-          "url": "/",
-          "description": null,
-          "variant": "link",
-          "title": "Новости",
-          "additional_attributes": null,
-          "class_name": null,
-          "media": null,
-          "additional_media": null,
-          "flyout": null
-        },
-        {
-          "id": 41,
-          "url": "/",
-          "description": null,
-          "variant": "link",
-          "title": "Видео о нас",
-          "additional_attributes": null,
-          "class_name": null,
-          "media": null,
-          "additional_media": null,
-          "flyout": null
-        },
-        {
           "id": 42,
-          "url": "/",
+          "url": "/contacts",
           "description": null,
           "variant": "link",
           "title": "Контакты",

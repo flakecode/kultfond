@@ -64,7 +64,8 @@
         "page-blocks.shopping-cart-block",
         "page-blocks.edit-subscription-block",
         "page-blocks.subscription-checkout-form-block",
-        "page-blocks.projects-list-block"
+        "page-blocks.projects-list-block",
+        "page-blocks.project-overview-block"
       ]
     },
     "layout": {

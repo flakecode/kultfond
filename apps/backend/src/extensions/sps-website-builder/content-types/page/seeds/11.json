@@ -1,0 +1,30 @@
+{
+  "id": 11,
+  "title": "Project Page",
+  "url": "/projects/[api::project.project.id]",
+  "createdAt": "2024-04-04T09:52:25.695Z",
+  "updatedAt": "2024-04-04T10:03:57.584Z",
+  "publishedAt": "2024-04-04T09:52:27.029Z",
+  "locale": "en",
+  "localizations": [],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.project-overview-block",
+      "id": 1,
+      "variant": "kultfond-default",
+      "class_name": null,
+      "anchor": null
+    }
+  ],
+  "layout": {
+    "id": 2,
+    "title": "Public Page Layout",
+    "uid": "public-page-layout",
+    "variant": "wide",
+    "class_name": "[&>.layout-container]:pt-16",
+    "createdAt": "2024-04-02T21:53:26.879Z",
+    "updatedAt": "2024-04-02T21:53:32.391Z",
+    "publishedAt": "2023-04-20T03:23:38.447Z",
+    "locale": "en"
+  }
+}

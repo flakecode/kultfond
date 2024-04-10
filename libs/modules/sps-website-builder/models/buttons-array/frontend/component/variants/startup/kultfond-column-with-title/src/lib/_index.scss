@@ -1,17 +1,21 @@
 [data-module="sps-website-builder"] {
-  &[data-model="buttons-array"] {
+  &[data-model="elements.buttons-array"] {
     &[data-variant="kultfond-column-with-title"] {
       .buttons-array-column-with-title {
         @apply flex flex-col gap-2 relative;
 
         .buttons-array-title {
-          @apply relative inline-flex text-sm w-full leading-relaxed opacity-50 uppercase;
+          @apply relative inline-flex text-sm w-full leading-relaxed opacity-50 uppercase mb-2 mb-6;
 
           .icon-container {
             img {
               @apply object-contain object-center;
             }
           }
+        }
+
+        .buttons-array-description {
+          @apply text-sm lg:text-base;
         }
 
         .buttons-array-buttons-container {

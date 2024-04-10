@@ -1,0 +1,245 @@
+{
+  "id": 6,
+  "title": "Храм во имя святых благоверных князей Бориса и Глеба",
+  "location": "Санкт-Петербург, Синопская наб.",
+  "createdAt": "2024-04-09T23:57:21.995Z",
+  "updatedAt": "2024-04-10T11:32:16.635Z",
+  "publishedAt": "2024-04-09T23:57:23.169Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 66,
+      "name": "boris-i-gleb.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1125,
+      "height": 750,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_boris_i_gleb_c9e75d4071.png",
+          "hash": "large_boris_i_gleb_c9e75d4071",
+          "mime": "image/png",
+          "name": "large_boris-i-gleb.png",
+          "path": null,
+          "size": 1514.18,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_boris_i_gleb_c9e75d4071.png",
+          "hash": "small_boris_i_gleb_c9e75d4071",
+          "mime": "image/png",
+          "name": "small_boris-i-gleb.png",
+          "path": null,
+          "size": 404.91,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_boris_i_gleb_c9e75d4071.png",
+          "hash": "medium_boris_i_gleb_c9e75d4071",
+          "mime": "image/png",
+          "name": "medium_boris-i-gleb.png",
+          "path": null,
+          "size": 880.51,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_boris_i_gleb_c9e75d4071.png",
+          "hash": "thumbnail_boris_i_gleb_c9e75d4071",
+          "mime": "image/png",
+          "name": "thumbnail_boris-i-gleb.png",
+          "path": null,
+          "size": 98.84,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "boris_i_gleb_c9e75d4071",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 382.59,
+      "url": "/uploads/boris_i_gleb_c9e75d4071.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-10T01:42:29.049Z",
+      "updatedAt": "2024-04-10T01:42:29.049Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 26,
+      "title": "Храм во имя святых благоверных князей Бориса и Глеба",
+      "description": "Санкт-Петербург, Синопская наб.",
+      "variant": "kultfond-media-on-right-small",
+      "anchor": null,
+      "class_name": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": [
+        {
+          "id": 66,
+          "name": "boris-i-gleb.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1125,
+          "height": 750,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_boris_i_gleb_c9e75d4071.png",
+              "hash": "large_boris_i_gleb_c9e75d4071",
+              "mime": "image/png",
+              "name": "large_boris-i-gleb.png",
+              "path": null,
+              "size": 1514.18,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_boris_i_gleb_c9e75d4071.png",
+              "hash": "small_boris_i_gleb_c9e75d4071",
+              "mime": "image/png",
+              "name": "small_boris-i-gleb.png",
+              "path": null,
+              "size": 404.91,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_boris_i_gleb_c9e75d4071.png",
+              "hash": "medium_boris_i_gleb_c9e75d4071",
+              "mime": "image/png",
+              "name": "medium_boris-i-gleb.png",
+              "path": null,
+              "size": 880.51,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_boris_i_gleb_c9e75d4071.png",
+              "hash": "thumbnail_boris_i_gleb_c9e75d4071",
+              "mime": "image/png",
+              "name": "thumbnail_boris-i-gleb.png",
+              "path": null,
+              "size": 98.84,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "boris_i_gleb_c9e75d4071",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 382.59,
+          "url": "/uploads/boris_i_gleb_c9e75d4071.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T01:42:29.049Z",
+          "updatedAt": "2024-04-10T01:42:29.049Z"
+        }
+      ]
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 25,
+      "title": null,
+      "description": "Красивый массивный пятиглавый храм в русско-византийском стиле, что возвышался на невской набережной, был одним из лучших образцов церковного строительства времён царствования Александра II. Газеты тех времён отмечали грандиозность и величие здания.\n\nСвоим масштабом оно вполне соответствовало местоположению на набережной Большой Невы. Его фасады отличались не только пышностью, но и необычностью декоративного оформления. По свидетельству современников, своими размерами и богатством убранства Борисоглебская церковь превосходила многие петербургские приходские церкви.\n\nВходили в храм с трёх сторон по высоким ступеням гранитных крылец. Порталы входов были оформлены высеченными словами из 19-го псалма и выполнены из серого гранита в скульптурной мастерской Грацциозо Ботта. Высокий цоколь также был облицован гранитом. Гранёный барабан главного золочёного шатрового купола украшали 12 лепных изображений апостолов работы Э. В. Менерта.\n\nВ интерьере основного помещения церкви полы были из белого и чёрного мрамора. Стены и своды были расписаны П. П. Кохом трафаретной живописью в «русском» стиле. Фрески выполнил известный мастер В. М. Пешехонов. Иконы в величественном иконостасе работы резчика В. П. Шутова написаны В. В. Васильевым и В. М. Пошехоновым, мастерами «византийского извода». Дорогую серебряную утварь из мастерской ювелира Холщевникова подарил почётный гражданин И. В. Галунов, приурочив свой дар ко дню освящения церкви. ",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "py-5",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.features-section-block",
+      "id": 6,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "variant": "kultfond-years",
+      "anchor": null,
+      "class_name": "py-5",
+      "media": null,
+      "additional_media": null,
+      "features": [
+        {
+          "id": 31,
+          "description": "После покушения на Императора у хлебных торговцев-оптовиков Калашниковской биржи возникла мысль о постройке храма. Собрав 150 тыс. рублей, они приобрели участок у Малоохтинского перевоза через Неву. ",
+          "title": "1866",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 30,
+          "description": "16 августа митрополит Исидор заложил здесь храм во имя Божией Матери «Всех скорбящих радости». ",
+          "title": "1869",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 33,
+          "description": "22 января после долгих лет строительства церковь была освящена митрополитом Исидором. \nПри освящении, по желанию Александра III, расширенный во время постройки храм был наречён во имя благоверных князей Бориса и Глеба, которые явились перед битвой на Неве св. Александру Невскому. Боковые приделы освятили во имя Феодоровской Божией Матери, родовой святыни Дома Романовых, в монастыре которой умер благоверный князь, и прп. Александра Свирского, в дни памяти коего родился Александр II и был подписан Ништадтский мир.\nТаким образом, названия приделов имели символический смысл и были связаны с историей и предысторией Петербурга.",
+          "title": "1882",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 32,
+          "description": "Борисоглебская церковь была закрыта, её главы разобраны. В здании разместили производственные цеха по производству комбикормов. 15 декабря 1952 г. Калашниковская набережная была переименована в Синопскую.",
+          "title": "1934",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 34,
+          "description": "Обветшалый корпус церкви был полностью разобран, фундамент засыпан, через него проложили дорогу.",
+          "title": "1975",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        }
+      ]
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 27,
+      "title": null,
+      "description": "Проектом рассматривается воссоздание утраченного храма как композиционной доминанты в исторической застройке. Здание Борисоглебской церкви высотой 54 м от уровня земли и до креста и габаритными размерами 37х48 м с крыльцами – в непосредственной близости от её фундамента, над которым в настоящее время проложена автомагистраль. Внешний облик церкви проектируется на основании иконографического материала и исторических фотографий.\n\nПредлагаемый для строительства участок вытянут с севера на юг, в связи с этим церковь необходимо развернуть и ориентировать не на запад-восток, а на север-юг. Главный вход в здание – с южной стороны, а вход в храм с боковых фасадов из-за ограниченной ширины участка будет осуществляться с уровня тротуара.\n\nПеред церковью предусматривается сквер с зелёными насаждениями и зонами отдыха прихожан. На территории предусмотрена гостевая автопарковка, в т. ч. с местами для маломобильных групп населения (МГН).",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "В стадии реализации",
+      "createdAt": "2024-04-08T21:58:51.234Z",
+      "updatedAt": "2024-04-10T11:30:30.379Z",
+      "publishedAt": "2024-04-08T21:58:52.745Z",
+      "locale": "en"
+    }
+  ]
+}

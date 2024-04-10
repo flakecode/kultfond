@@ -1,0 +1,191 @@
+{
+  "id": 3,
+  "title": "Памятная табличка на Памятнике Николаю I",
+  "location": "Санкт-Петербург",
+  "createdAt": "2024-04-03T22:30:53.206Z",
+  "updatedAt": "2024-04-10T11:31:29.708Z",
+  "publishedAt": "2024-04-03T22:30:53.899Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 72,
+      "name": "pamyatnaya.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1125,
+      "height": 750,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_pamyatnaya_9c90271d76.png",
+          "hash": "large_pamyatnaya_9c90271d76",
+          "mime": "image/png",
+          "name": "large_pamyatnaya.png",
+          "path": null,
+          "size": 1669.22,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_pamyatnaya_9c90271d76.png",
+          "hash": "small_pamyatnaya_9c90271d76",
+          "mime": "image/png",
+          "name": "small_pamyatnaya.png",
+          "path": null,
+          "size": 446.62,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_pamyatnaya_9c90271d76.png",
+          "hash": "medium_pamyatnaya_9c90271d76",
+          "mime": "image/png",
+          "name": "medium_pamyatnaya.png",
+          "path": null,
+          "size": 969.73,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_pamyatnaya_9c90271d76.png",
+          "hash": "thumbnail_pamyatnaya_9c90271d76",
+          "mime": "image/png",
+          "name": "thumbnail_pamyatnaya.png",
+          "path": null,
+          "size": 107.58,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "pamyatnaya_9c90271d76",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 419.26,
+      "url": "/uploads/pamyatnaya_9c90271d76.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-10T01:45:04.694Z",
+      "updatedAt": "2024-04-10T01:45:04.694Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 11,
+      "title": "Памятная табличка на Памятнике Николаю I",
+      "description": "Санкт-Петербург",
+      "variant": "kultfond-media-on-right-small",
+      "anchor": null,
+      "class_name": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": [
+        {
+          "id": 72,
+          "name": "pamyatnaya.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1125,
+          "height": 750,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_pamyatnaya_9c90271d76.png",
+              "hash": "large_pamyatnaya_9c90271d76",
+              "mime": "image/png",
+              "name": "large_pamyatnaya.png",
+              "path": null,
+              "size": 1669.22,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pamyatnaya_9c90271d76.png",
+              "hash": "small_pamyatnaya_9c90271d76",
+              "mime": "image/png",
+              "name": "small_pamyatnaya.png",
+              "path": null,
+              "size": 446.62,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_pamyatnaya_9c90271d76.png",
+              "hash": "medium_pamyatnaya_9c90271d76",
+              "mime": "image/png",
+              "name": "medium_pamyatnaya.png",
+              "path": null,
+              "size": 969.73,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pamyatnaya_9c90271d76.png",
+              "hash": "thumbnail_pamyatnaya_9c90271d76",
+              "mime": "image/png",
+              "name": "thumbnail_pamyatnaya.png",
+              "path": null,
+              "size": 107.58,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "pamyatnaya_9c90271d76",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 419.26,
+          "url": "/uploads/pamyatnaya_9c90271d76.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T01:45:04.694Z",
+          "updatedAt": "2024-04-10T01:45:04.694Z"
+        }
+      ]
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 19,
+      "title": "Где раз поднят русский флаг,  там он уже спускаться не должен",
+      "description": null,
+      "variant": "kultfond-quote",
+      "anchor": null,
+      "class_name": "py-10",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 20,
+      "title": null,
+      "description": "13 августа 1850 года в устье Амура капитан Геннадий Невельский водрузил флаг России и основал Николаевский пост (ныне Николаевск-на-Амуре), названный в честь здравствующего императора, и водрузил на посту российский флаг.\n\nДействия Невельского шли вразрез с дальневосточной политикой Министерства иностранных дел. Глава ведомства Карл Нессельроде предлагал отказаться от амурского бассейна и навсегда передать его Китаю.\n\nОднако политическая воля императора оказалась сильнее представлений Нессельроде, он назвал поступок Геннадия Невельского молодецким, а на докладе Особого Комитета, рассматривающего это дело, начертал: «Где раз поднят русский флаг, там он спускаться не должен».\n\nПамятная табличка установлена Фондом на ограде памятника в рамках проводимой КГИОП полной реставрации скульптурной композиции. ",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "title": "Завершённые проекты",
+      "createdAt": "2024-04-08T21:59:47.741Z",
+      "updatedAt": "2024-04-10T11:30:25.472Z",
+      "publishedAt": "2024-04-08T21:59:48.415Z",
+      "locale": "en"
+    }
+  ]
+}

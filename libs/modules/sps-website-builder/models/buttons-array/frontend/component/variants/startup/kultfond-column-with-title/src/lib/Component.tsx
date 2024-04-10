@@ -1,10 +1,10 @@
 import React from "react";
 import { Component as Button } from "@sps/sps-website-builder-models-button-frontend-component";
 import Image from "next/image";
-import { getFileUrl } from "@sps/shared-frontend-utils-client";
 import { IComponentPropsExtended } from "./interface";
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
+import { getFileUrl } from "@sps/shared-utils";
 
 export function Component(props: IComponentPropsExtended) {
   return (

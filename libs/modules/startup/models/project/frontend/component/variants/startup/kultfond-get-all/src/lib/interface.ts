@@ -1,5 +1,6 @@
 import { IModel } from "@sps/startup-models-project-contracts";
 import { IModel as IModelExtended } from "@sps/startup-models-project-contracts-extended";
+import { Dispatch, SetStateAction } from "react";
 
 export const variant = "kultfond-get-all" as const;
 
@@ -10,7 +11,9 @@ export interface IComponentBase {
 
 export interface IComponentProps extends IComponentBase {
   variant: typeof variant;
-  children?: any;
+  query?: any;
+  set?: Dispatch<SetStateAction<IModelExtended[] | undefined>>;
+  children?: ({ data }: { data: IModelExtended[] }) => any;
 }
 
 export interface IComponentPropsExtended extends IComponentProps {}

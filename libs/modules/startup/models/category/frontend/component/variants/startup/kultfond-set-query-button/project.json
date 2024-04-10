@@ -1,0 +1,10 @@
+{
+  "name": "@sps/startup-models-category-frontend-component-variants-startup-kultfond-set-query-button",
+  "$schema": "../../../../../../../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/modules/startup/models/category/frontend/component/variants/startup/kultfond-set-query-button/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "lint": {}
+  }
+}
