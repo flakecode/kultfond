@@ -1,0 +1,853 @@
+{
+  "id": 10,
+  "variant": "fade-with-previews",
+  "show_full_screen": false,
+  "show_previews": false,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "Памятный знак в честь Троице-Петровского собор",
+  "uid": null,
+  "createdAt": "2024-04-10T14:50:05.224Z",
+  "updatedAt": "2024-04-10T14:50:06.118Z",
+  "publishedAt": "2024-04-10T14:50:06.110Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 72,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 142,
+          "name": "GEO_4617.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4617_0500086e7b.webp",
+              "hash": "large_GEO_4617_0500086e7b",
+              "mime": "image/webp",
+              "name": "large_GEO_4617.webp",
+              "path": null,
+              "size": 123.46,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4617_0500086e7b.webp",
+              "hash": "small_GEO_4617_0500086e7b",
+              "mime": "image/webp",
+              "name": "small_GEO_4617.webp",
+              "path": null,
+              "size": 37.89,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4617_0500086e7b.webp",
+              "hash": "medium_GEO_4617_0500086e7b",
+              "mime": "image/webp",
+              "name": "medium_GEO_4617.webp",
+              "path": null,
+              "size": 77,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4617_0500086e7b.webp",
+              "hash": "thumbnail_GEO_4617_0500086e7b",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4617.webp",
+              "path": null,
+              "size": 10.07,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4617_0500086e7b",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 385.56,
+          "url": "/uploads/GEO_4617_0500086e7b.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:21.027Z",
+          "updatedAt": "2024-04-10T14:49:21.027Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 75,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 143,
+          "name": "GEO_4789.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4789_7ec3589d0a.webp",
+              "hash": "large_GEO_4789_7ec3589d0a",
+              "mime": "image/webp",
+              "name": "large_GEO_4789.webp",
+              "path": null,
+              "size": 137.14,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4789_7ec3589d0a.webp",
+              "hash": "small_GEO_4789_7ec3589d0a",
+              "mime": "image/webp",
+              "name": "small_GEO_4789.webp",
+              "path": null,
+              "size": 39.55,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4789_7ec3589d0a.webp",
+              "hash": "medium_GEO_4789_7ec3589d0a",
+              "mime": "image/webp",
+              "name": "medium_GEO_4789.webp",
+              "path": null,
+              "size": 80.44,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4789_7ec3589d0a.webp",
+              "hash": "thumbnail_GEO_4789_7ec3589d0a",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4789.webp",
+              "path": null,
+              "size": 10.57,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4789_7ec3589d0a",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 526.39,
+          "url": "/uploads/GEO_4789_7ec3589d0a.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:21.073Z",
+          "updatedAt": "2024-04-10T14:49:21.073Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 76,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 144,
+          "name": "GEO_4828.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4828_9ad47a5923.webp",
+              "hash": "large_GEO_4828_9ad47a5923",
+              "mime": "image/webp",
+              "name": "large_GEO_4828.webp",
+              "path": null,
+              "size": 162.28,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4828_9ad47a5923.webp",
+              "hash": "small_GEO_4828_9ad47a5923",
+              "mime": "image/webp",
+              "name": "small_GEO_4828.webp",
+              "path": null,
+              "size": 44.35,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4828_9ad47a5923.webp",
+              "hash": "medium_GEO_4828_9ad47a5923",
+              "mime": "image/webp",
+              "name": "medium_GEO_4828.webp",
+              "path": null,
+              "size": 94.25,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4828_9ad47a5923.webp",
+              "hash": "thumbnail_GEO_4828_9ad47a5923",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4828.webp",
+              "path": null,
+              "size": 10.94,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4828_9ad47a5923",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 613.47,
+          "url": "/uploads/GEO_4828_9ad47a5923.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:21.294Z",
+          "updatedAt": "2024-04-10T14:49:21.294Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 74,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 145,
+          "name": "GEO_4831.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4831_4c733091ba.webp",
+              "hash": "large_GEO_4831_4c733091ba",
+              "mime": "image/webp",
+              "name": "large_GEO_4831.webp",
+              "path": null,
+              "size": 171.41,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4831_4c733091ba.webp",
+              "hash": "small_GEO_4831_4c733091ba",
+              "mime": "image/webp",
+              "name": "small_GEO_4831.webp",
+              "path": null,
+              "size": 46.97,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4831_4c733091ba.webp",
+              "hash": "medium_GEO_4831_4c733091ba",
+              "mime": "image/webp",
+              "name": "medium_GEO_4831.webp",
+              "path": null,
+              "size": 100.06,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4831_4c733091ba.webp",
+              "hash": "thumbnail_GEO_4831_4c733091ba",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4831.webp",
+              "path": null,
+              "size": 11.85,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4831_4c733091ba",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 668,
+          "url": "/uploads/GEO_4831_4c733091ba.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:21.298Z",
+          "updatedAt": "2024-04-10T14:49:21.298Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 73,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 146,
+          "name": "GEO_4633.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4633_0bfcab4685.webp",
+              "hash": "large_GEO_4633_0bfcab4685",
+              "mime": "image/webp",
+              "name": "large_GEO_4633.webp",
+              "path": null,
+              "size": 165.33,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4633_0bfcab4685.webp",
+              "hash": "small_GEO_4633_0bfcab4685",
+              "mime": "image/webp",
+              "name": "small_GEO_4633.webp",
+              "path": null,
+              "size": 46.13,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4633_0bfcab4685.webp",
+              "hash": "medium_GEO_4633_0bfcab4685",
+              "mime": "image/webp",
+              "name": "medium_GEO_4633.webp",
+              "path": null,
+              "size": 96.46,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4633_0bfcab4685.webp",
+              "hash": "thumbnail_GEO_4633_0bfcab4685",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4633.webp",
+              "path": null,
+              "size": 11.47,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4633_0bfcab4685",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 629.68,
+          "url": "/uploads/GEO_4633_0bfcab4685.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:21.333Z",
+          "updatedAt": "2024-04-10T14:49:21.333Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 77,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 147,
+          "name": "GEO_4749.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4749_20173bf811.webp",
+              "hash": "large_GEO_4749_20173bf811",
+              "mime": "image/webp",
+              "name": "large_GEO_4749.webp",
+              "path": null,
+              "size": 223.96,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4749_20173bf811.webp",
+              "hash": "small_GEO_4749_20173bf811",
+              "mime": "image/webp",
+              "name": "small_GEO_4749.webp",
+              "path": null,
+              "size": 62.66,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4749_20173bf811.webp",
+              "hash": "medium_GEO_4749_20173bf811",
+              "mime": "image/webp",
+              "name": "medium_GEO_4749.webp",
+              "path": null,
+              "size": 134.75,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4749_20173bf811.webp",
+              "hash": "thumbnail_GEO_4749_20173bf811",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4749.webp",
+              "path": null,
+              "size": 15.02,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4749_20173bf811",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 764.74,
+          "url": "/uploads/GEO_4749_20173bf811.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:21.752Z",
+          "updatedAt": "2024-04-10T14:49:21.752Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 79,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 148,
+          "name": "GEO_4492.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4492_5efd72c6a7.webp",
+              "hash": "large_GEO_4492_5efd72c6a7",
+              "mime": "image/webp",
+              "name": "large_GEO_4492.webp",
+              "path": null,
+              "size": 85.55,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4492_5efd72c6a7.webp",
+              "hash": "small_GEO_4492_5efd72c6a7",
+              "mime": "image/webp",
+              "name": "small_GEO_4492.webp",
+              "path": null,
+              "size": 27.27,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4492_5efd72c6a7.webp",
+              "hash": "medium_GEO_4492_5efd72c6a7",
+              "mime": "image/webp",
+              "name": "medium_GEO_4492.webp",
+              "path": null,
+              "size": 52.68,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4492_5efd72c6a7.webp",
+              "hash": "thumbnail_GEO_4492_5efd72c6a7",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4492.webp",
+              "path": null,
+              "size": 8.18,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4492_5efd72c6a7",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 267.82,
+          "url": "/uploads/GEO_4492_5efd72c6a7.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:22.182Z",
+          "updatedAt": "2024-04-10T14:49:22.182Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 78,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 149,
+          "name": "GEO_4563.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4563_ac72fbd91f.webp",
+              "hash": "large_GEO_4563_ac72fbd91f",
+              "mime": "image/webp",
+              "name": "large_GEO_4563.webp",
+              "path": null,
+              "size": 186.67,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4563_ac72fbd91f.webp",
+              "hash": "small_GEO_4563_ac72fbd91f",
+              "mime": "image/webp",
+              "name": "small_GEO_4563.webp",
+              "path": null,
+              "size": 50.2,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4563_ac72fbd91f.webp",
+              "hash": "medium_GEO_4563_ac72fbd91f",
+              "mime": "image/webp",
+              "name": "medium_GEO_4563.webp",
+              "path": null,
+              "size": 110.04,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4563_ac72fbd91f.webp",
+              "hash": "thumbnail_GEO_4563_ac72fbd91f",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4563.webp",
+              "path": null,
+              "size": 11.93,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4563_ac72fbd91f",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 714.98,
+          "url": "/uploads/GEO_4563_ac72fbd91f.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:22.358Z",
+          "updatedAt": "2024-04-10T14:49:22.358Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 80,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 150,
+          "name": "GEO_4466.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 2850,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4466_ad3f7d35d3.webp",
+              "hash": "large_GEO_4466_ad3f7d35d3",
+              "mime": "image/webp",
+              "name": "large_GEO_4466.webp",
+              "path": null,
+              "size": 84.29,
+              "width": 667,
+              "height": 1000
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4466_ad3f7d35d3.webp",
+              "hash": "small_GEO_4466_ad3f7d35d3",
+              "mime": "image/webp",
+              "name": "small_GEO_4466.webp",
+              "path": null,
+              "size": 26.79,
+              "width": 333,
+              "height": 500
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4466_ad3f7d35d3.webp",
+              "hash": "medium_GEO_4466_ad3f7d35d3",
+              "mime": "image/webp",
+              "name": "medium_GEO_4466.webp",
+              "path": null,
+              "size": 52.41,
+              "width": 500,
+              "height": 750
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4466_ad3f7d35d3.webp",
+              "hash": "thumbnail_GEO_4466_ad3f7d35d3",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4466.webp",
+              "path": null,
+              "size": 4.43,
+              "width": 104,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4466_ad3f7d35d3",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 421.67,
+          "url": "/uploads/GEO_4466_ad3f7d35d3.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:22.358Z",
+          "updatedAt": "2024-04-10T14:49:22.358Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 81,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 151,
+          "name": "GEO_4396.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 2850,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4396_22ed3541fb.webp",
+              "hash": "large_GEO_4396_22ed3541fb",
+              "mime": "image/webp",
+              "name": "large_GEO_4396.webp",
+              "path": null,
+              "size": 60.41,
+              "width": 667,
+              "height": 1000
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4396_22ed3541fb.webp",
+              "hash": "small_GEO_4396_22ed3541fb",
+              "mime": "image/webp",
+              "name": "small_GEO_4396.webp",
+              "path": null,
+              "size": 23.22,
+              "width": 333,
+              "height": 500
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4396_22ed3541fb.webp",
+              "hash": "medium_GEO_4396_22ed3541fb",
+              "mime": "image/webp",
+              "name": "medium_GEO_4396.webp",
+              "path": null,
+              "size": 40.35,
+              "width": 500,
+              "height": 750
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4396_22ed3541fb.webp",
+              "hash": "thumbnail_GEO_4396_22ed3541fb",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4396.webp",
+              "path": null,
+              "size": 4.58,
+              "width": 104,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4396_22ed3541fb",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 265.19,
+          "url": "/uploads/GEO_4396_22ed3541fb.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:22.404Z",
+          "updatedAt": "2024-04-10T14:49:22.404Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 82,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 152,
+          "name": "GEO_4551.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1267,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_GEO_4551_a50927e5e1.webp",
+              "hash": "large_GEO_4551_a50927e5e1",
+              "mime": "image/webp",
+              "name": "large_GEO_4551.webp",
+              "path": null,
+              "size": 239.94,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_GEO_4551_a50927e5e1.webp",
+              "hash": "small_GEO_4551_a50927e5e1",
+              "mime": "image/webp",
+              "name": "small_GEO_4551.webp",
+              "path": null,
+              "size": 64.55,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_GEO_4551_a50927e5e1.webp",
+              "hash": "medium_GEO_4551_a50927e5e1",
+              "mime": "image/webp",
+              "name": "medium_GEO_4551.webp",
+              "path": null,
+              "size": 139.39,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_GEO_4551_a50927e5e1.webp",
+              "hash": "thumbnail_GEO_4551_a50927e5e1",
+              "mime": "image/webp",
+              "name": "thumbnail_GEO_4551.webp",
+              "path": null,
+              "size": 15.12,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "GEO_4551_a50927e5e1",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 910.42,
+          "url": "/uploads/GEO_4551_a50927e5e1.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:49:22.468Z",
+          "updatedAt": "2024-04-10T14:49:22.468Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

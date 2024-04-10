@@ -3,7 +3,7 @@
   "title": "Храм во имя святого благоверного князя Александра Невского",
   "location": "Ленинградская область, Кировский район, пос. Апраксин, ул. Школьная, д. 16 Б.",
   "createdAt": "2024-04-03T22:30:14.791Z",
-  "updatedAt": "2024-04-10T01:44:49.744Z",
+  "updatedAt": "2024-04-10T15:14:30.873Z",
   "publishedAt": "2024-04-03T22:30:15.944Z",
   "locale": "en",
   "localizations": [],
@@ -166,6 +166,30 @@
       "additional_media": null
     },
     {
+      "__component": "page-blocks.slider-block",
+      "id": 14,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 13,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Храм во имя святого благоверного князя Александра Невского",
+        "uid": null,
+        "createdAt": "2024-04-10T15:13:36.296Z",
+        "updatedAt": "2024-04-10T15:13:37.195Z",
+        "publishedAt": "2024-04-10T15:13:37.186Z",
+        "locale": "en"
+      }
+    },
+    {
       "__component": "page-blocks.hero-section-block",
       "id": 17,
       "title": null,
@@ -183,7 +207,7 @@
       "id": 3,
       "title": "Завершённые проекты",
       "createdAt": "2024-04-08T21:59:47.741Z",
-      "updatedAt": "2024-04-08T21:59:48.418Z",
+      "updatedAt": "2024-04-10T11:30:25.472Z",
       "publishedAt": "2024-04-08T21:59:48.415Z",
       "locale": "en"
     }

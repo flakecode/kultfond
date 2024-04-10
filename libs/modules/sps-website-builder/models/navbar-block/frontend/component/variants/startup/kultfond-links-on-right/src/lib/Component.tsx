@@ -47,13 +47,11 @@ function DisclosureInner({
         <div className="flex w-full px-2 lg:px-2 justify-between">
           <div className="flex flex-col gap-4 w-10/12 lg:w-4/12 max-w-[450px]">
             {props.data.logotype ? (
-              <Link href={props.data.logotype?.url || "/"}>
-                <Logotype
-                  isServer={false}
-                  data={props.data.logotype}
-                  variant="kultfond-wide"
-                />
-              </Link>
+              <Logotype
+                isServer={false}
+                data={props.data.logotype}
+                variant="kultfond-square"
+              />
             ) : null}
           </div>
           <div className="hidden lg:ml-6 lg:flex lg:space-x-10 items-center">

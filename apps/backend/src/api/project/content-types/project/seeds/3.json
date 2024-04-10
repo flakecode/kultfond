@@ -3,13 +3,13 @@
   "title": "Памятная табличка на Памятнике Николаю I",
   "location": "Санкт-Петербург",
   "createdAt": "2024-04-03T22:30:53.206Z",
-  "updatedAt": "2024-04-10T01:45:10.546Z",
+  "updatedAt": "2024-04-10T14:54:21.672Z",
   "publishedAt": "2024-04-03T22:30:53.899Z",
   "locale": "en",
   "localizations": [],
   "media": [
     {
-      "id": 72,
+      "id": 75,
       "name": "pamyatnaya.png",
       "alternativeText": null,
       "caption": null,
@@ -18,60 +18,60 @@
       "formats": {
         "large": {
           "ext": ".png",
-          "url": "/uploads/large_pamyatnaya_9c90271d76.png",
-          "hash": "large_pamyatnaya_9c90271d76",
+          "url": "/uploads/large_pamyatnaya_83f4959599.png",
+          "hash": "large_pamyatnaya_83f4959599",
           "mime": "image/png",
           "name": "large_pamyatnaya.png",
           "path": null,
-          "size": 1669.22,
+          "size": 1619.4,
           "width": 1000,
           "height": 667
         },
         "small": {
           "ext": ".png",
-          "url": "/uploads/small_pamyatnaya_9c90271d76.png",
-          "hash": "small_pamyatnaya_9c90271d76",
+          "url": "/uploads/small_pamyatnaya_83f4959599.png",
+          "hash": "small_pamyatnaya_83f4959599",
           "mime": "image/png",
           "name": "small_pamyatnaya.png",
           "path": null,
-          "size": 446.62,
+          "size": 429.37,
           "width": 500,
           "height": 333
         },
         "medium": {
           "ext": ".png",
-          "url": "/uploads/medium_pamyatnaya_9c90271d76.png",
-          "hash": "medium_pamyatnaya_9c90271d76",
+          "url": "/uploads/medium_pamyatnaya_83f4959599.png",
+          "hash": "medium_pamyatnaya_83f4959599",
           "mime": "image/png",
           "name": "medium_pamyatnaya.png",
           "path": null,
-          "size": 969.73,
+          "size": 936.33,
           "width": 750,
           "height": 500
         },
         "thumbnail": {
           "ext": ".png",
-          "url": "/uploads/thumbnail_pamyatnaya_9c90271d76.png",
-          "hash": "thumbnail_pamyatnaya_9c90271d76",
+          "url": "/uploads/thumbnail_pamyatnaya_83f4959599.png",
+          "hash": "thumbnail_pamyatnaya_83f4959599",
           "mime": "image/png",
           "name": "thumbnail_pamyatnaya.png",
           "path": null,
-          "size": 107.58,
+          "size": 103.38,
           "width": 234,
           "height": 156
         }
       },
-      "hash": "pamyatnaya_9c90271d76",
+      "hash": "pamyatnaya_83f4959599",
       "ext": ".png",
       "mime": "image/png",
-      "size": 419.26,
-      "url": "/uploads/pamyatnaya_9c90271d76.png",
+      "size": 405.61,
+      "url": "/uploads/pamyatnaya_83f4959599.png",
       "previewUrl": null,
       "provider": "local",
       "provider_metadata": null,
       "folderPath": "/",
-      "createdAt": "2024-04-10T01:45:04.694Z",
-      "updatedAt": "2024-04-10T01:45:04.694Z"
+      "createdAt": "2024-04-10T14:18:04.933Z",
+      "updatedAt": "2024-04-10T14:18:04.933Z"
     }
   ],
   "page_blocks": [
@@ -87,7 +87,7 @@
       "buttons": [],
       "additional_media": [
         {
-          "id": 72,
+          "id": 75,
           "name": "pamyatnaya.png",
           "alternativeText": null,
           "caption": null,
@@ -96,60 +96,60 @@
           "formats": {
             "large": {
               "ext": ".png",
-              "url": "/uploads/large_pamyatnaya_9c90271d76.png",
-              "hash": "large_pamyatnaya_9c90271d76",
+              "url": "/uploads/large_pamyatnaya_83f4959599.png",
+              "hash": "large_pamyatnaya_83f4959599",
               "mime": "image/png",
               "name": "large_pamyatnaya.png",
               "path": null,
-              "size": 1669.22,
+              "size": 1619.4,
               "width": 1000,
               "height": 667
             },
             "small": {
               "ext": ".png",
-              "url": "/uploads/small_pamyatnaya_9c90271d76.png",
-              "hash": "small_pamyatnaya_9c90271d76",
+              "url": "/uploads/small_pamyatnaya_83f4959599.png",
+              "hash": "small_pamyatnaya_83f4959599",
               "mime": "image/png",
               "name": "small_pamyatnaya.png",
               "path": null,
-              "size": 446.62,
+              "size": 429.37,
               "width": 500,
               "height": 333
             },
             "medium": {
               "ext": ".png",
-              "url": "/uploads/medium_pamyatnaya_9c90271d76.png",
-              "hash": "medium_pamyatnaya_9c90271d76",
+              "url": "/uploads/medium_pamyatnaya_83f4959599.png",
+              "hash": "medium_pamyatnaya_83f4959599",
               "mime": "image/png",
               "name": "medium_pamyatnaya.png",
               "path": null,
-              "size": 969.73,
+              "size": 936.33,
               "width": 750,
               "height": 500
             },
             "thumbnail": {
               "ext": ".png",
-              "url": "/uploads/thumbnail_pamyatnaya_9c90271d76.png",
-              "hash": "thumbnail_pamyatnaya_9c90271d76",
+              "url": "/uploads/thumbnail_pamyatnaya_83f4959599.png",
+              "hash": "thumbnail_pamyatnaya_83f4959599",
               "mime": "image/png",
               "name": "thumbnail_pamyatnaya.png",
               "path": null,
-              "size": 107.58,
+              "size": 103.38,
               "width": 234,
               "height": 156
             }
           },
-          "hash": "pamyatnaya_9c90271d76",
+          "hash": "pamyatnaya_83f4959599",
           "ext": ".png",
           "mime": "image/png",
-          "size": 419.26,
-          "url": "/uploads/pamyatnaya_9c90271d76.png",
+          "size": 405.61,
+          "url": "/uploads/pamyatnaya_83f4959599.png",
           "previewUrl": null,
           "provider": "local",
           "provider_metadata": null,
           "folderPath": "/",
-          "createdAt": "2024-04-10T01:45:04.694Z",
-          "updatedAt": "2024-04-10T01:45:04.694Z"
+          "createdAt": "2024-04-10T14:18:04.933Z",
+          "updatedAt": "2024-04-10T14:18:04.933Z"
         }
       ]
     },
@@ -172,19 +172,43 @@
       "description": "13 августа 1850 года в устье Амура капитан Геннадий Невельский водрузил флаг России и основал Николаевский пост (ныне Николаевск-на-Амуре), названный в честь здравствующего императора, и водрузил на посту российский флаг.\n\nДействия Невельского шли вразрез с дальневосточной политикой Министерства иностранных дел. Глава ведомства Карл Нессельроде предлагал отказаться от амурского бассейна и навсегда передать его Китаю.\n\nОднако политическая воля императора оказалась сильнее представлений Нессельроде, он назвал поступок Геннадия Невельского молодецким, а на докладе Особого Комитета, рассматривающего это дело, начертал: «Где раз поднят русский флаг, там он спускаться не должен».\n\nПамятная табличка установлена Фондом на ограде памятника в рамках проводимой КГИОП полной реставрации скульптурной композиции. ",
       "variant": "kultfond-description-light",
       "anchor": null,
-      "class_name": "pt-5 pb-36",
+      "class_name": "py-5",
       "media": null,
       "buttons": [],
       "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 12,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 11,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Памятная табличка на Памятнике Николаю I",
+        "uid": null,
+        "createdAt": "2024-04-10T14:53:51.808Z",
+        "updatedAt": "2024-04-10T14:53:52.590Z",
+        "publishedAt": "2024-04-10T14:53:52.580Z",
+        "locale": "en"
+      }
     }
   ],
   "categories": [
     {
-      "id": 1,
-      "title": "В стадии реализации",
-      "createdAt": "2024-04-08T21:58:51.234Z",
-      "updatedAt": "2024-04-08T21:59:09.853Z",
-      "publishedAt": "2024-04-08T21:58:52.745Z",
+      "id": 3,
+      "title": "Завершённые проекты",
+      "createdAt": "2024-04-08T21:59:47.741Z",
+      "updatedAt": "2024-04-10T11:30:25.472Z",
+      "publishedAt": "2024-04-08T21:59:48.415Z",
       "locale": "en"
     }
   ]

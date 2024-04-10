@@ -3,7 +3,7 @@
   "title": "Колокольня Смольного собора",
   "location": "Санкт-Петербург, Синопская наб.",
   "createdAt": "2024-04-09T23:53:31.913Z",
-  "updatedAt": "2024-04-10T01:46:11.363Z",
+  "updatedAt": "2024-04-10T14:45:40.795Z",
   "publishedAt": "2024-04-09T23:53:33.017Z",
   "locale": "en",
   "localizations": [],
@@ -82,7 +82,7 @@
       "description": "Санкт-Петербург, Синопская наб.",
       "variant": "kultfond-media-on-right-small",
       "anchor": null,
-      "class_name": null,
+      "class_name": "pt-20 lg:pt-40 pb-20 lg:pb-40",
       "media": null,
       "buttons": [],
       "additional_media": [
@@ -166,6 +166,30 @@
       "additional_media": null
     },
     {
+      "__component": "page-blocks.slider-block",
+      "id": 9,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 8,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Колокольня Смольного собора",
+        "uid": null,
+        "createdAt": "2024-04-10T14:45:19.274Z",
+        "updatedAt": "2024-04-10T14:45:20.230Z",
+        "publishedAt": "2024-04-10T14:45:20.221Z",
+        "locale": "en"
+      }
+    },
+    {
       "__component": "page-blocks.features-section-block",
       "id": 5,
       "title": null,
@@ -228,14 +252,5 @@
       ]
     }
   ],
-  "categories": [
-    {
-      "id": 1,
-      "title": "В стадии реализации",
-      "createdAt": "2024-04-08T21:58:51.234Z",
-      "updatedAt": "2024-04-08T21:59:09.853Z",
-      "publishedAt": "2024-04-08T21:58:52.745Z",
-      "locale": "en"
-    }
-  ]
+  "categories": []
 }

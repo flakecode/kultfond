@@ -3,7 +3,7 @@
   "title": "Храм иконы Божией Матери «Всех скорбящих Радость (с грошиками)»",
   "location": "Санкт-Петербург, просп. Обуховской обороны, 24",
   "createdAt": "2024-04-10T00:01:31.534Z",
-  "updatedAt": "2024-04-10T01:43:31.208Z",
+  "updatedAt": "2024-04-10T14:47:59.309Z",
   "publishedAt": "2024-04-10T00:01:32.452Z",
   "locale": "en",
   "localizations": [],
@@ -212,6 +212,30 @@
       ]
     },
     {
+      "__component": "page-blocks.slider-block",
+      "id": 10,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 9,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Храм иконы Божией Матери «Всех скорбящих Радость (с грошиками)»",
+        "uid": null,
+        "createdAt": "2024-04-10T14:47:28.598Z",
+        "updatedAt": "2024-04-10T14:47:29.478Z",
+        "publishedAt": "2024-04-10T14:47:29.472Z",
+        "locale": "en"
+      }
+    },
+    {
       "__component": "page-blocks.hero-section-block",
       "id": 33,
       "title": null,
@@ -226,11 +250,11 @@
   ],
   "categories": [
     {
-      "id": 2,
-      "title": "В регионах России",
-      "createdAt": "2024-04-08T21:59:31.508Z",
-      "updatedAt": "2024-04-08T21:59:32.322Z",
-      "publishedAt": "2024-04-08T21:59:32.318Z",
+      "id": 1,
+      "title": "В стадии реализации",
+      "createdAt": "2024-04-08T21:58:51.234Z",
+      "updatedAt": "2024-04-10T11:30:30.379Z",
+      "publishedAt": "2024-04-08T21:58:52.745Z",
       "locale": "en"
     }
   ]

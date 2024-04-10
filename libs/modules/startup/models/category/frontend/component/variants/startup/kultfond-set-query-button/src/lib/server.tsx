@@ -14,9 +14,18 @@ export default async function Server(props: IComponentProps) {
     id: props.data.id,
   });
 
-  if (props.query && data) {
-    if (props.query.filters?.categories?.id?.$in?.[0] === `${data.id}`) {
-      isActive = true;
+  if (props.query && data && props.query.filters?.categories) {
+    const filterKeys: any = Object.keys(props.query.filters?.categories);
+    if (filterKeys.length !== 0) {
+      for (let i = 0; i < filterKeys.length; i++) {
+        const localData: any = data;
+        if (
+          props.query.filters?.categories[filterKeys[i]].$in[0] ===
+          `${localData[filterKeys[i]]}`
+        ) {
+          isActive = true;
+        }
+      }
     }
   }
 

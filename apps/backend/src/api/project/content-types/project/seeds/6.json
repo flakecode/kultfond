@@ -3,7 +3,7 @@
   "title": "Храм во имя святых благоверных князей Бориса и Глеба",
   "location": "Санкт-Петербург, Синопская наб.",
   "createdAt": "2024-04-09T23:57:21.995Z",
-  "updatedAt": "2024-04-10T01:42:35.822Z",
+  "updatedAt": "2024-04-10T14:39:09.720Z",
   "publishedAt": "2024-04-09T23:57:23.169Z",
   "locale": "en",
   "localizations": [],
@@ -166,6 +166,30 @@
       "additional_media": null
     },
     {
+      "__component": "page-blocks.slider-block",
+      "id": 7,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 6,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Храм во имя святых благоверных князей Бориса и Глеба",
+        "uid": null,
+        "createdAt": "2024-04-10T14:38:33.842Z",
+        "updatedAt": "2024-04-10T14:40:35.022Z",
+        "publishedAt": "2024-04-10T14:39:11.887Z",
+        "locale": "en"
+      }
+    },
+    {
       "__component": "page-blocks.features-section-block",
       "id": 6,
       "title": null,
@@ -237,7 +261,7 @@
       "id": 1,
       "title": "В стадии реализации",
       "createdAt": "2024-04-08T21:58:51.234Z",
-      "updatedAt": "2024-04-08T21:59:09.853Z",
+      "updatedAt": "2024-04-10T11:30:30.379Z",
       "publishedAt": "2024-04-08T21:58:52.745Z",
       "locale": "en"
     }

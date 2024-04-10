@@ -14,9 +14,9 @@ export function Component(props: IComponentPropsExtended) {
     >
       <div className="mx-auto max-w-7xl">
         <div className="flex items-center justify-between min-h-[50vh] lg:min-h-[70vh]">
-          <div className="flex flex-shrink-0 w-8/12 flex-col gap-16 relative z-10 mt-8 mb-8 lg:mt-32 lg:mb-16">
+          <div className="flex flex-shrink-0 w-8/12 flex-col gap-16 relative z-10 mt-8 mb-8 lg:mt-40 xl:mt-32 lg:mb-16">
             {props.data.title ? (
-              <h1 className="text-2xl lg:text-[52px] leading-tight text-[#252525] font-primary">
+              <h1 className="text-2xl lg:text-[40px] xl:text-[52px] leading-tight text-[#252525] font-primary">
                 <ReactMarkdown>{props.data.title}</ReactMarkdown>
               </h1>
             ) : null}

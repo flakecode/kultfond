@@ -3,7 +3,7 @@
   "title": "Киновия Александро-Невской лавры",
   "location": "Санкт-Петербург, Октябрьская наб., 23",
   "createdAt": "2024-04-03T22:28:55.255Z",
-  "updatedAt": "2024-04-10T01:44:24.630Z",
+  "updatedAt": "2024-04-10T15:03:51.223Z",
   "publishedAt": "2024-04-03T22:28:56.110Z",
   "locale": "en",
   "localizations": [],
@@ -224,6 +224,30 @@
       "additional_media": null
     },
     {
+      "__component": "page-blocks.slider-block",
+      "id": 13,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 12,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Киновия Александро-Невской лавры",
+        "uid": null,
+        "createdAt": "2024-04-10T15:03:09.790Z",
+        "updatedAt": "2024-04-10T15:03:10.729Z",
+        "publishedAt": "2024-04-10T15:03:10.722Z",
+        "locale": "en"
+      }
+    },
+    {
       "__component": "page-blocks.hero-section-block",
       "id": 16,
       "title": "",
@@ -238,19 +262,11 @@
   ],
   "categories": [
     {
-      "id": 1,
-      "title": "В стадии реализации",
-      "createdAt": "2024-04-08T21:58:51.234Z",
-      "updatedAt": "2024-04-08T21:59:09.853Z",
-      "publishedAt": "2024-04-08T21:58:52.745Z",
-      "locale": "en"
-    },
-    {
-      "id": 2,
-      "title": "В регионах России",
-      "createdAt": "2024-04-08T21:59:31.508Z",
-      "updatedAt": "2024-04-08T21:59:32.322Z",
-      "publishedAt": "2024-04-08T21:59:32.318Z",
+      "id": 3,
+      "title": "Завершённые проекты",
+      "createdAt": "2024-04-08T21:59:47.741Z",
+      "updatedAt": "2024-04-10T11:30:25.472Z",
+      "publishedAt": "2024-04-08T21:59:48.415Z",
       "locale": "en"
     }
   ]

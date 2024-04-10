@@ -1,0 +1,777 @@
+{
+  "id": 8,
+  "variant": "fade-with-previews",
+  "show_full_screen": false,
+  "show_previews": false,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "Колокольня Смольного собора",
+  "uid": null,
+  "createdAt": "2024-04-10T14:45:19.274Z",
+  "updatedAt": "2024-04-10T14:45:20.230Z",
+  "publishedAt": "2024-04-10T14:45:20.221Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 54,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 129,
+          "name": "13копия.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1402,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_13kopiya_149f9577b7.webp",
+              "hash": "large_13kopiya_149f9577b7",
+              "mime": "image/webp",
+              "name": "large_13копия.webp",
+              "path": null,
+              "size": 128.99,
+              "width": 1000,
+              "height": 738
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_13kopiya_149f9577b7.webp",
+              "hash": "small_13kopiya_149f9577b7",
+              "mime": "image/webp",
+              "name": "small_13копия.webp",
+              "path": null,
+              "size": 37.87,
+              "width": 500,
+              "height": 369
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_13kopiya_149f9577b7.webp",
+              "hash": "medium_13kopiya_149f9577b7",
+              "mime": "image/webp",
+              "name": "medium_13копия.webp",
+              "path": null,
+              "size": 77.47,
+              "width": 750,
+              "height": 553
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_13kopiya_149f9577b7.webp",
+              "hash": "thumbnail_13kopiya_149f9577b7",
+              "mime": "image/webp",
+              "name": "thumbnail_13копия.webp",
+              "path": null,
+              "size": 8.21,
+              "width": 211,
+              "height": 156
+            }
+          },
+          "hash": "13kopiya_149f9577b7",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 444.48,
+          "url": "/uploads/13kopiya_149f9577b7.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:17.899Z",
+          "updatedAt": "2024-04-10T14:44:17.899Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 55,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 133,
+          "name": "0_GEO02714.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1333,
+          "height": 2000,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_0_GEO_02714_7256a57fab.webp",
+              "hash": "large_0_GEO_02714_7256a57fab",
+              "mime": "image/webp",
+              "name": "large_0_GEO02714.webp",
+              "path": null,
+              "size": 45.33,
+              "width": 666,
+              "height": 1000
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_0_GEO_02714_7256a57fab.webp",
+              "hash": "small_0_GEO_02714_7256a57fab",
+              "mime": "image/webp",
+              "name": "small_0_GEO02714.webp",
+              "path": null,
+              "size": 16.44,
+              "width": 333,
+              "height": 500
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_0_GEO_02714_7256a57fab.webp",
+              "hash": "medium_0_GEO_02714_7256a57fab",
+              "mime": "image/webp",
+              "name": "medium_0_GEO02714.webp",
+              "path": null,
+              "size": 29.31,
+              "width": 500,
+              "height": 750
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_0_GEO_02714_7256a57fab.webp",
+              "hash": "thumbnail_0_GEO_02714_7256a57fab",
+              "mime": "image/webp",
+              "name": "thumbnail_0_GEO02714.webp",
+              "path": null,
+              "size": 2.27,
+              "width": 104,
+              "height": 156
+            }
+          },
+          "hash": "0_GEO_02714_7256a57fab",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 132.21,
+          "url": "/uploads/0_GEO_02714_7256a57fab.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:18.205Z",
+          "updatedAt": "2024-04-10T14:44:18.205Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 57,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 132,
+          "name": "7.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1266,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_7_424013fe6d.webp",
+              "hash": "large_7_424013fe6d",
+              "mime": "image/webp",
+              "name": "large_7.webp",
+              "path": null,
+              "size": 100.3,
+              "width": 1000,
+              "height": 666
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_7_424013fe6d.webp",
+              "hash": "small_7_424013fe6d",
+              "mime": "image/webp",
+              "name": "small_7.webp",
+              "path": null,
+              "size": 31.45,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_7_424013fe6d.webp",
+              "hash": "medium_7_424013fe6d",
+              "mime": "image/webp",
+              "name": "medium_7.webp",
+              "path": null,
+              "size": 62.3,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_7_424013fe6d.webp",
+              "hash": "thumbnail_7_424013fe6d",
+              "mime": "image/webp",
+              "name": "thumbnail_7.webp",
+              "path": null,
+              "size": 8.56,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "7_424013fe6d",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 342.25,
+          "url": "/uploads/7_424013fe6d.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:18.157Z",
+          "updatedAt": "2024-04-10T14:44:18.157Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 56,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 131,
+          "name": "4 2 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1266,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_4_2_copy_472b46b7fc.webp",
+              "hash": "large_4_2_copy_472b46b7fc",
+              "mime": "image/webp",
+              "name": "large_4 2 copy.webp",
+              "path": null,
+              "size": 100.54,
+              "width": 1000,
+              "height": 666
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_4_2_copy_472b46b7fc.webp",
+              "hash": "small_4_2_copy_472b46b7fc",
+              "mime": "image/webp",
+              "name": "small_4 2 copy.webp",
+              "path": null,
+              "size": 33.74,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_4_2_copy_472b46b7fc.webp",
+              "hash": "medium_4_2_copy_472b46b7fc",
+              "mime": "image/webp",
+              "name": "medium_4 2 copy.webp",
+              "path": null,
+              "size": 64.58,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_4_2_copy_472b46b7fc.webp",
+              "hash": "thumbnail_4_2_copy_472b46b7fc",
+              "mime": "image/webp",
+              "name": "thumbnail_4 2 copy.webp",
+              "path": null,
+              "size": 9.67,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "4_2_copy_472b46b7fc",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 313.24,
+          "url": "/uploads/4_2_copy_472b46b7fc.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:18.142Z",
+          "updatedAt": "2024-04-10T14:44:18.142Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 61,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 130,
+          "name": "9 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1505,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_9_copy_5797c57fd6.webp",
+              "hash": "large_9_copy_5797c57fd6",
+              "mime": "image/webp",
+              "name": "large_9 copy.webp",
+              "path": null,
+              "size": 71.14,
+              "width": 1000,
+              "height": 792
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_9_copy_5797c57fd6.webp",
+              "hash": "small_9_copy_5797c57fd6",
+              "mime": "image/webp",
+              "name": "small_9 copy.webp",
+              "path": null,
+              "size": 19.83,
+              "width": 500,
+              "height": 396
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_9_copy_5797c57fd6.webp",
+              "hash": "medium_9_copy_5797c57fd6",
+              "mime": "image/webp",
+              "name": "medium_9 copy.webp",
+              "path": null,
+              "size": 42.29,
+              "width": 750,
+              "height": 594
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_9_copy_5797c57fd6.webp",
+              "hash": "thumbnail_9_copy_5797c57fd6",
+              "mime": "image/webp",
+              "name": "thumbnail_9 copy.webp",
+              "path": null,
+              "size": 3.95,
+              "width": 197,
+              "height": 156
+            }
+          },
+          "hash": "9_copy_5797c57fd6",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 251.62,
+          "url": "/uploads/9_copy_5797c57fd6.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:18.073Z",
+          "updatedAt": "2024-04-10T14:44:18.073Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 58,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 128,
+          "name": "14копия.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1412,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_14kopiya_51d5ad5ee9.webp",
+              "hash": "large_14kopiya_51d5ad5ee9",
+              "mime": "image/webp",
+              "name": "large_14копия.webp",
+              "path": null,
+              "size": 110.71,
+              "width": 1000,
+              "height": 743
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_14kopiya_51d5ad5ee9.webp",
+              "hash": "small_14kopiya_51d5ad5ee9",
+              "mime": "image/webp",
+              "name": "small_14копия.webp",
+              "path": null,
+              "size": 32.54,
+              "width": 500,
+              "height": 372
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_14kopiya_51d5ad5ee9.webp",
+              "hash": "medium_14kopiya_51d5ad5ee9",
+              "mime": "image/webp",
+              "name": "medium_14копия.webp",
+              "path": null,
+              "size": 66.41,
+              "width": 750,
+              "height": 557
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_14kopiya_51d5ad5ee9.webp",
+              "hash": "thumbnail_14kopiya_51d5ad5ee9",
+              "mime": "image/webp",
+              "name": "thumbnail_14копия.webp",
+              "path": null,
+              "size": 7.02,
+              "width": 210,
+              "height": 156
+            }
+          },
+          "hash": "14kopiya_51d5ad5ee9",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 377.83,
+          "url": "/uploads/14kopiya_51d5ad5ee9.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:17.781Z",
+          "updatedAt": "2024-04-10T14:44:17.781Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 59,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 127,
+          "name": "10 2.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1272,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_10_2_aa4fcbcd3c.webp",
+              "hash": "large_10_2_aa4fcbcd3c",
+              "mime": "image/webp",
+              "name": "large_10 2.webp",
+              "path": null,
+              "size": 112.94,
+              "width": 1000,
+              "height": 669
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_10_2_aa4fcbcd3c.webp",
+              "hash": "small_10_2_aa4fcbcd3c",
+              "mime": "image/webp",
+              "name": "small_10 2.webp",
+              "path": null,
+              "size": 32.89,
+              "width": 500,
+              "height": 335
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_10_2_aa4fcbcd3c.webp",
+              "hash": "medium_10_2_aa4fcbcd3c",
+              "mime": "image/webp",
+              "name": "medium_10 2.webp",
+              "path": null,
+              "size": 68.78,
+              "width": 750,
+              "height": 502
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_10_2_aa4fcbcd3c.webp",
+              "hash": "thumbnail_10_2_aa4fcbcd3c",
+              "mime": "image/webp",
+              "name": "thumbnail_10 2.webp",
+              "path": null,
+              "size": 8.76,
+              "width": 233,
+              "height": 156
+            }
+          },
+          "hash": "10_2_aa4fcbcd3c",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 361.05,
+          "url": "/uploads/10_2_aa4fcbcd3c.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:17.556Z",
+          "updatedAt": "2024-04-10T14:44:17.556Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 60,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 126,
+          "name": "IMG-20210929-WA0027.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1024,
+          "height": 790,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_IMG_20210929_WA_0027_05d421e76f.webp",
+              "hash": "large_IMG_20210929_WA_0027_05d421e76f",
+              "mime": "image/webp",
+              "name": "large_IMG-20210929-WA0027.webp",
+              "path": null,
+              "size": 87.92,
+              "width": 1000,
+              "height": 771
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_IMG_20210929_WA_0027_05d421e76f.webp",
+              "hash": "small_IMG_20210929_WA_0027_05d421e76f",
+              "mime": "image/webp",
+              "name": "small_IMG-20210929-WA0027.webp",
+              "path": null,
+              "size": 29.34,
+              "width": 500,
+              "height": 386
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_IMG_20210929_WA_0027_05d421e76f.webp",
+              "hash": "medium_IMG_20210929_WA_0027_05d421e76f",
+              "mime": "image/webp",
+              "name": "medium_IMG-20210929-WA0027.webp",
+              "path": null,
+              "size": 56.34,
+              "width": 750,
+              "height": 579
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_IMG_20210929_WA_0027_05d421e76f.webp",
+              "hash": "thumbnail_IMG_20210929_WA_0027_05d421e76f",
+              "mime": "image/webp",
+              "name": "thumbnail_IMG-20210929-WA0027.webp",
+              "path": null,
+              "size": 6.34,
+              "width": 202,
+              "height": 156
+            }
+          },
+          "hash": "IMG_20210929_WA_0027_05d421e76f",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 109.41,
+          "url": "/uploads/IMG_20210929_WA_0027_05d421e76f.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:17.392Z",
+          "updatedAt": "2024-04-10T14:44:17.392Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 63,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 125,
+          "name": "WhatsApp Image 2021-12-27 at 11.05.17 (1).webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1024,
+          "height": 682,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d.webp",
+              "hash": "large_Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d",
+              "mime": "image/webp",
+              "name": "large_WhatsApp Image 2021-12-27 at 11.05.17 (1).webp",
+              "path": null,
+              "size": 87.24,
+              "width": 1000,
+              "height": 666
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d.webp",
+              "hash": "small_Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d",
+              "mime": "image/webp",
+              "name": "small_WhatsApp Image 2021-12-27 at 11.05.17 (1).webp",
+              "path": null,
+              "size": 29.71,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d.webp",
+              "hash": "medium_Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d",
+              "mime": "image/webp",
+              "name": "medium_WhatsApp Image 2021-12-27 at 11.05.17 (1).webp",
+              "path": null,
+              "size": 57.77,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d.webp",
+              "hash": "thumbnail_Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d",
+              "mime": "image/webp",
+              "name": "thumbnail_WhatsApp Image 2021-12-27 at 11.05.17 (1).webp",
+              "path": null,
+              "size": 7.98,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 106.86,
+          "url": "/uploads/Whats_App_Image_2021_12_27_at_11_05_17_1_0fbb20121d.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:17.387Z",
+          "updatedAt": "2024-04-10T14:44:17.387Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 62,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 124,
+          "name": "IMG-20210929-WA0028.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1012,
+          "height": 1024,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_IMG_20210929_WA_0028_a054c6d1bb.webp",
+              "hash": "large_IMG_20210929_WA_0028_a054c6d1bb",
+              "mime": "image/webp",
+              "name": "large_IMG-20210929-WA0028.webp",
+              "path": null,
+              "size": 37.53,
+              "width": 988,
+              "height": 1000
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_IMG_20210929_WA_0028_a054c6d1bb.webp",
+              "hash": "small_IMG_20210929_WA_0028_a054c6d1bb",
+              "mime": "image/webp",
+              "name": "small_IMG-20210929-WA0028.webp",
+              "path": null,
+              "size": 15.38,
+              "width": 494,
+              "height": 500
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_IMG_20210929_WA_0028_a054c6d1bb.webp",
+              "hash": "medium_IMG_20210929_WA_0028_a054c6d1bb",
+              "mime": "image/webp",
+              "name": "medium_IMG-20210929-WA0028.webp",
+              "path": null,
+              "size": 26.69,
+              "width": 741,
+              "height": 750
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_IMG_20210929_WA_0028_a054c6d1bb.webp",
+              "hash": "thumbnail_IMG_20210929_WA_0028_a054c6d1bb",
+              "mime": "image/webp",
+              "name": "thumbnail_IMG-20210929-WA0028.webp",
+              "path": null,
+              "size": 2.62,
+              "width": 154,
+              "height": 156
+            }
+          },
+          "hash": "IMG_20210929_WA_0028_a054c6d1bb",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 43.52,
+          "url": "/uploads/IMG_20210929_WA_0028_a054c6d1bb.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:44:17.274Z",
+          "updatedAt": "2024-04-10T14:44:17.274Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

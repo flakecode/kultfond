@@ -1,0 +1,321 @@
+{
+  "id": 3,
+  "variant": "fade-with-previews",
+  "show_full_screen": false,
+  "show_previews": false,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "Музей «Собрание ангелов»",
+  "uid": null,
+  "createdAt": "2024-04-10T14:27:29.846Z",
+  "updatedAt": "2024-04-10T14:31:55.324Z",
+  "publishedAt": "2024-04-10T14:27:30.578Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 8,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 76,
+          "name": "Собрание ангелов_12-15.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1066,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_Sobranie_angelov_12_15_513e92680f.webp",
+              "hash": "large_Sobranie_angelov_12_15_513e92680f",
+              "mime": "image/webp",
+              "name": "large_Собрание ангелов_12-15.webp",
+              "path": null,
+              "size": 19.07,
+              "width": 1000,
+              "height": 561
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_Sobranie_angelov_12_15_513e92680f.webp",
+              "hash": "small_Sobranie_angelov_12_15_513e92680f",
+              "mime": "image/webp",
+              "name": "small_Собрание ангелов_12-15.webp",
+              "path": null,
+              "size": 8.17,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_Sobranie_angelov_12_15_513e92680f.webp",
+              "hash": "medium_Sobranie_angelov_12_15_513e92680f",
+              "mime": "image/webp",
+              "name": "medium_Собрание ангелов_12-15.webp",
+              "path": null,
+              "size": 13.53,
+              "width": 750,
+              "height": 421
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_Sobranie_angelov_12_15_513e92680f.webp",
+              "hash": "thumbnail_Sobranie_angelov_12_15_513e92680f",
+              "mime": "image/webp",
+              "name": "thumbnail_Собрание ангелов_12-15.webp",
+              "path": null,
+              "size": 3.22,
+              "width": 245,
+              "height": 137
+            }
+          },
+          "hash": "Sobranie_angelov_12_15_513e92680f",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 42.76,
+          "url": "/uploads/Sobranie_angelov_12_15_513e92680f.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:27:01.890Z",
+          "updatedAt": "2024-04-10T14:27:01.890Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 6,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 77,
+          "name": "Собрание ангелов_12-18.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1069,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_Sobranie_angelov_12_18_b64619d583.webp",
+              "hash": "large_Sobranie_angelov_12_18_b64619d583",
+              "mime": "image/webp",
+              "name": "large_Собрание ангелов_12-18.webp",
+              "path": null,
+              "size": 65.21,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_Sobranie_angelov_12_18_b64619d583.webp",
+              "hash": "small_Sobranie_angelov_12_18_b64619d583",
+              "mime": "image/webp",
+              "name": "small_Собрание ангелов_12-18.webp",
+              "path": null,
+              "size": 21.77,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_Sobranie_angelov_12_18_b64619d583.webp",
+              "hash": "medium_Sobranie_angelov_12_18_b64619d583",
+              "mime": "image/webp",
+              "name": "medium_Собрание ангелов_12-18.webp",
+              "path": null,
+              "size": 41.1,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_Sobranie_angelov_12_18_b64619d583.webp",
+              "hash": "thumbnail_Sobranie_angelov_12_18_b64619d583",
+              "mime": "image/webp",
+              "name": "thumbnail_Собрание ангелов_12-18.webp",
+              "path": null,
+              "size": 6.76,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "Sobranie_angelov_12_18_b64619d583",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 187.85,
+          "url": "/uploads/Sobranie_angelov_12_18_b64619d583.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:27:01.957Z",
+          "updatedAt": "2024-04-10T14:27:01.957Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 7,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 78,
+          "name": "Собрание ангелов_12-23.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1065,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_Sobranie_angelov_12_23_1baf4a5de2.webp",
+              "hash": "large_Sobranie_angelov_12_23_1baf4a5de2",
+              "mime": "image/webp",
+              "name": "large_Собрание ангелов_12-23.webp",
+              "path": null,
+              "size": 91.22,
+              "width": 1000,
+              "height": 561
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_Sobranie_angelov_12_23_1baf4a5de2.webp",
+              "hash": "small_Sobranie_angelov_12_23_1baf4a5de2",
+              "mime": "image/webp",
+              "name": "small_Собрание ангелов_12-23.webp",
+              "path": null,
+              "size": 28.11,
+              "width": 500,
+              "height": 280
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_Sobranie_angelov_12_23_1baf4a5de2.webp",
+              "hash": "medium_Sobranie_angelov_12_23_1baf4a5de2",
+              "mime": "image/webp",
+              "name": "medium_Собрание ангелов_12-23.webp",
+              "path": null,
+              "size": 56.17,
+              "width": 750,
+              "height": 420
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_Sobranie_angelov_12_23_1baf4a5de2.webp",
+              "hash": "thumbnail_Sobranie_angelov_12_23_1baf4a5de2",
+              "mime": "image/webp",
+              "name": "thumbnail_Собрание ангелов_12-23.webp",
+              "path": null,
+              "size": 8.4,
+              "width": 245,
+              "height": 137
+            }
+          },
+          "hash": "Sobranie_angelov_12_23_1baf4a5de2",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 283.27,
+          "url": "/uploads/Sobranie_angelov_12_23_1baf4a5de2.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:27:02.034Z",
+          "updatedAt": "2024-04-10T14:27:02.034Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 9,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 79,
+          "name": "Собрание ангелов_12-27.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1070,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_Sobranie_angelov_12_27_e2ccdf92fc.webp",
+              "hash": "large_Sobranie_angelov_12_27_e2ccdf92fc",
+              "mime": "image/webp",
+              "name": "large_Собрание ангелов_12-27.webp",
+              "path": null,
+              "size": 113.94,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_Sobranie_angelov_12_27_e2ccdf92fc.webp",
+              "hash": "small_Sobranie_angelov_12_27_e2ccdf92fc",
+              "mime": "image/webp",
+              "name": "small_Собрание ангелов_12-27.webp",
+              "path": null,
+              "size": 35.04,
+              "width": 500,
+              "height": 282
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_Sobranie_angelov_12_27_e2ccdf92fc.webp",
+              "hash": "medium_Sobranie_angelov_12_27_e2ccdf92fc",
+              "mime": "image/webp",
+              "name": "medium_Собрание ангелов_12-27.webp",
+              "path": null,
+              "size": 71.19,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_Sobranie_angelov_12_27_e2ccdf92fc.webp",
+              "hash": "thumbnail_Sobranie_angelov_12_27_e2ccdf92fc",
+              "mime": "image/webp",
+              "name": "thumbnail_Собрание ангелов_12-27.webp",
+              "path": null,
+              "size": 9.01,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "Sobranie_angelov_12_27_e2ccdf92fc",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 361.82,
+          "url": "/uploads/Sobranie_angelov_12_27_e2ccdf92fc.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:27:02.068Z",
+          "updatedAt": "2024-04-10T14:27:02.068Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

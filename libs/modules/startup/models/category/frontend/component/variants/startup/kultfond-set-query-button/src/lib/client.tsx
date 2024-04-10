@@ -19,8 +19,17 @@ export default function Client(props: IComponentProps) {
 
   useEffect(() => {
     if (props.query && data) {
-      if (props.query.filters?.categories?.id?.$in?.[0] === `${data.id}`) {
-        setIsActive(true);
+      const filterKeys: any = Object.keys(props.query.filters?.categories);
+      if (filterKeys.length !== 0) {
+        for (let i = 0; i < filterKeys.length; i++) {
+          const localData: any = data;
+          if (
+            props.query.filters?.categories[filterKeys[i]].$in[0] ===
+            `${localData[filterKeys[i]]}`
+          ) {
+            setIsActive(true);
+          }
+        }
       } else {
         setIsActive(false);
       }
