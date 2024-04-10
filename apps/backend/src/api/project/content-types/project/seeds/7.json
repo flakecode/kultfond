@@ -1,0 +1,191 @@
+{
+  "id": 7,
+  "title": "Духовная Академия",
+  "location": "Санкт-Петербург",
+  "createdAt": "2024-04-09T23:58:50.801Z",
+  "updatedAt": "2024-04-10T01:42:57.606Z",
+  "publishedAt": "2024-04-09T23:58:51.796Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 67,
+      "name": "duhovnaya.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1125,
+      "height": 750,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_duhovnaya_1812d4df1e.png",
+          "hash": "large_duhovnaya_1812d4df1e",
+          "mime": "image/png",
+          "name": "large_duhovnaya.png",
+          "path": null,
+          "size": 1624.19,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_duhovnaya_1812d4df1e.png",
+          "hash": "small_duhovnaya_1812d4df1e",
+          "mime": "image/png",
+          "name": "small_duhovnaya.png",
+          "path": null,
+          "size": 437.36,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_duhovnaya_1812d4df1e.png",
+          "hash": "medium_duhovnaya_1812d4df1e",
+          "mime": "image/png",
+          "name": "medium_duhovnaya.png",
+          "path": null,
+          "size": 947.23,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_duhovnaya_1812d4df1e.png",
+          "hash": "thumbnail_duhovnaya_1812d4df1e",
+          "mime": "image/png",
+          "name": "thumbnail_duhovnaya.png",
+          "path": null,
+          "size": 105.18,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "duhovnaya_1812d4df1e",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 403.44,
+      "url": "/uploads/duhovnaya_1812d4df1e.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-10T01:42:51.587Z",
+      "updatedAt": "2024-04-10T01:42:51.587Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 28,
+      "title": "Духовная Академия",
+      "description": "Санкт-Петербург",
+      "variant": "kultfond-media-on-right-small",
+      "anchor": null,
+      "class_name": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": [
+        {
+          "id": 67,
+          "name": "duhovnaya.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1125,
+          "height": 750,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_duhovnaya_1812d4df1e.png",
+              "hash": "large_duhovnaya_1812d4df1e",
+              "mime": "image/png",
+              "name": "large_duhovnaya.png",
+              "path": null,
+              "size": 1624.19,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_duhovnaya_1812d4df1e.png",
+              "hash": "small_duhovnaya_1812d4df1e",
+              "mime": "image/png",
+              "name": "small_duhovnaya.png",
+              "path": null,
+              "size": 437.36,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_duhovnaya_1812d4df1e.png",
+              "hash": "medium_duhovnaya_1812d4df1e",
+              "mime": "image/png",
+              "name": "medium_duhovnaya.png",
+              "path": null,
+              "size": 947.23,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_duhovnaya_1812d4df1e.png",
+              "hash": "thumbnail_duhovnaya_1812d4df1e",
+              "mime": "image/png",
+              "name": "thumbnail_duhovnaya.png",
+              "path": null,
+              "size": 105.18,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "duhovnaya_1812d4df1e",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 403.44,
+          "url": "/uploads/duhovnaya_1812d4df1e.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T01:42:51.587Z",
+          "updatedAt": "2024-04-10T01:42:51.587Z"
+        }
+      ]
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 29,
+      "title": null,
+      "description": "С 2021 года по 2022 год были проведены ремонт и реставрация кровли и чердачного помещения главного здания Духовной академии. Заказчиком этих работы выступил Фонд совместно с, непосредственно, Санкт-Петербургской духовной академией.\n\nПроект был разработан ООО «Группа «Спектр». В ходе проведенныхреставрацилнных работ облик кровли не претерпел изменений — он соответствовует предмету охраны. Стропильная система, покрытие кровли и дмовые трубы были заменены на новые. В чердачном простарстве созданопомещение.\n\nНа этом реставрационные работы на объекте не закончились – в 2022 году начались работы по ремонту и реставрации фасадов главного здания, которые завершились к декабрю 2023 года. \n\nИсторический цвет фасадов был восстановлен (до начала работ первый этаж здания имел другой колер), дверные и оконные блоки заменили, на месте утраченных элементов декора созданы их точные копии. ",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "py-5",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 30,
+      "title": null,
+      "description": "Фонд также планирует провести ремонт внутренних помещений Главного здания Санкт-Петербургской духовной академии. Сейчас их состояние аварийное и для проведения учебного процесса они не подходят. В связи с этим академия вынуждена работать в здании Духовной семинарии, однако аудиторий там критически не хватает. \n\nТакже в Храме Двенадцати апостолов, расположенном непосредственно внутри главного здания, будут проведены работы по воссозданию монументальной живописи, однако раньше конца 2024 к ним приступить не удастся. \n\nКроме того, планируется воссоздание скульптурной композиции из двух ангелов, поддерживающих крест, которая ранее венчала фронтон портика на лицевом фасаде.\n\nЕще одно здание, входящее в состав комплекса Санкт-Петербургской духовной академии, в котором планируется проводить работы – Иконописное отделение академии. Для этих работ уже выполнена проектная документация.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "title": "В регионах России",
+      "createdAt": "2024-04-08T21:59:31.508Z",
+      "updatedAt": "2024-04-08T21:59:32.322Z",
+      "publishedAt": "2024-04-08T21:59:32.318Z",
+      "locale": "en"
+    }
+  ]
+}

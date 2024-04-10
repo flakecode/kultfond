@@ -9,10 +9,10 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="hero-section-block"
       data-variant={props.variant}
-      className="w-full pt-24 pb-32 bg-[#F5F5F5]"
+      className={`w-full px-4 lg:px-2 bg-[#F5F5F5] ${props.data.className || "pt-24 pb-32"}`}
     >
-      <div className="mx-auto max-w-7xl flex items-center gap-12">
-        <div className="w-[50%] -ml-[10%] flex">
+      <div className="mx-auto max-w-7xl flex flex-col lg:flex-row items-center gap-12">
+        <div className="w-full lg:w-[50%] -ml-[10%] flex">
           {props.data.media?.length ? (
             <div className="w-full flex">
               <File
@@ -25,9 +25,9 @@ export function Component(props: IComponentPropsExtended) {
             </div>
           ) : null}
         </div>
-        <div className="w-[60%] flex flex-col gap-10">
+        <div className="w-full lg:w-[60%] flex flex-col gap-10">
           {props.data.title ? (
-            <h1 className="text-4xl font-bold tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl font-primary">
+            <h1 className="text-4xl tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl font-primary">
               <ReactMarkdown>{props.data.title}</ReactMarkdown>
             </h1>
           ) : null}

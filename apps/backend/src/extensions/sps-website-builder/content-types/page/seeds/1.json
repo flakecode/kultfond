@@ -3,7 +3,7 @@
   "title": "Main page",
   "url": "/",
   "createdAt": "2024-04-02T21:53:26.929Z",
-  "updatedAt": "2024-04-03T14:35:39.026Z",
+  "updatedAt": "2024-04-10T00:15:22.063Z",
   "publishedAt": "2023-04-08T12:06:05.277Z",
   "locale": "en",
   "localizations": [
@@ -12,7 +12,7 @@
       "title": "Page d'accueil",
       "url": "/",
       "createdAt": "2024-04-02T21:53:26.976Z",
-      "updatedAt": "2024-04-03T14:35:39.054Z",
+      "updatedAt": "2024-04-10T00:15:22.103Z",
       "publishedAt": "2024-01-12T23:28:07.163Z",
       "locale": "fr"
     }
@@ -110,12 +110,37 @@
       ]
     },
     {
+      "__component": "page-blocks.projects-list-block",
+      "id": 2,
+      "variant": "kultfond-default",
+      "class_name": null,
+      "anchor": null,
+      "show_all": true,
+      "title": "Проекты",
+      "subtitle": null,
+      "description": null,
+      "buttons": [
+        {
+          "id": 43,
+          "url": "/projects",
+          "description": null,
+          "variant": "outline",
+          "title": "Смотреть все проекты",
+          "additional_attributes": null,
+          "class_name": null,
+          "media": null,
+          "additional_media": null,
+          "flyout": null
+        }
+      ]
+    },
+    {
       "__component": "page-blocks.hero-section-block",
       "id": 6,
       "title": "О фонде",
       "description": "Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге занимается проектами, направленными на восстановление исторического облика города. Наша задача — вернуть Санкт-Петербургу значимые объекты культурного наследия, созерцание которых радовало бы нынешнее и будущие поколения, и внести вклад в историю города.\n\nВ настоящее время при поддержке Фонда [завершена реставрация церкви Пресвятой Троицы в составе Киновии](https://kultfond.com/zavershenie-vosstanovitelnyh-rabot-v-kinovii-aleksandro-nevskoj-lavry/) Александро-Невской Лавры на Октябрьской набережной, [установлен памятный знак в честь первого петербургского храма — Троице-Петровского собора](https://kultfond.com/elementor-1290/) на Троицкой площади, а также продолжается [воссоздание храма иконы Божией Матери «Всех Скорбящих Радость» (с грошиками)](https://kultfond.com/cerkov-ikony-bozhej-materi-vseh-skor/) на проспекте Обуховской обороны. Ведутся работы по воссозданию [церкви Бориса и Глеба](https://kultfond.com/elementor-1191/) на Синопской набережной, реконструкции комплекса зданий Духовной Академии, воссозданию иконостаса Смольного собора и организации музея «Собрание Ангелов» под куполом Смольного собора.",
       "variant": "kultfond-description",
-      "anchor": null,
+      "anchor": "about",
       "class_name": null,
       "media": null,
       "buttons": [],
@@ -125,7 +150,7 @@
       "__component": "page-blocks.hero-section-block",
       "id": 7,
       "title": "Обращение",
-      "description": "Мы рады приветствовать вас на официальном сайте нашего Фонда. Наши фонды уже много лет занимаются восстановлением памятников архитектуры, а также строительством новых храмов там, где в этом нуждаются люди.\n\nМы гордимся возможностью принимать участие в возвращении исторического облика города. Петербург — это жемчужина мировой архитектуры, и наша задача — беречь его и вносить посильный вклад в его развитие.\n\nНаша команда — это люди, объединенные общей идеей, профессионалы с большой буквы: историки, искусствоведы, археологи, архитекторы, реставраторы и иконописцы, а также многие другие — все те, кто любит этот город и готов вкладывать душу в каждый его сантиметр и в каждую минуту своего труда.\n\nМы возвращаем Санкт-Петербургу значимые исторические объекты, созерцание которых радует каждого. Все вместе мы делаем наш город лучше!\nДиректор фонда",
+      "description": "Мы рады приветствовать вас на официальном сайте нашего Фонда. Наши фонды уже много лет занимаются восстановлением памятников архитектуры, а также строительством новых храмов там, где в этом нуждаются люди.\n\nМы гордимся возможностью принимать участие в возвращении исторического облика города. Петербург — это жемчужина мировой архитектуры, и наша задача — беречь его и вносить посильный вклад в его развитие.\n\nНаша команда — это люди, объединенные общей идеей, профессионалы с большой буквы: историки, искусствоведы, археологи, архитекторы, реставраторы и иконописцы, а также многие другие — все те, кто любит этот город и готов вкладывать душу в каждый его сантиметр и в каждую минуту своего труда.\n\nМы возвращаем Санкт-Петербургу значимые исторические объекты, созерцание которых радует каждого. Все вместе мы делаем наш город лучше!\n\nДиректор фонда",
       "variant": "kultfond-message-from-management",
       "anchor": null,
       "class_name": null,
@@ -199,47 +224,24 @@
       "buttons": [],
       "additional_media": [
         {
-          "id": 50,
-          "name": "sign-ilia-kozlov.png",
+          "id": 54,
+          "name": "sign-ilia-kozlov.svg",
           "alternativeText": null,
           "caption": null,
-          "width": 548,
-          "height": 114,
-          "formats": {
-            "small": {
-              "ext": ".png",
-              "url": "/uploads/small_sign_ilia_kozlov_bdc8645eb3.png",
-              "hash": "small_sign_ilia_kozlov_bdc8645eb3",
-              "mime": "image/png",
-              "name": "small_sign-ilia-kozlov.png",
-              "path": null,
-              "size": 14.6,
-              "width": 500,
-              "height": 104
-            },
-            "thumbnail": {
-              "ext": ".png",
-              "url": "/uploads/thumbnail_sign_ilia_kozlov_bdc8645eb3.png",
-              "hash": "thumbnail_sign_ilia_kozlov_bdc8645eb3",
-              "mime": "image/png",
-              "name": "thumbnail_sign-ilia-kozlov.png",
-              "path": null,
-              "size": 5.13,
-              "width": 245,
-              "height": 51
-            }
-          },
-          "hash": "sign_ilia_kozlov_bdc8645eb3",
-          "ext": ".png",
-          "mime": "image/png",
-          "size": 3.55,
-          "url": "/uploads/sign_ilia_kozlov_bdc8645eb3.png",
+          "width": 274,
+          "height": 58,
+          "formats": null,
+          "hash": "sign_ilia_kozlov_c18fb0d08c",
+          "ext": ".svg",
+          "mime": "image/svg+xml",
+          "size": 10.28,
+          "url": "/uploads/sign_ilia_kozlov_c18fb0d08c.svg",
           "previewUrl": null,
           "provider": "local",
           "provider_metadata": null,
           "folderPath": "/",
-          "createdAt": "2024-04-03T14:29:49.903Z",
-          "updatedAt": "2024-04-03T14:29:49.903Z"
+          "createdAt": "2024-04-03T21:31:32.986Z",
+          "updatedAt": "2024-04-03T21:31:32.986Z"
         }
       ]
     }

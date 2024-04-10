@@ -1,0 +1,191 @@
+{
+  "id": 2,
+  "title": "Храм во имя святого благоверного князя Александра Невского",
+  "location": "Ленинградская область, Кировский район, пос. Апраксин, ул. Школьная, д. 16 Б.",
+  "createdAt": "2024-04-03T22:30:14.791Z",
+  "updatedAt": "2024-04-10T01:44:49.744Z",
+  "publishedAt": "2024-04-03T22:30:15.944Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 71,
+      "name": "nevskogo-.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1125,
+      "height": 750,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_nevskogo_67897707f0.png",
+          "hash": "large_nevskogo_67897707f0",
+          "mime": "image/png",
+          "name": "large_nevskogo-.png",
+          "path": null,
+          "size": 1289.28,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_nevskogo_67897707f0.png",
+          "hash": "small_nevskogo_67897707f0",
+          "mime": "image/png",
+          "name": "small_nevskogo-.png",
+          "path": null,
+          "size": 346.38,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_nevskogo_67897707f0.png",
+          "hash": "medium_nevskogo_67897707f0",
+          "mime": "image/png",
+          "name": "medium_nevskogo-.png",
+          "path": null,
+          "size": 751.12,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_nevskogo_67897707f0.png",
+          "hash": "thumbnail_nevskogo_67897707f0",
+          "mime": "image/png",
+          "name": "thumbnail_nevskogo-.png",
+          "path": null,
+          "size": 84.37,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "nevskogo_67897707f0",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 299.94,
+      "url": "/uploads/nevskogo_67897707f0.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-10T01:44:43.684Z",
+      "updatedAt": "2024-04-10T01:44:43.684Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 10,
+      "title": "Храм во имя святого благоверного князя Александра Невского",
+      "description": "Ленинградская область, Кировский район, пос. Апраксин, ул. Школьная, д. 16 Б.",
+      "variant": "kultfond-media-on-right-small",
+      "anchor": null,
+      "class_name": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": [
+        {
+          "id": 71,
+          "name": "nevskogo-.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1125,
+          "height": 750,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_nevskogo_67897707f0.png",
+              "hash": "large_nevskogo_67897707f0",
+              "mime": "image/png",
+              "name": "large_nevskogo-.png",
+              "path": null,
+              "size": 1289.28,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_nevskogo_67897707f0.png",
+              "hash": "small_nevskogo_67897707f0",
+              "mime": "image/png",
+              "name": "small_nevskogo-.png",
+              "path": null,
+              "size": 346.38,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_nevskogo_67897707f0.png",
+              "hash": "medium_nevskogo_67897707f0",
+              "mime": "image/png",
+              "name": "medium_nevskogo-.png",
+              "path": null,
+              "size": 751.12,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_nevskogo_67897707f0.png",
+              "hash": "thumbnail_nevskogo_67897707f0",
+              "mime": "image/png",
+              "name": "thumbnail_nevskogo-.png",
+              "path": null,
+              "size": 84.37,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "nevskogo_67897707f0",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 299.94,
+          "url": "/uploads/nevskogo_67897707f0.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T01:44:43.684Z",
+          "updatedAt": "2024-04-10T01:44:43.684Z"
+        }
+      ]
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 18,
+      "title": null,
+      "description": "Летом 2013 года в Апраксине, где проходила линия Волховского фронта, был заложен первый камень в основание храмового комплекса воинской славы, задуманного как центральная доминанта военно-мемориальной зоны «Прорыв блокады Ленинграда, 1941–1944». Пока не был построен храм во имя Святого Благоверного князя Александра Невского, на месте легендарных ожесточенных боев за город на Неве не было ни одного памятника павшим освободителям. \n\nФонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге реализовал этот проект всего за год. В 2013 г. приходу был передан в безвозмездное срочное пользование земельный участок. В том же году началось строительство храма по проекту архитектора Р.М.Даянова. Уже в 2014 году храм был торжественно открыт для прихожан, а к 2015 году в нем завершились расписные работы, в их основу легли работы знаменитого русского архитектора XIX века Константина Тона в русско-византийском стиле, в частности, Петропавловская церковь в Любани, построенная в 1867 году по заказу железнодорожного ведомства.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "py-5",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 17,
+      "title": null,
+      "description": "Окончательная готовность объекта в 2015 году была приурочена к 70-летию со дня Победы в Великой Отечественной войне. \n\nВеликое освящение храма епископом Тихвинским и Лодейнопольским Мстиславом состоялось 1 июля 2016 года.\nХрам введен в эксплуатацию.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "title": "Завершённые проекты",
+      "createdAt": "2024-04-08T21:59:47.741Z",
+      "updatedAt": "2024-04-08T21:59:48.418Z",
+      "publishedAt": "2024-04-08T21:59:48.415Z",
+      "locale": "en"
+    }
+  ]
+}

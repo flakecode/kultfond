@@ -16,7 +16,7 @@
     "variant": "kultfond-black",
     "class_name": null,
     "createdAt": "2024-04-02T21:53:26.857Z",
-    "updatedAt": "2024-04-03T14:40:19.660Z",
+    "updatedAt": "2024-04-09T12:03:03.851Z",
     "publishedAt": "2024-01-10T11:45:35.047Z",
     "locale": "en"
   },
@@ -30,7 +30,7 @@
     "position": "fixed",
     "side": "top",
     "createdAt": "2024-04-02T21:53:26.915Z",
-    "updatedAt": "2024-04-03T14:37:18.170Z",
+    "updatedAt": "2024-04-09T12:16:58.653Z",
     "publishedAt": "2023-04-08T05:04:22.148Z",
     "locale": "en"
   },
@@ -43,7 +43,7 @@
       "title": "Main page",
       "url": "/",
       "createdAt": "2024-04-02T21:53:26.929Z",
-      "updatedAt": "2024-04-03T14:35:39.026Z",
+      "updatedAt": "2024-04-10T00:15:22.063Z",
       "publishedAt": "2023-04-08T12:06:05.277Z",
       "locale": "en"
     },
@@ -70,8 +70,26 @@
       "title": "Projects Page",
       "url": "/projects",
       "createdAt": "2024-04-03T14:41:04.838Z",
-      "updatedAt": "2024-04-03T14:52:08.410Z",
+      "updatedAt": "2024-04-08T22:08:12.292Z",
       "publishedAt": "2024-04-03T14:41:07.335Z",
+      "locale": "en"
+    },
+    {
+      "id": 11,
+      "title": "Project Page",
+      "url": "/projects/[api::project.project.id]",
+      "createdAt": "2024-04-04T09:52:25.695Z",
+      "updatedAt": "2024-04-04T10:03:57.584Z",
+      "publishedAt": "2024-04-04T09:52:27.029Z",
+      "locale": "en"
+    },
+    {
+      "id": 12,
+      "title": "Contacts",
+      "url": "/contacts",
+      "createdAt": "2024-04-09T11:08:03.873Z",
+      "updatedAt": "2024-04-09T11:09:17.768Z",
+      "publishedAt": "2024-04-09T11:08:07.474Z",
       "locale": "en"
     }
   ]

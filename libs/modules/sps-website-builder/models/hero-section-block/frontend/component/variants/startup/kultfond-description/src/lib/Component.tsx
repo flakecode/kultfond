@@ -9,11 +9,12 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="hero-section-block"
       data-variant={props.variant}
-      className="w-full bg-[#A48A67] pt-16 pb-24"
+      className={`w-full bg-[#A48A67] px-4 lg:px-2 ${props.data.className || "pt-16 pb-24"}`}
+      id={props.data.anchor ? props.data.anchor : undefined}
     >
-      <div className="mx-auto max-w-7xl flex flex-col gap-12">
+      <div className="mx-auto max-w-4xl flex flex-col gap-12">
         {props.data.title ? (
-          <h2 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl text-center text-white font-primary">
+          <h2 className="text-4xl tracking-tight sm:text-5xl md:text-6xl text-center text-white font-primary">
             <ReactMarkdown>{props.data.title}</ReactMarkdown>
           </h2>
         ) : null}

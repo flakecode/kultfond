@@ -1,0 +1,77 @@
+{
+  "id": 12,
+  "title": "Contacts",
+  "url": "/contacts",
+  "createdAt": "2024-04-09T11:08:03.873Z",
+  "updatedAt": "2024-04-09T11:09:17.768Z",
+  "publishedAt": "2024-04-09T11:08:07.474Z",
+  "locale": "en",
+  "localizations": [],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.features-section-block",
+      "id": 2,
+      "title": "Контакты",
+      "description": null,
+      "subtitle": null,
+      "variant": "kultfond-contacts",
+      "anchor": null,
+      "class_name": null,
+      "media": null,
+      "additional_media": null,
+      "features": [
+        {
+          "id": 14,
+          "description": "Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге",
+          "title": "Полное наименование",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 13,
+          "description": "[press@kultfond.сom](mailto:press@kultfond.сom)",
+          "title": "Адрес электронной почты",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 15,
+          "description": "7813277467 / 784001001",
+          "title": "ИНН / КПП",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 16,
+          "description": "1177800001972",
+          "title": "ОГРН",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 17,
+          "description": "Директор Козлов Илья Николаевич",
+          "title": "Руководитель (должность, ФИО) ",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "id": 2,
+    "title": "Public Page Layout",
+    "uid": "public-page-layout",
+    "variant": "wide",
+    "class_name": "[&>.layout-container]:pt-16",
+    "createdAt": "2024-04-02T21:53:26.879Z",
+    "updatedAt": "2024-04-02T21:53:32.391Z",
+    "publishedAt": "2023-04-20T03:23:38.447Z",
+    "locale": "en"
+  }
+}

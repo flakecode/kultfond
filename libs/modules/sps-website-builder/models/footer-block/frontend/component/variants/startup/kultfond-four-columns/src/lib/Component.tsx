@@ -10,10 +10,10 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="footer-block"
       data-variant={props.variant}
-      className="mx-auto max-w-7xl py-12 px-4 lg:pt-16 lg:pb-5 lg:px-0"
+      className="mx-auto max-w-7xl py-12 px-4 lg:pt-16 lg:pb-5 lg:px-2"
     >
       <div className="flex flex-col gap-4 lg:flex-row justify-between">
-        <div className="flex flex-col gap-4 w-full lg:w-4/12">
+        <div className="flex flex-col gap-4 w-9/12 lg:w-4/12">
           {props.data.logotype ? (
             <Logotype
               isServer={props.isServer}
@@ -22,7 +22,7 @@ export function Component(props: IComponentPropsExtended) {
             />
           ) : null}
         </div>
-        <div className="grid grid-cols-7 lg:justify-end w-full lg:w-7/12 gap-4">
+        <div className="flex flex-col lg:grid grid-cols-7 lg:justify-end w-full lg:w-7/12 gap-8 lg:gap-4">
           {props.data.buttonsArrays?.map((buttonsArray, index) => {
             return (
               <div key={index} className="col-span-2 last:col-span-3">
@@ -38,7 +38,7 @@ export function Component(props: IComponentPropsExtended) {
       </div>
       <div className="mt-8 border-t border-white border-opacity-10 pt-5 flex flex-col lg:flex-row w-full">
         {props.data.copyrights ? (
-          <ReactMarkdown className="text-lg text-center text-white text-opacity-30 mx-auto">
+          <ReactMarkdown className="text-sm lg:text-lg text-center text-white text-opacity-30 mx-auto">
             {props.data.copyrights}
           </ReactMarkdown>
         ) : null}

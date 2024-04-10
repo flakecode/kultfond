@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_blocks_project_overview_blocks",
+  "info": {
+    "displayName": "Project Overview Block",
+    "icon": "layout"
+  },
+  "options": {},
+  "attributes": {
+    "variant": {
+      "type": "enumeration",
+      "enum": ["kultfond-default"],
+      "default": "kultfond-default",
+      "required": true
+    },
+    "class_name": {
+      "type": "string"
+    },
+    "anchor": {
+      "type": "string"
+    }
+  }
+}

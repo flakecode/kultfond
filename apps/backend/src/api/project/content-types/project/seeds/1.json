@@ -1,0 +1,257 @@
+{
+  "id": 1,
+  "title": "Киновия Александро-Невской лавры",
+  "location": "Санкт-Петербург, Октябрьская наб., 23",
+  "createdAt": "2024-04-03T22:28:55.255Z",
+  "updatedAt": "2024-04-10T01:44:24.630Z",
+  "publishedAt": "2024-04-03T22:28:56.110Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 70,
+      "name": "kinovia.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1125,
+      "height": 750,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_kinovia_940b8ca6cd.png",
+          "hash": "large_kinovia_940b8ca6cd",
+          "mime": "image/png",
+          "name": "large_kinovia.png",
+          "path": null,
+          "size": 1749.13,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_kinovia_940b8ca6cd.png",
+          "hash": "small_kinovia_940b8ca6cd",
+          "mime": "image/png",
+          "name": "small_kinovia.png",
+          "path": null,
+          "size": 467.23,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_kinovia_940b8ca6cd.png",
+          "hash": "medium_kinovia_940b8ca6cd",
+          "mime": "image/png",
+          "name": "medium_kinovia.png",
+          "path": null,
+          "size": 1015.87,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_kinovia_940b8ca6cd.png",
+          "hash": "thumbnail_kinovia_940b8ca6cd",
+          "mime": "image/png",
+          "name": "thumbnail_kinovia.png",
+          "path": null,
+          "size": 111.04,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "kinovia_940b8ca6cd",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 415.27,
+      "url": "/uploads/kinovia_940b8ca6cd.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-10T01:44:17.262Z",
+      "updatedAt": "2024-04-10T01:44:17.262Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 9,
+      "title": "Киновия Александро-Невской лавры",
+      "description": "Санкт-Петербург, Октябрьская наб., 23",
+      "variant": "kultfond-media-on-right-small",
+      "anchor": null,
+      "class_name": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": [
+        {
+          "id": 70,
+          "name": "kinovia.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1125,
+          "height": 750,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_kinovia_940b8ca6cd.png",
+              "hash": "large_kinovia_940b8ca6cd",
+              "mime": "image/png",
+              "name": "large_kinovia.png",
+              "path": null,
+              "size": 1749.13,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_kinovia_940b8ca6cd.png",
+              "hash": "small_kinovia_940b8ca6cd",
+              "mime": "image/png",
+              "name": "small_kinovia.png",
+              "path": null,
+              "size": 467.23,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_kinovia_940b8ca6cd.png",
+              "hash": "medium_kinovia_940b8ca6cd",
+              "mime": "image/png",
+              "name": "medium_kinovia.png",
+              "path": null,
+              "size": 1015.87,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_kinovia_940b8ca6cd.png",
+              "hash": "thumbnail_kinovia_940b8ca6cd",
+              "mime": "image/png",
+              "name": "thumbnail_kinovia.png",
+              "path": null,
+              "size": 111.04,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "kinovia_940b8ca6cd",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 415.27,
+          "url": "/uploads/kinovia_940b8ca6cd.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T01:44:17.262Z",
+          "updatedAt": "2024-04-10T01:44:17.262Z"
+        }
+      ]
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 12,
+      "title": "",
+      "description": "История Киновии, что в переводе с греческого означает «общежительный монастырь», началась в 1714 году, когда царь Петр I подарил Александро-Невской лавре землю в Клочках, на противоположном берегу Невы.\n\nИзначально здесь находилось кирпичное производство, но с открытием месторождения глины рядом с монастырём производство пришло в упадок, поэтому к концу XVIII века земли стали использоваться только для сенокоса, и так практически в течение ста лет.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "py-5",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.features-section-block",
+      "id": 4,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "variant": "kultfond-years",
+      "anchor": null,
+      "class_name": "py-5",
+      "media": null,
+      "additional_media": null,
+      "features": [
+        {
+          "id": 20,
+          "description": "Наместник лавры митрополит Михаил, из-за периодических покушений крестьян из соседней деревни на данные земли, решил здесь создать летнюю резиденцию митрополита Новгородского и Санкт-Петербургского с хозяйством, храмом и общежитием для престарелых монахов и священников.\nУже в 1820 г. началось строительство загородного архиерейского дома –Киновии. Сначала построили деревянную шатровую колокольню с небольшим храмом, затем два каменных симметричных флигеля.\nЦентральным элементом Киновии Александро-Невской лавры является церковь Святой Троицы. Храм был спроектирован архитектором Григорием Карповым в русском стиле с одним большим и четырьмя меньшими куполами. ",
+          "title": "1820",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 22,
+          "description": "Начало строительства храма.",
+          "title": "1862",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 23,
+          "description": "Окончание строительства с освящением пятиглавого храма.",
+          "title": "1868",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        },
+        {
+          "id": 21,
+          "description": "Киновия была полностью ликвидирована, часть земли отдали трудовому товариществу. В 1937 г. здание церкви было сильно видоизменено и абсолютно утратило свой первоначальный вид: снесены купола, заложены оконные проёмы, разрушены все элементы наружного декора, с помощью железнодорожных рельсов были сконструированы три этажа, уничтожена живопись, внутренняя отделка храма и усыпальница. Все изменения в храме были обусловлены приспособлением здания для производственных целей.  В 1938 г. взорвали колокольню и снесли все пять глав. \nЦерковь стала использоваться как строительно-монтажная база, складское помещение, подземное бензохранилище и даже безгаражная стоянка автомобилей. В 1953 г. здание церкви переквалифицировалось в базу для ремонта механизмов. Такие изменения повлекли за собой дополнительные пристройки к храму, что полностью разрушило внешний облик церкви. При этом фасад здания также сильно пострадал, весь декор был сбит, в стенах пробиты новые окна, а старые заложены.",
+          "title": "1923",
+          "subtitle": null,
+          "media": null,
+          "additional_media": null
+        }
+      ]
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 15,
+      "title": null,
+      "description": "В 2001 г. церковь вернули верующим. В 2017 г. Фонд начал работы по воссозданию Киновии, в обезглавленную церковь вернулись купола, полностью был восстановлен фасад до первоначального облика храма.\n\nВ 2019 г. была восстановлены монументальная живопись и резной иконостас. В 2020 г. восстановленный храм официально открылся для прихожан. В подвале храма оборудован музей со свободным входом.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "py-5",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 16,
+      "title": "",
+      "description": "На сегодняшний день Киновия представляет собой не только храм, а целый комплекс различных зданий: дом причта, монастырская баня, отпевальня и другие сооружения.\n\nПомимо строительства всех зданий комплекса проводилось и масштабное благоустройство территории.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "В стадии реализации",
+      "createdAt": "2024-04-08T21:58:51.234Z",
+      "updatedAt": "2024-04-08T21:59:09.853Z",
+      "publishedAt": "2024-04-08T21:58:52.745Z",
+      "locale": "en"
+    },
+    {
+      "id": 2,
+      "title": "В регионах России",
+      "createdAt": "2024-04-08T21:59:31.508Z",
+      "updatedAt": "2024-04-08T21:59:32.322Z",
+      "publishedAt": "2024-04-08T21:59:32.318Z",
+      "locale": "en"
+    }
+  ]
+}

@@ -11,19 +11,23 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="projects-list-block"
       data-variant={props.variant}
-      className="w-full pb-32 bg-[#F5F5F5]"
+      className={`relative w-full px-4 lg:px-2 bg-[#F5F5F5] ${props.data.className || "pb-32 pt-5"}`}
     >
       <div className="mx-auto w-full max-w-7xl flex flex-col gap-12">
         {props.data.title ? (
-          <h1 className="text-4xl font-bold tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl text-center font-primary">
+          <h1 className="text-4xl tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl text-center font-primary">
             <ReactMarkdown>{props.data.title}</ReactMarkdown>
           </h1>
         ) : null}
         <Project isServer={props.isServer} variant="kultfond-get-all">
           {({ data }: { data: IProject[] }) => {
             return (
-              <div className="grid grid-cols-3 gap-8">
+              <div className="flex flex-col lg:grid grid-cols-3 gap-4 lg:gap-8">
                 {data.map((project, index) => {
+                  if (index >= 3) {
+                    return null;
+                  }
+
                   return (
                     <Project
                       key={index}

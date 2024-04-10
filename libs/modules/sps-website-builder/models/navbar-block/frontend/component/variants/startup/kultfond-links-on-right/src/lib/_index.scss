@@ -1,6 +1,9 @@
 [data-module="sps-website-builder"] {
   &[data-model="page-blocks.navbar-block"] {
     &[data-variant="kultfond-links-on-right"] {
+      [data-ui="button"][data-ui-variant="link"] {
+        @apply font-normal text-wrap text-center text-4xl lg:text-lg p-0;
+      }
     }
   }
 }
