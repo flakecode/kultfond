@@ -3,7 +3,7 @@
   "title": "Духовная Академия",
   "location": "Санкт-Петербург",
   "createdAt": "2024-04-09T23:58:50.801Z",
-  "updatedAt": "2024-04-10T11:32:34.088Z",
+  "updatedAt": "2024-04-10T14:42:37.830Z",
   "publishedAt": "2024-04-09T23:58:51.796Z",
   "locale": "en",
   "localizations": [],
@@ -164,6 +164,30 @@
       "media": null,
       "buttons": [],
       "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 8,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 7,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Духовная Академия",
+        "uid": null,
+        "createdAt": "2024-04-10T14:42:17.640Z",
+        "updatedAt": "2024-04-10T14:42:41.092Z",
+        "publishedAt": "2024-04-10T14:42:41.086Z",
+        "locale": "en"
+      }
     },
     {
       "__component": "page-blocks.hero-section-block",

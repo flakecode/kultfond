@@ -1,0 +1,853 @@
+{
+  "id": 6,
+  "variant": "fade-with-previews",
+  "show_full_screen": false,
+  "show_previews": false,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "Храм во имя святых благоверных князей Бориса и Глеба",
+  "uid": null,
+  "createdAt": "2024-04-10T14:38:33.842Z",
+  "updatedAt": "2024-04-10T14:40:35.022Z",
+  "publishedAt": "2024-04-10T14:39:11.887Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 31,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 101,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-19 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1069,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-19 copy.webp",
+              "path": null,
+              "size": 45.32,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-19 copy.webp",
+              "path": null,
+              "size": 15.09,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-19 copy.webp",
+              "path": null,
+              "size": 28.89,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-19 copy.webp",
+              "path": null,
+              "size": 4.86,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 125.04,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_19_copy_8ff635d4e1.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:39.743Z",
+          "updatedAt": "2024-04-10T14:37:39.743Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 32,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 102,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-27 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1068,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-27 copy.webp",
+              "path": null,
+              "size": 54.19,
+              "width": 1000,
+              "height": 562
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-27 copy.webp",
+              "path": null,
+              "size": 19.27,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-27 copy.webp",
+              "path": null,
+              "size": 35.25,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-27 copy.webp",
+              "path": null,
+              "size": 5.98,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 140.25,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_27_copy_3aada1103f.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:39.745Z",
+          "updatedAt": "2024-04-10T14:37:39.745Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 33,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 103,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-20 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1067,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-20 copy.webp",
+              "path": null,
+              "size": 55.04,
+              "width": 1000,
+              "height": 562
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-20 copy.webp",
+              "path": null,
+              "size": 18.54,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-20 copy.webp",
+              "path": null,
+              "size": 34.86,
+              "width": 750,
+              "height": 421
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-20 copy.webp",
+              "path": null,
+              "size": 5.78,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 149.75,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_20_copy_94301968c4.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:39.823Z",
+          "updatedAt": "2024-04-10T14:37:39.823Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 34,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 104,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-28 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1071,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-28 copy.webp",
+              "path": null,
+              "size": 62.8,
+              "width": 1000,
+              "height": 564
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-28 copy.webp",
+              "path": null,
+              "size": 21.04,
+              "width": 500,
+              "height": 282
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-28 copy.webp",
+              "path": null,
+              "size": 40.93,
+              "width": 750,
+              "height": 423
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-28 copy.webp",
+              "path": null,
+              "size": 6.19,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 168.69,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_28_copy_67f800d301.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:39.837Z",
+          "updatedAt": "2024-04-10T14:37:39.837Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 35,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 105,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-29 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1069,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-29 copy.webp",
+              "path": null,
+              "size": 45.91,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-29 copy.webp",
+              "path": null,
+              "size": 17.38,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-29 copy.webp",
+              "path": null,
+              "size": 30.68,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-29 copy.webp",
+              "path": null,
+              "size": 5.96,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 118.29,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_29_copy_a7b3594876.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:39.838Z",
+          "updatedAt": "2024-04-10T14:37:39.838Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 36,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 106,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-24 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1067,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-24 copy.webp",
+              "path": null,
+              "size": 41.55,
+              "width": 1000,
+              "height": 562
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-24 copy.webp",
+              "path": null,
+              "size": 14.92,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-24 copy.webp",
+              "path": null,
+              "size": 27.28,
+              "width": 750,
+              "height": 421
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-24 copy.webp",
+              "path": null,
+              "size": 5.01,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 106.89,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_24_copy_4327e869f0.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:39.946Z",
+          "updatedAt": "2024-04-10T14:37:39.946Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 37,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 107,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-25 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1070,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-25 copy.webp",
+              "path": null,
+              "size": 26.7,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-25 copy.webp",
+              "path": null,
+              "size": 10.02,
+              "width": 500,
+              "height": 282
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-25 copy.webp",
+              "path": null,
+              "size": 17.83,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-25 copy.webp",
+              "path": null,
+              "size": 3.74,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 66.47,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_25_copy_b4ace659b6.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:40.303Z",
+          "updatedAt": "2024-04-10T14:37:40.303Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 40,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 108,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-23 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1069,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-23 copy.webp",
+              "path": null,
+              "size": 35.63,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-23 copy.webp",
+              "path": null,
+              "size": 12.71,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-23 copy.webp",
+              "path": null,
+              "size": 23.3,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-23 copy.webp",
+              "path": null,
+              "size": 4.52,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 90.55,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_23_copy_776f0952f8.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:40.339Z",
+          "updatedAt": "2024-04-10T14:37:40.339Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 39,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 109,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-22 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1069,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-22 copy.webp",
+              "path": null,
+              "size": 31.66,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-22 copy.webp",
+              "path": null,
+              "size": 11.02,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-22 copy.webp",
+              "path": null,
+              "size": 20.39,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-22 copy.webp",
+              "path": null,
+              "size": 3.58,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 81.26,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_22_copy_bd2b4fb90b.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:40.420Z",
+          "updatedAt": "2024-04-10T14:37:40.420Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 41,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 110,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-21 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1069,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-21 copy.webp",
+              "path": null,
+              "size": 34.35,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-21 copy.webp",
+              "path": null,
+              "size": 12.35,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-21 copy.webp",
+              "path": null,
+              "size": 22.76,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-21 copy.webp",
+              "path": null,
+              "size": 4.1,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 88.12,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_21_copy_076b6b60e6.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:40.421Z",
+          "updatedAt": "2024-04-10T14:37:40.421Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 38,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 111,
+          "name": "АГО Храм Бориса и Глеба 14-02-2024-26 copy.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1900,
+          "height": 1070,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "/uploads/large_AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a.webp",
+              "hash": "large_AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a",
+              "mime": "image/webp",
+              "name": "large_АГО Храм Бориса и Глеба 14-02-2024-26 copy.webp",
+              "path": null,
+              "size": 28.24,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "/uploads/small_AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a.webp",
+              "hash": "small_AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a",
+              "mime": "image/webp",
+              "name": "small_АГО Храм Бориса и Глеба 14-02-2024-26 copy.webp",
+              "path": null,
+              "size": 10.73,
+              "width": 500,
+              "height": 282
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "/uploads/medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a.webp",
+              "hash": "medium_AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a",
+              "mime": "image/webp",
+              "name": "medium_АГО Храм Бориса и Глеба 14-02-2024-26 copy.webp",
+              "path": null,
+              "size": 19.42,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "/uploads/thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a.webp",
+              "hash": "thumbnail_AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a",
+              "mime": "image/webp",
+              "name": "thumbnail_АГО Храм Бориса и Глеба 14-02-2024-26 copy.webp",
+              "path": null,
+              "size": 3.95,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 66.07,
+          "url": "/uploads/AGO_Hram_Borisa_i_Gleba_14_02_2024_26_copy_b01c2d7f5a.webp",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-10T14:37:40.431Z",
+          "updatedAt": "2024-04-10T14:37:40.431Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

@@ -22,9 +22,10 @@ export default function Client(props: IComponentProps) {
       const filterKeys: any = Object.keys(props.query.filters?.categories);
       if (filterKeys.length !== 0) {
         for (let i = 0; i < filterKeys.length; i++) {
+          const localData: any = data;
           if (
             props.query.filters?.categories[filterKeys[i]].$in[0] ===
-            `${data[filterKeys[i]]}`
+            `${localData[filterKeys[i]]}`
           ) {
             setIsActive(true);
           }

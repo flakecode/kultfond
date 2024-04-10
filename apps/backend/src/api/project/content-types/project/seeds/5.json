@@ -3,7 +3,7 @@
   "title": "Колокольня Смольного собора",
   "location": "Санкт-Петербург, Синопская наб.",
   "createdAt": "2024-04-09T23:53:31.913Z",
-  "updatedAt": "2024-04-10T12:42:41.817Z",
+  "updatedAt": "2024-04-10T14:45:40.795Z",
   "publishedAt": "2024-04-09T23:53:33.017Z",
   "locale": "en",
   "localizations": [],
@@ -164,6 +164,30 @@
       "media": null,
       "buttons": [],
       "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 9,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "py-5",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 8,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Колокольня Смольного собора",
+        "uid": null,
+        "createdAt": "2024-04-10T14:45:19.274Z",
+        "updatedAt": "2024-04-10T14:45:20.230Z",
+        "publishedAt": "2024-04-10T14:45:20.221Z",
+        "locale": "en"
+      }
     },
     {
       "__component": "page-blocks.features-section-block",
