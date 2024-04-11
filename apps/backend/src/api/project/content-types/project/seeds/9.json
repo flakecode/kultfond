@@ -3,7 +3,7 @@
   "title": "Смольный Собор",
   "location": "Санкт-Петербург",
   "createdAt": "2024-04-10T00:04:07.352Z",
-  "updatedAt": "2024-04-10T14:36:29.264Z",
+  "updatedAt": "2024-04-11T21:11:10.949Z",
   "publishedAt": "2024-04-10T00:04:08.739Z",
   "locale": "en",
   "localizations": [],
@@ -82,7 +82,7 @@
       "description": "Санкт-Петербург",
       "variant": "kultfond-media-on-right-small",
       "anchor": null,
-      "class_name": "pt-20 lg:pt-40 pb-20 lg:pb-40",
+      "class_name": null,
       "media": null,
       "buttons": [],
       "additional_media": [

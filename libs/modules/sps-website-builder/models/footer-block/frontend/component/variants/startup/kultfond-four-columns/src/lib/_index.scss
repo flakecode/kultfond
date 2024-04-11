@@ -6,7 +6,7 @@
         &[data-variant="kultfond-column-with-title"] {
           .buttons-array-column-with-title {
             .buttons-array-title {
-              @apply text-white opacity-100 capitalize text-2xl mb-2 lg:mb-6 font-primary;
+              @apply text-white opacity-100 capitalize text-lg lg:text-2xl mb-2 lg:mb-6 font-primary;
             }
 
             .buttons-array-description {

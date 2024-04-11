@@ -11,7 +11,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="startup"
       data-model="project"
       data-variant={props.variant}
-      className="w-full pt-5 pb-8 bg-white flex flex-col justify-between cursor-pointer group overflow-hidden"
+      className="w-full lg:pt-5 pb-3 lg:pb-8 bg-white flex flex-col justify-between cursor-pointer group overflow-hidden"
     >
       <div className="group-hover:scale-125 opacity-90 group-hover:opacity-100 transition duration-500 ease-in-out">
         {props.data.media && props.data.media?.length > 0 ? (
@@ -20,12 +20,12 @@ export function Component(props: IComponentPropsExtended) {
             data={props.data.media[0]}
             variant="image"
             className="object-contain"
-            containerClassName="w-full aspect-w-4 aspect-h-4 relative"
+            containerClassName="w-full aspect-w-4 aspect-h-3 relative"
           />
         ) : null}
       </div>
-      <div className="flex flex-col gap-5 px-5 h-full justify-between">
-        <div className="flex justify-start flex-col gap-5">
+      <div className="flex flex-col gap-5 pt-5 px-5 h-full justify-between">
+        <div className="flex justify-start flex-col gap-4 lg:gap-5">
           <div className="flex flex-row flex-wrap items-center gap-3">
             {props.data.categories?.map((category, index) => {
               return (

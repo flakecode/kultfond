@@ -15,7 +15,7 @@ export function Component(props: IComponentPropsExtended) {
           isServer={false}
           variant="image"
           data={props.data.media[0]}
-          containerClassName="relative w-full aspect-w-5 aspect-h-1"
+          containerClassName="relative w-full aspect-w-5 aspect-h-2"
           className="object-contain object-left"
         />
       ) : null}

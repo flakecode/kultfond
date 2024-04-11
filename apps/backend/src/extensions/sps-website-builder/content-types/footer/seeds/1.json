@@ -5,7 +5,7 @@
   "variant": "kultfond-black",
   "class_name": null,
   "createdAt": "2024-04-02T21:53:26.857Z",
-  "updatedAt": "2024-04-10T21:00:19.667Z",
+  "updatedAt": "2024-04-11T21:22:33.513Z",
   "publishedAt": "2024-01-10T11:45:35.047Z",
   "locale": "en",
   "localizations": [
@@ -35,24 +35,24 @@
         "url": null,
         "media": [
           {
-            "id": 53,
-            "name": "logo-wide.svg",
+            "id": 228,
+            "name": "Logo.svg",
             "alternativeText": null,
             "caption": null,
-            "width": 493,
-            "height": 110,
+            "width": 316,
+            "height": 88,
             "formats": null,
-            "hash": "logo_wide_208d8c054f",
+            "hash": "Logo_7a6aa86bf8",
             "ext": ".svg",
             "mime": "image/svg+xml",
-            "size": 2532.39,
-            "url": "/uploads/logo_wide_208d8c054f.svg",
+            "size": 169.48,
+            "url": "/uploads/Logo_7a6aa86bf8.svg",
             "previewUrl": null,
             "provider": "local",
             "provider_metadata": null,
             "folderPath": "/",
-            "createdAt": "2024-04-03T14:40:08.996Z",
-            "updatedAt": "2024-04-03T14:40:08.996Z"
+            "createdAt": "2024-04-11T21:22:31.293Z",
+            "updatedAt": "2024-04-11T21:22:31.293Z"
           }
         ],
         "additional_media": null

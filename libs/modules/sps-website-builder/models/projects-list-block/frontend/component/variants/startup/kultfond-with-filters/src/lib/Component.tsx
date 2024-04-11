@@ -12,7 +12,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="projects-list-block"
       data-variant={props.variant}
-      className={`w-full px-4 lg:px-2 bg-[#F5F5F5] ${props.data.className || "py-20 lg:py-40"}`}
+      className={`w-full bg-[#F5F5F5] ${props.data.className || "py-20 lg:py-40"}`}
     >
       <PageGetQueryFromUrl
         isServer={props.isServer}
@@ -21,7 +21,7 @@ export function Component(props: IComponentPropsExtended) {
         {({ data: query }) => {
           return (
             <div className="mx-auto w-full flex flex-col gap-12">
-              <div className="mx-auto w-full max-w-7xl">
+              <div className="px-4 lg:px-2  mx-auto w-full max-w-7xl">
                 {props.data.title ? (
                   <h1 className="text-4xl tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl font-primary">
                     <ReactMarkdown>{props.data.title}</ReactMarkdown>
@@ -32,12 +32,12 @@ export function Component(props: IComponentPropsExtended) {
                 <Category isServer={props.isServer} variant="kultfond-get-all">
                   {({ data }) => {
                     return (
-                      <div className="flex flex-col lg:flex-row">
+                      <div className="flex flex-row overflow-x-scroll">
                         <Link
                           data-module="startup"
                           data-model="category"
                           data-variant={props.variant}
-                          className="px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left"
+                          className="ml-4 lg:ml-0 px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left whitespace-nowrap"
                           href="?"
                         >
                           <p className="">Все проекты</p>
@@ -60,7 +60,7 @@ export function Component(props: IComponentPropsExtended) {
                           data-module="startup"
                           data-model="category"
                           data-variant={props.variant}
-                          className="px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left"
+                          className="px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left mr-4 lg:mr-0 whitespace-nowrap"
                           href="?filters[title]=Колокольня Смольного собора"
                         >
                           <p className="">Колокольня Смольного собора</p>
@@ -73,53 +73,55 @@ export function Component(props: IComponentPropsExtended) {
                   }}
                 </Category>
               </div>
-              {query?.filters?.title === "Колокольня Смольного собора" ? (
-                <Project
-                  isServer={props.isServer}
-                  variant="kultfond-get-all"
-                  query={query}
-                >
-                  {({ data }) => {
-                    return (
-                      <div className="w-full">
-                        {data?.map((project, index) => {
-                          return (
-                            <Project
-                              key={index}
-                              isServer={props.isServer}
-                              variant="kultfond-overview"
-                              data={project}
-                            />
-                          );
-                        })}
-                      </div>
-                    );
-                  }}
-                </Project>
-              ) : (
-                <Project
-                  isServer={props.isServer}
-                  variant="kultfond-get-all"
-                  query={query}
-                >
-                  {({ data }) => {
-                    return (
-                      <div className="mx-auto w-full max-w-7xl flex flex-col lg:grid grid-cols-3 gap-4 lg:gap-8">
-                        {data?.map((project, index) => {
-                          return (
-                            <Project
-                              key={index}
-                              isServer={props.isServer}
-                              variant="kultfond-card"
-                              data={project}
-                            />
-                          );
-                        })}
-                      </div>
-                    );
-                  }}
-                </Project>
-              )}
+              <div className="px-4 lg:px-2">
+                {query?.filters?.title === "Колокольня Смольного собора" ? (
+                  <Project
+                    isServer={props.isServer}
+                    variant="kultfond-get-all"
+                    query={query}
+                  >
+                    {({ data }) => {
+                      return (
+                        <div className="w-full">
+                          {data?.map((project, index) => {
+                            return (
+                              <Project
+                                key={index}
+                                isServer={props.isServer}
+                                variant="kultfond-overview"
+                                data={project}
+                              />
+                            );
+                          })}
+                        </div>
+                      );
+                    }}
+                  </Project>
+                ) : (
+                  <Project
+                    isServer={props.isServer}
+                    variant="kultfond-get-all"
+                    query={query}
+                  >
+                    {({ data }) => {
+                      return (
+                        <div className="mx-auto w-full max-w-7xl flex flex-col lg:grid grid-cols-3 gap-4 lg:gap-8">
+                          {data?.map((project, index) => {
+                            return (
+                              <Project
+                                key={index}
+                                isServer={props.isServer}
+                                variant="kultfond-card"
+                                data={project}
+                              />
+                            );
+                          })}
+                        </div>
+                      );
+                    }}
+                  </Project>
+                )}
+              </div>
             </div>
           );
         }}

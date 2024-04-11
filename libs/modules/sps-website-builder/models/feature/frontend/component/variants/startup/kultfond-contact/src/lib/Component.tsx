@@ -13,13 +13,15 @@ export function Component(props: IComponentPropsExtended) {
     >
       <div className="lg:w-5/12 text-lg mb-2 lg:mb-0">
         {props.data.title ? (
-          <ReactMarkdown className="text-xl">{props.data.title}</ReactMarkdown>
+          <ReactMarkdown className="opacity-50 lg:opacity-100 text-base lg:text-xl">
+            {props.data.title}
+          </ReactMarkdown>
         ) : null}
       </div>
       <div className="lg:w-7/12 text-lg">
         {props.data.description ? (
           <ReactMarkdown
-            className="text-xl"
+            className="text-base lg:text-xl"
             components={{
               a: ({ node, ...props }) => {
                 if (!props.href) {

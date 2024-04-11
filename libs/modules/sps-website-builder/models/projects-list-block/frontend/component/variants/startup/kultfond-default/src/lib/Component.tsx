@@ -13,9 +13,9 @@ export function Component(props: IComponentPropsExtended) {
       data-variant={props.variant}
       className={`relative w-full px-4 lg:px-2 bg-[#F5F5F5] ${props.data.className || "pb-32 pt-5"}`}
     >
-      <div className="mx-auto w-full max-w-7xl flex flex-col gap-12">
+      <div className="mx-auto w-full max-w-7xl flex flex-col gap-5 lg:gap-12">
         {props.data.title ? (
-          <h1 className="text-4xl tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl text-center font-primary">
+          <h1 className="text-3xl tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl text-center font-primary">
             <ReactMarkdown>{props.data.title}</ReactMarkdown>
           </h1>
         ) : null}
@@ -41,7 +41,7 @@ export function Component(props: IComponentPropsExtended) {
             );
           }}
         </Project>
-        <div className="flex items-center gap-8 mx-auto">
+        <div className="flex w-full lg:w-fit items-center gap-8 mx-auto">
           {props.data.buttons?.map((button, index) => {
             return (
               <Button

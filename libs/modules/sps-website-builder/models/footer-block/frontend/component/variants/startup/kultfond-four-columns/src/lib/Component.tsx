@@ -10,10 +10,10 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="footer-block"
       data-variant={props.variant}
-      className="mx-auto max-w-7xl py-12 px-4 lg:pt-16 lg:pb-5 lg:px-2"
+      className="mx-auto max-w-7xl pb-8 pt-8 px-4 lg:pt-16 lg:pb-5 lg:px-2"
     >
       <div className="flex flex-col gap-4 lg:flex-row justify-between">
-        <div className="flex flex-col gap-4 w-9/12 lg:w-3/12">
+        <div className="flex flex-col gap-4 w-full lg:w-3/12">
           {props.data.logotype ? (
             <Logotype
               isServer={props.isServer}
@@ -22,6 +22,7 @@ export function Component(props: IComponentPropsExtended) {
             />
           ) : null}
         </div>
+        <div className="w-full h-px bg-[#F4F4F4] opacity-10 flex lg:hidden"></div>
         <div className="flex flex-col lg:grid grid-cols-8 lg:justify-end w-full lg:w-8/12 gap-8 lg:gap-4">
           {props.data.buttonsArrays?.map((buttonsArray, index) => {
             return (

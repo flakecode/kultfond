@@ -9,11 +9,22 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="hero-section-block"
       data-variant={props.variant}
-      className={`w-full overflow-hidden bg-[#F5F5F5] px-4 lg:px-2 ${props.data.className || "pt-20 lg:pt-40 pb-10 lg:pb-20"}`}
+      className={`w-full overflow-hidden bg-[#F5F5F5] px-4 lg:px-2 ${props.data.className || "pt-20 pb-10 lg:pt-52 lg:pb-40"}`}
     >
       <div className="mx-auto max-w-7xl">
-        <div className="flex items-center justify-between">
-          <div className="flex flex-shrink-0 w-10/12 lg:w-8/12 flex-col gap-8 relative z-10">
+        <div className="flex flex-col lg:flex-row items-center justify-between">
+          {props.data.additionalMedia?.length ? (
+            <div className="w-[150%] flex lg:hidden justify-center">
+              <File
+                variant="image"
+                isServer={false}
+                data={props.data.additionalMedia[0]}
+                containerClassName="w-full relative aspect-w-4 aspect-h-3"
+                className="object-contain"
+              />
+            </div>
+          ) : null}
+          <div className="flex flex-shrink-0 w-full mt-5 lg:mt-0 lg:w-8/12 flex-col gap-8 relative z-10">
             {props.data.title ? (
               <h1 className="text-2xl lg:text-[60px] leading-tight xl:inline text-[#252525] md:text-[60px] font-primary">
                 <ReactMarkdown>{props.data.title}</ReactMarkdown>
@@ -39,7 +50,7 @@ export function Component(props: IComponentPropsExtended) {
             ) : null}
           </div>
           {props.data.additionalMedia?.length ? (
-            <div className="w-2/12 lg:w-4/12 flex justify-center">
+            <div className="hidden w-4/12 lg:flex justify-center">
               <div className="w-full h-px relative flex">
                 <div className="absolute inset-0 w-[60vw] lg:w-[140%] opacity-30 lg:opacity-100">
                   <div className="transform -translate-x-1/2 lg:translate-x-0 -translate-y-1/2 relative">

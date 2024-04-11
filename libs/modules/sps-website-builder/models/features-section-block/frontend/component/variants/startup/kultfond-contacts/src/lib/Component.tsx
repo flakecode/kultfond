@@ -11,13 +11,13 @@ export function Component(props: IComponentPropsExtended) {
       data-variant={props.variant}
       className={`w-full bg-[#F5F5F5] px-4 lg:px-2 ${props.data.className || "py-40"}`}
     >
-      <div className="mx-auto w-full max-w-7xl flex flex-col gap-16">
+      <div className="mx-auto w-full max-w-7xl flex flex-col gap-10 lg:gap-16">
         {props.data.title ? (
-          <h1 className="text-4xl tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl font-primary">
+          <h1 className="text-3xl tracking-tight xl:inline text-[#252525] sm:text-5xl md:text-6xl font-primary">
             <ReactMarkdown>{props.data.title}</ReactMarkdown>
           </h1>
         ) : null}
-        <div className="flex flex-col gap-10 lg:w-8/12">
+        <div className="flex flex-col gap-8 lg:gap-10 lg:w-8/12">
           {props.data?.features?.map((feature, index) => {
             return (
               <Feature

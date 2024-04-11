@@ -44,7 +44,7 @@ function DisclosureInner({
   return (
     <div className="mx-auto flex flex-row w-full">
       <div className="flex w-full justify-between lg:pt-8">
-        <div className="flex w-full px-2 lg:px-2 justify-between">
+        <div className="flex w-full px-2 py-4 lg:py-0 lg:px-2 justify-between">
           <div className="flex flex-col gap-4 w-10/12 lg:w-4/12 max-w-[450px]">
             {props.data.logotype ? (
               <Logotype
@@ -69,27 +69,36 @@ function DisclosureInner({
         </div>
       </div>
 
-      <div className="fixed bg-white rounded-full w-[50px] h-[50px] right-4 top-[3vw] flex flex-shrink-0 items-center lg:hidden z-30 flex items-center justify-center">
-        <Disclosure.Button className="items-center justify-center rounded-md hover:text-gray-500 focus:outline-none  focus:ring-inset focus:ring-transparent gap-3 flex flex-col">
+      <div className="fixed right-4 top-4 z-20">
+        <Disclosure.Button className="bg-white border border-[#A48A67] w-[50px] h-[50px] flex flex-shrink-0 items-center lg:hidden z-30 flex items-center justify-center items-center justify-center hover:text-gray-500 focus:outline-none  focus:ring-inset focus:ring-transparent gap-3 flex flex-col">
           <div
-            className={`w-[30px] h-[2px]  transform duration-200 ${
+            className={`w-[30px] h-[2px] transform duration-200 ${
               disclosure.open
-                ? "rotate-45 translate-y-2.5 bg-[#1D1D1D]"
-                : "bg-[#1D1D1D]"
+                ? "rotate-45 translate-y-2.5 -mt-1.5 bg-black"
+                : "bg-black mt-0"
             }`}
           ></div>
           <div
             className={`w-[30px] h-[2px]  transform duration-200 ${
               disclosure.open
-                ? "-rotate-45 -translate-y-1 bg-[#1D1D1D]"
-                : "bg-[#1D1D1D]"
+                ? "-rotate-45 -translate-y-1 bg-black"
+                : "bg-black"
             }`}
           ></div>
         </Disclosure.Button>
       </div>
 
-      <Disclosure.Panel className="fixed flex flex-col items-center w-screen h-screen bg-white lg:hidden p-2">
-        <div className="w-10/12 h-full flex flex-col items-center justify-center gap-20">
+      <Disclosure.Panel className="fixed flex flex-col w-screen h-screen lg:hidden p-2 py-4 bg-[#F4F4F4]">
+        <div className="flex flex-col gap-4 w-10/12 lg:w-4/12 max-w-[450px]">
+          {props.data.logotype ? (
+            <Logotype
+              isServer={false}
+              data={props.data.logotype}
+              variant="kultfond-square"
+            />
+          ) : null}
+        </div>
+        <div className="w-full h-full flex flex-col gap-14 justify-center font-primary">
           {props.data.buttons?.map((button, index) => {
             return (
               <Button

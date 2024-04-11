@@ -3,7 +3,7 @@
   "title": "Колокольня Смольного собора",
   "location": "Санкт-Петербург, Синопская наб.",
   "createdAt": "2024-04-09T23:53:31.913Z",
-  "updatedAt": "2024-04-10T14:45:40.795Z",
+  "updatedAt": "2024-04-11T21:11:45.058Z",
   "publishedAt": "2024-04-09T23:53:33.017Z",
   "locale": "en",
   "localizations": [],
@@ -82,7 +82,7 @@
       "description": "Санкт-Петербург, Синопская наб.",
       "variant": "kultfond-media-on-right-small",
       "anchor": null,
-      "class_name": "pt-20 lg:pt-40 pb-20 lg:pb-40",
+      "class_name": null,
       "media": null,
       "buttons": [],
       "additional_media": [

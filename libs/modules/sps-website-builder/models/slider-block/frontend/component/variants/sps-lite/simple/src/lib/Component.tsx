@@ -7,7 +7,7 @@ export function Component(props: IComponentPropsExtended) {
       data-module="sps-website-builder"
       data-model="page-blocks.slider-block"
       data-variant={props.variant}
-      className={`w-full bg-[#F5F5F5] ${props.data.className || "py-20"}`}
+      className={`w-full bg-[#F5F5F5] px-4 lg:px-2 ${props.data.className || "py-20"}`}
     >
       <div className="w-full max-w-4xl mx-auto bg-white relative ">
         {props.data.title ? (

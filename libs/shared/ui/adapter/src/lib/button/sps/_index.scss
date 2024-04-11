@@ -40,6 +40,6 @@
   }
 
   &[data-ui-variant="outline"] {
-    @apply p-3 lg:p-5 border border-[#A48A67] rounded-none text-sm lg:text-lg font-medium hover:bg-[#A48A67] hover:text-white leading-none;
+    @apply w-full p-5 border border-[#A48A67] rounded-none text-lg font-medium hover:bg-[#A48A67] hover:text-white leading-none;
   }
 }
