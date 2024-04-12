@@ -7,7 +7,7 @@
   "position": "fixed",
   "side": "top",
   "createdAt": "2024-04-02T21:53:26.915Z",
-  "updatedAt": "2024-04-10T12:25:30.520Z",
+  "updatedAt": "2024-04-12T12:56:59.185Z",
   "publishedAt": "2023-04-08T05:04:22.148Z",
   "locale": "en",
   "localizations": [
@@ -38,24 +38,24 @@
         "url": "/",
         "media": [
           {
-            "id": 52,
-            "name": "logo.svg",
+            "id": 229,
+            "name": "Logo.svg",
             "alternativeText": null,
             "caption": null,
-            "width": 67,
-            "height": 70,
+            "width": 2804,
+            "height": 2864,
             "formats": null,
-            "hash": "logo_2fc4e2ef48",
+            "hash": "Logo_3f25e686f3",
             "ext": ".svg",
             "mime": "image/svg+xml",
-            "size": 2490.17,
-            "url": "/uploads/logo_2fc4e2ef48.svg",
+            "size": 120.05,
+            "url": "/uploads/Logo_3f25e686f3.svg",
             "previewUrl": null,
             "provider": "local",
             "provider_metadata": null,
             "folderPath": "/",
-            "createdAt": "2024-04-03T14:36:15.277Z",
-            "updatedAt": "2024-04-03T14:36:15.277Z"
+            "createdAt": "2024-04-12T12:56:56.734Z",
+            "updatedAt": "2024-04-12T12:56:56.734Z"
           }
         ],
         "additional_media": null
