@@ -14,7 +14,7 @@ export function Component(props: IComponentPropsExtended) {
       <Link href={props.data.url || "/"}>
         {props.data.media?.length ? (
           <File
-            isServer={false}
+            isServer={props.isServer}
             variant="image"
             data={props.data.media[0]}
             containerClassName="relative w-[50px] h-[50px] lg:w-[70px] lg:h-[70px]"

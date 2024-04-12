@@ -12,7 +12,7 @@ export function Component(props: IComponentPropsExtended) {
     >
       {props.data.media?.length ? (
         <File
-          isServer={false}
+          isServer={props.isServer}
           variant="image"
           data={props.data.media[0]}
           containerClassName="relative w-full aspect-w-5 aspect-h-2"

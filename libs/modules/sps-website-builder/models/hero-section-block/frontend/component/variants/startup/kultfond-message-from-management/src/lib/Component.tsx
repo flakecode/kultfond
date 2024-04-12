@@ -24,7 +24,7 @@ export function Component(props: IComponentPropsExtended) {
             <div className="w-full flex">
               <File
                 variant="image"
-                isServer={false}
+                isServer={props.isServer}
                 data={props.data.media[0]}
                 containerClassName="w-full relative aspect-w-3 aspect-h-4"
                 className="object-cover"
@@ -51,7 +51,7 @@ export function Component(props: IComponentPropsExtended) {
               <div className="w-full max-w-[280px]">
                 <File
                   variant="image"
-                  isServer={false}
+                  isServer={props.isServer}
                   data={props.data.additionalMedia[0]}
                   containerClassName="w-full relative aspect-w-6 aspect-h-2"
                   className="object-contain"

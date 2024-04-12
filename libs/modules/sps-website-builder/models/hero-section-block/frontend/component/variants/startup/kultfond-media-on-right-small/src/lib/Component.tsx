@@ -17,7 +17,7 @@ export function Component(props: IComponentPropsExtended) {
             <div className="w-[150%] flex lg:hidden justify-center">
               <File
                 variant="image"
-                isServer={false}
+                isServer={props.isServer}
                 data={props.data.additionalMedia[0]}
                 containerClassName="w-full relative aspect-w-4 aspect-h-3"
                 className="object-contain"
@@ -56,7 +56,7 @@ export function Component(props: IComponentPropsExtended) {
                   <div className="transform -translate-x-1/2 lg:translate-x-0 -translate-y-1/2 relative">
                     <File
                       variant="image"
-                      isServer={false}
+                      isServer={props.isServer}
                       data={props.data.additionalMedia[0]}
                       containerClassName="w-full relative aspect-w-4 aspect-h-3"
                       className="object-contain"

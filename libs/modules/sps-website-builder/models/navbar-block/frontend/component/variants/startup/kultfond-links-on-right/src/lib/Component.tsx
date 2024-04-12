@@ -3,7 +3,6 @@
 import React, { useEffect } from "react";
 import { Component as Button } from "@sps/sps-website-builder-models-button-frontend-component";
 import { Disclosure } from "@headlessui/react";
-import { Bars3Icon, XMarkIcon } from "@heroicons/react/20/solid";
 import { usePathname, useSearchParams } from "next/navigation";
 import { Component as Logotype } from "@sps/sps-website-builder-models-logotype-frontend-component";
 import { IComponentPropsExtended } from "./interface";
@@ -44,29 +43,7 @@ function DisclosureInner({
   return (
     <div className="mx-auto flex flex-row w-full">
       <div className="flex w-full justify-between lg:pt-8">
-        <div className="flex w-full px-2 py-4 lg:py-0 lg:px-2 justify-between">
-          <div className="flex flex-col gap-4 w-10/12 lg:w-4/12 max-w-[450px]">
-            {props.data.logotype ? (
-              <Logotype
-                isServer={false}
-                data={props.data.logotype}
-                variant="kultfond-square"
-              />
-            ) : null}
-          </div>
-          <div className="hidden lg:ml-6 lg:flex lg:space-x-10 items-center">
-            {props.data.buttons?.map((button, index) => {
-              return (
-                <Button
-                  isServer={false}
-                  key={index}
-                  variant={button.variant}
-                  data={button}
-                />
-              );
-            })}
-          </div>
-        </div>
+        {props.children}
       </div>
 
       <div className="fixed right-4 top-4 z-20">

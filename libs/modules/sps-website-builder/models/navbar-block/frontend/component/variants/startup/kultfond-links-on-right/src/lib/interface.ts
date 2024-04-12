@@ -15,4 +15,5 @@ export interface IComponentProps extends IComponentBase {
 
 export interface IComponentPropsExtended extends IComponentProps {
   data: IModelExtended;
+  children?: any;
 }
