@@ -32,17 +32,26 @@ export function Component(props: IComponentPropsExtended) {
                 <Category isServer={props.isServer} variant="kultfond-get-all">
                   {({ data }) => {
                     return (
-                      <div className="flex flex-row overflow-x-scroll">
+                      <div className="flex flex-col lg:flex-row gap-2 lg:gap-0 px-2 lg:px-0">
                         <Link
                           data-module="startup"
                           data-model="category"
                           data-variant={props.variant}
-                          className="ml-4 lg:ml-0 px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left whitespace-nowrap"
+                          className="px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left whitespace-nowrap"
                           href="?"
                         >
                           <p className="">Все проекты</p>
                           <div
-                            className={`absolute inset-x-0 h-[2px] ${typeof query === "object" && Object.keys(query).length === 0 ? "bg-black" : "bg-[#D2D2D2]"} bottom-0`}
+                            className={`absolute inset-x-0 h-[2px] ${typeof query === "object" && Object.keys(query).length === 0 ? "bg-[#A48A67]" : "bg-transparent lg:bg-[#D2D2D2]"} bottom-0`}
+                          />
+                          <div
+                            className={`absolute inset-x-0 h-[2px] lg:hidden ${typeof query === "object" && Object.keys(query).length === 0 ? "bg-[#A48A67]" : "bg-transparent"} top-0`}
+                          />
+                          <div
+                            className={`absolute inset-y-0 w-[2px] lg:hidden ${typeof query === "object" && Object.keys(query).length === 0 ? "bg-[#A48A67]" : "bg-transparent"} left-0`}
+                          />
+                          <div
+                            className={`absolute inset-y-0 w-[2px] lg:hidden ${typeof query === "object" && Object.keys(query).length === 0 ? "bg-[#A48A67]" : "bg-transparent"} right-0`}
                           />
                         </Link>
                         {data?.map((category, index) => {
@@ -60,12 +69,21 @@ export function Component(props: IComponentPropsExtended) {
                           data-module="startup"
                           data-model="category"
                           data-variant={props.variant}
-                          className="px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left mr-4 lg:mr-0 whitespace-nowrap"
+                          className="px-5 py-3 xl:px-8 xl:py-4 text-base text-lg xl:text-xl text-[#1D1D1D] relative leading-none text-center lg:text-left whitespace-nowrap"
                           href="?filters[title]=Колокольня Смольного собора"
                         >
                           <p className="">Колокольня Смольного собора</p>
                           <div
-                            className={`absolute inset-x-0 h-[2px] ${query?.filters?.title === "Колокольня Смольного собора" ? "bg-black" : "bg-[#D2D2D2]"} bottom-0`}
+                            className={`absolute inset-x-0 h-[2px] ${query?.filters?.title === "Колокольня Смольного собора" ? "bg-[#A48A67]" : "bg-transparent lg:bg-[#D2D2D2]"} bottom-0`}
+                          />
+                          <div
+                            className={`absolute inset-x-0 h-[2px] lg:hidden ${query?.filters?.title === "Колокольня Смольного собора" ? "bg-[#A48A67]" : "bg-transparent"} top-0`}
+                          />
+                          <div
+                            className={`absolute inset-y-0 w-[2px] lg:hidden ${query?.filters?.title === "Колокольня Смольного собора" ? "bg-[#A48A67]" : "bg-transparent"} left-0`}
+                          />
+                          <div
+                            className={`absolute inset-y-0 w-[2px] lg:hidden ${query?.filters?.title === "Колокольня Смольного собора" ? "bg-[#A48A67]" : "bg-transparent"} right-0`}
                           />
                         </Link>
                       </div>

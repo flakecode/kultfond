@@ -24,7 +24,16 @@ export function Component(props: IComponentPropsExtended) {
     >
       <p className="">{props.data.title}</p>
       <div
-        className={`absolute inset-x-0 h-[2px] ${props.isActive ? "bg-black" : "bg-[#D2D2D2]"} bottom-0`}
+        className={`absolute inset-x-0 h-[2px] ${props.isActive ? "bg-[#A48A67]" : "bg-transparent lg:bg-[#D2D2D2]"} bottom-0`}
+      />
+      <div
+        className={`absolute inset-x-0 h-[2px] lg:hidden ${props.isActive ? "bg-[#A48A67]" : "bg-transparent"} top-0`}
+      />
+      <div
+        className={`absolute inset-y-0 w-[2px] lg:hidden ${props.isActive ? "bg-[#A48A67]" : "bg-transparent"} left-0`}
+      />
+      <div
+        className={`absolute inset-y-0 w-[2px] lg:hidden ${props.isActive ? "bg-[#A48A67]" : "bg-transparent"} right-0`}
       />
     </Link>
   );
