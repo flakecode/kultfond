@@ -10,7 +10,9 @@ import { api } from "@sps/startup-models-article-frontend-api-client";
 
 export default function Client(props: IComponentProps) {
   const { data, isFetching, isLoading, isUninitialized } =
-    api.rtk.useFindManyQuery({ ...(props.query || {}) });
+    api.rtk.useFindManyQuery({
+      ...(props.query || { pagination: { limit: -1 } }),
+    });
 
   if (isFetching || isLoading || isUninitialized || !data) {
     return <Skeleton {...props} />;
