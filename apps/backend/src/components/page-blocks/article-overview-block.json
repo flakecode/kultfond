@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_blocks_article_overview_blocks",
+  "info": {
+    "displayName": "Article Overview Block",
+    "icon": "file"
+  },
+  "options": {},
+  "attributes": {
+    "variant": {
+      "type": "enumeration",
+      "enum": ["kultfond-default"],
+      "default": "kultfond-default",
+      "required": true
+    },
+    "class_name": {
+      "type": "string"
+    },
+    "anchor": {
+      "type": "string"
+    }
+  }
+}

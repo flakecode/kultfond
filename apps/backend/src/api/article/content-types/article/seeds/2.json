@@ -1,0 +1,171 @@
+{
+  "id": 2,
+  "title": "На Троицкой площади рядом с памятным знаком Троице-Петровскому собору реконструировали тротуар",
+  "description": "Реконструкция тротуаров на Троицкой площади началась летом этого года и сейчас подходит к завершению.",
+  "createdAt": "2024-04-15T19:40:29.017Z",
+  "updatedAt": "2024-04-15T19:41:57.801Z",
+  "publishedAt": "2024-04-15T19:40:29.804Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 236,
+      "name": "imgonline-com-ua-convert55hLxzNcweT0.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1170,
+      "height": 780,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9.png",
+          "hash": "large_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9",
+          "mime": "image/png",
+          "name": "large_imgonline-com-ua-convert55hLxzNcweT0.png",
+          "path": null,
+          "size": 1646.4,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9.png",
+          "hash": "small_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9",
+          "mime": "image/png",
+          "name": "small_imgonline-com-ua-convert55hLxzNcweT0.png",
+          "path": null,
+          "size": 418.27,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9.png",
+          "hash": "medium_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9",
+          "mime": "image/png",
+          "name": "medium_imgonline-com-ua-convert55hLxzNcweT0.png",
+          "path": null,
+          "size": 934.07,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9.png",
+          "hash": "thumbnail_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9",
+          "mime": "image/png",
+          "name": "thumbnail_imgonline-com-ua-convert55hLxzNcweT0.png",
+          "path": null,
+          "size": 94.69,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 599.14,
+      "url": "/uploads/imgonline_com_ua_convert55h_Lxz_Ncwe_T0_d1fb0b4fa9.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T19:40:21.415Z",
+      "updatedAt": "2024-04-15T19:40:21.415Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 43,
+      "title": "На Троицкой площади рядом с памятным знаком Троице-Петровскому собору реконструировали тротуар",
+      "description": "Реконструкция тротуаров на Троицкой площади началась летом этого года и сейчас подходит к завершению.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "21 ноября, 2022",
+      "media": [
+        {
+          "id": 237,
+          "name": "imgonline-com-ua-convert55hLxzNcweT0.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1170,
+          "height": 780,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834.png",
+              "hash": "large_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834",
+              "mime": "image/png",
+              "name": "large_imgonline-com-ua-convert55hLxzNcweT0.png",
+              "path": null,
+              "size": 1646.4,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834.png",
+              "hash": "small_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-convert55hLxzNcweT0.png",
+              "path": null,
+              "size": 418.27,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834.png",
+              "hash": "medium_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834",
+              "mime": "image/png",
+              "name": "medium_imgonline-com-ua-convert55hLxzNcweT0.png",
+              "path": null,
+              "size": 934.07,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834.png",
+              "hash": "thumbnail_imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-convert55hLxzNcweT0.png",
+              "path": null,
+              "size": 94.69,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 599.14,
+          "url": "/uploads/imgonline_com_ua_convert55h_Lxz_Ncwe_T0_e4d392d834.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:41:27.779Z",
+          "updatedAt": "2024-04-15T19:41:27.779Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 42,
+      "title": null,
+      "description": "Реконструкция тротуаров на Троицкой площади началась летом этого года и сейчас подходит к завершению. Гранит уложен на тротуаре на всем протяжении, за исключением небольшого пятачка перед зданием ЛенНИИпроекта. В частности, плиты появились между зданиями и памятным знаком, посвященным утраченному Троице-Петровскому собору.\n\nПамятный знак был открыт в 2020 году по инициативе Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге на основании исторических документов. Первую церковь Петербурга воссоздать на прежнем месте не представляется возможным, так как площадь уже застроена современными зданиями. Поэтому было решено установить памятный знак, представляющий собой первоначальный облик храма, установленный на гранитном постаменте — точно на месте фундамента утраченной церкви.\n\nРеконструкция тротуаров – часть многолетней программы, которую финансируют структуры «Газпрома». В этом году гранит также появился на проспекте Обуховской Обороны между Садом имени 30-летия Октября и Смоляной улицей, где фонд завершает воссоздание Скорбященской церкви.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

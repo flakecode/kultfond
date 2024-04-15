@@ -1,0 +1,195 @@
+{
+  "id": 20,
+  "title": "В Петербурге состоялся тестовый запуск шоу дронов «Колокольня Смольного собора»",
+  "description": "Тысяча дронов построили в воздухе колокольню в том виде, в котором ее изначально задумывал возвести Бартоломео Франческо Растрелли.",
+  "createdAt": "2024-04-15T20:37:31.961Z",
+  "updatedAt": "2024-04-15T20:38:47.921Z",
+  "publishedAt": "2024-04-15T20:37:32.985Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 311,
+      "name": "Oblozhka.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1600,
+      "height": 1067,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "url": "/uploads/large_Oblozhka_e828f786a8.jpg",
+          "hash": "large_Oblozhka_e828f786a8",
+          "mime": "image/jpeg",
+          "name": "large_Oblozhka.jpg",
+          "path": null,
+          "size": 101.43,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_Oblozhka_e828f786a8.jpg",
+          "hash": "small_Oblozhka_e828f786a8",
+          "mime": "image/jpeg",
+          "name": "small_Oblozhka.jpg",
+          "path": null,
+          "size": 31.89,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_Oblozhka_e828f786a8.jpg",
+          "hash": "medium_Oblozhka_e828f786a8",
+          "mime": "image/jpeg",
+          "name": "medium_Oblozhka.jpg",
+          "path": null,
+          "size": 61.68,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_Oblozhka_e828f786a8.jpg",
+          "hash": "thumbnail_Oblozhka_e828f786a8",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Oblozhka.jpg",
+          "path": null,
+          "size": 10.77,
+          "width": 235,
+          "height": 156
+        }
+      },
+      "hash": "Oblozhka_e828f786a8",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 188.25,
+      "url": "/uploads/Oblozhka_e828f786a8.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:37:08.966Z",
+      "updatedAt": "2024-04-15T20:37:08.966Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 78,
+      "title": "В Петербурге состоялся тестовый запуск шоу дронов «Колокольня Смольного собора»",
+      "description": "Тысяча дронов построили в воздухе колокольню в том виде, в котором ее изначально задумывал возвести Бартоломео Франческо Растрелли.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "26 декабря, 2021",
+      "media": [
+        {
+          "id": 311,
+          "name": "Oblozhka.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1600,
+          "height": 1067,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_Oblozhka_e828f786a8.jpg",
+              "hash": "large_Oblozhka_e828f786a8",
+              "mime": "image/jpeg",
+              "name": "large_Oblozhka.jpg",
+              "path": null,
+              "size": 101.43,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_Oblozhka_e828f786a8.jpg",
+              "hash": "small_Oblozhka_e828f786a8",
+              "mime": "image/jpeg",
+              "name": "small_Oblozhka.jpg",
+              "path": null,
+              "size": 31.89,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_Oblozhka_e828f786a8.jpg",
+              "hash": "medium_Oblozhka_e828f786a8",
+              "mime": "image/jpeg",
+              "name": "medium_Oblozhka.jpg",
+              "path": null,
+              "size": 61.68,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_Oblozhka_e828f786a8.jpg",
+              "hash": "thumbnail_Oblozhka_e828f786a8",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Oblozhka.jpg",
+              "path": null,
+              "size": 10.77,
+              "width": 235,
+              "height": 156
+            }
+          },
+          "hash": "Oblozhka_e828f786a8",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 188.25,
+          "url": "/uploads/Oblozhka_e828f786a8.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:37:08.966Z",
+          "updatedAt": "2024-04-15T20:37:08.966Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 79,
+      "title": null,
+      "description": "Тысяча дронов построили в воздухе колокольню в том виде, в котором ее изначально задумывал возвести Бартоломео Франческо Растрелли. Современные технологии позволили на несколько минут показать величие замысла архитектора, который хотел создать архитектурную доминанту Смольного монастыря — колокольню высотой 168 метров.\n\nКолокольня Смольного собора по проекту Бартоломео Франческо Растрелли, прообразом которого была колокольня Ивана Великого на Соборной площади Московского Кремля, должна была стать самым высоким зданием в Петербурге. Проект собора был утвержден, но его воплощению помешал недостаток средств — строительство, стартовавшее в 1750 году уже в 1756 году, было приостановлено, а затем остановлено на 70 лет. При этом высота колокольни собора замерла на втором уровне из пяти задуманных архитектором.\n\nДостраивали собор в XIX веке под руководством архитектора Василия Стасова, освятили храм в 1835 году. При этом колокольня была утрачена, на данный момент сохранилась лишь часть ее фундамента.\n\nФонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге предлагает завершить замысел Бартоломео Франческо Растрелли. По данным историков и архитекторов сейчас есть достаточно документов, чтобы построить колокольню именно в том виде, в котором она и планировалась.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 27,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 26,
+        "variant": "fade-with-previews",
+        "show_full_screen": null,
+        "show_previews": null,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "В Петербурге состоялся тестовый запуск шоу дронов «Колокольня Смольного собора»",
+        "uid": null,
+        "createdAt": "2024-04-15T20:38:38.485Z",
+        "updatedAt": "2024-04-15T20:38:39.883Z",
+        "publishedAt": "2024-04-15T20:38:39.877Z",
+        "locale": "en"
+      }
+    }
+  ]
+}

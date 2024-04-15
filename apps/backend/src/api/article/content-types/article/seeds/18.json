@@ -1,0 +1,195 @@
+{
+  "id": 18,
+  "title": "В Смольном соборе создано новое музейное пространство",
+  "description": "Во вторник 25 января открылась входная группа Смольного собора, превратившаяся в современной музейное пространство, в котором представлены исторические гравюры с видами храма и информационные экраны.",
+  "createdAt": "2024-04-15T20:31:50.204Z",
+  "updatedAt": "2024-04-15T20:33:11.499Z",
+  "publishedAt": "2024-04-15T20:31:50.972Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 303,
+      "name": "Oblozhka-2-2048x1365.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 2048,
+      "height": 1365,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "url": "/uploads/large_Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+          "hash": "large_Oblozhka_2_2048x1365_1cc4b0b38f",
+          "mime": "image/jpeg",
+          "name": "large_Oblozhka-2-2048x1365.jpg",
+          "path": null,
+          "size": 83.72,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+          "hash": "small_Oblozhka_2_2048x1365_1cc4b0b38f",
+          "mime": "image/jpeg",
+          "name": "small_Oblozhka-2-2048x1365.jpg",
+          "path": null,
+          "size": 28.01,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+          "hash": "medium_Oblozhka_2_2048x1365_1cc4b0b38f",
+          "mime": "image/jpeg",
+          "name": "medium_Oblozhka-2-2048x1365.jpg",
+          "path": null,
+          "size": 53.58,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+          "hash": "thumbnail_Oblozhka_2_2048x1365_1cc4b0b38f",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Oblozhka-2-2048x1365.jpg",
+          "path": null,
+          "size": 8.59,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "Oblozhka_2_2048x1365_1cc4b0b38f",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 247.6,
+      "url": "/uploads/Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:31:24.304Z",
+      "updatedAt": "2024-04-15T20:31:24.304Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 74,
+      "title": "В Смольном соборе создано новое музейное пространство",
+      "description": "Во вторник 25 января открылась входная группа Смольного собора, превратившаяся в современной музейное пространство, в котором представлены исторические гравюры с видами храма и информационные экраны.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "25 января, 2022",
+      "media": [
+        {
+          "id": 303,
+          "name": "Oblozhka-2-2048x1365.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 2048,
+          "height": 1365,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+              "hash": "large_Oblozhka_2_2048x1365_1cc4b0b38f",
+              "mime": "image/jpeg",
+              "name": "large_Oblozhka-2-2048x1365.jpg",
+              "path": null,
+              "size": 83.72,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+              "hash": "small_Oblozhka_2_2048x1365_1cc4b0b38f",
+              "mime": "image/jpeg",
+              "name": "small_Oblozhka-2-2048x1365.jpg",
+              "path": null,
+              "size": 28.01,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+              "hash": "medium_Oblozhka_2_2048x1365_1cc4b0b38f",
+              "mime": "image/jpeg",
+              "name": "medium_Oblozhka-2-2048x1365.jpg",
+              "path": null,
+              "size": 53.58,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+              "hash": "thumbnail_Oblozhka_2_2048x1365_1cc4b0b38f",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Oblozhka-2-2048x1365.jpg",
+              "path": null,
+              "size": 8.59,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "Oblozhka_2_2048x1365_1cc4b0b38f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 247.6,
+          "url": "/uploads/Oblozhka_2_2048x1365_1cc4b0b38f.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:31:24.304Z",
+          "updatedAt": "2024-04-15T20:31:24.304Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 75,
+      "title": null,
+      "description": "Во вторник 25 января открылась входная группа Смольного собора, превратившаяся в современной музейное пространство, в котором представлены исторические гравюры с видами храма и информационные экраны. В организации пространства принимал участие Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге.\n\nДата открытия музейного пространства не случайна, она приурочена к Татьяниному дню —празднику студентов. «Как только в 2016 году собор был передан Русской православной Церкви, в нем стали праздновать Татьянин день, — рассказывает Анна Хмелева. — Это ежегодное мероприятие, на которое приезжают ректоры вузов и студенты».\n\nЭкспозиция включает в себя 14 копий редких гравюр XVIII века с видами и планами Смольного собора. Среди экспонатов две гравюры — современницы Растрелли, на которых представлен ансамбль Смольного монастыря, в том виде, в котором он задумывался изначально.\n\nФонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге также помогает в воссоздании в Смольном соборе масштабного иконостаса и работает над копией макета Смольного монастыря, который будет установлен справа от входа в собор. Оригинал макета хранится в Академии художеств.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 25,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 24,
+        "variant": "fade-with-previews",
+        "show_full_screen": null,
+        "show_previews": null,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "В Смольном соборе создано новое музейное пространство",
+        "uid": null,
+        "createdAt": "2024-04-15T20:33:02.440Z",
+        "updatedAt": "2024-04-15T20:33:04.746Z",
+        "publishedAt": "2024-04-15T20:33:04.740Z",
+        "locale": "en"
+      }
+    }
+  ]
+}

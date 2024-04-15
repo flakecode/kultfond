@@ -5,7 +5,7 @@
   "variant": "kultfond-black",
   "class_name": null,
   "createdAt": "2024-04-02T21:53:26.857Z",
-  "updatedAt": "2024-04-11T21:22:33.513Z",
+  "updatedAt": "2024-04-15T20:40:49.904Z",
   "publishedAt": "2024-01-10T11:45:35.047Z",
   "locale": "en",
   "localizations": [
@@ -85,6 +85,18 @@
               "description": null,
               "variant": "link",
               "title": "Контакты",
+              "additional_attributes": null,
+              "class_name": null,
+              "media": null,
+              "additional_media": null,
+              "flyout": null
+            },
+            {
+              "id": 45,
+              "url": "/articles",
+              "description": null,
+              "variant": "link",
+              "title": "Новости",
               "additional_attributes": null,
               "class_name": null,
               "media": null,

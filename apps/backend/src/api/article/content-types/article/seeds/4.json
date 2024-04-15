@@ -1,0 +1,151 @@
+{
+  "id": 4,
+  "title": "В Смольный собор прибыл список Чудотворной Феодоровской иконы Божьей матери",
+  "description": "Для Смольного собора Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге сделал точный список Чудотворной иконы Феодоровской Божией матери по фотографии образа, а драгоценный оклад и ризу — по фото и цифровым 3D-моделям оригинала.",
+  "createdAt": "2024-04-15T19:51:03.131Z",
+  "updatedAt": "2024-04-15T19:52:05.963Z",
+  "publishedAt": "2024-04-15T19:51:04.089Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 246,
+      "name": "icon_main.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 727,
+      "height": 480,
+      "formats": {
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_icon_main_a573a15165.jpg",
+          "hash": "small_icon_main_a573a15165",
+          "mime": "image/jpeg",
+          "name": "small_icon_main.jpg",
+          "path": null,
+          "size": 36.43,
+          "width": 500,
+          "height": 330
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_icon_main_a573a15165.jpg",
+          "hash": "thumbnail_icon_main_a573a15165",
+          "mime": "image/jpeg",
+          "name": "thumbnail_icon_main.jpg",
+          "path": null,
+          "size": 9.91,
+          "width": 236,
+          "height": 156
+        }
+      },
+      "hash": "icon_main_a573a15165",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 67.7,
+      "url": "/uploads/icon_main_a573a15165.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T19:49:58.518Z",
+      "updatedAt": "2024-04-15T19:49:58.518Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 46,
+      "title": "В Смольный собор прибыл список Чудотворной Феодоровской иконы Божьей матери",
+      "description": "Для Смольного собора Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге сделал точный список Чудотворной иконы Феодоровской Божией матери по фотографии образа, а драгоценный оклад и ризу — по фото и цифровым 3D-моделям оригинала.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "25 октября, 2022",
+      "media": [
+        {
+          "id": 246,
+          "name": "icon_main.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 727,
+          "height": 480,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_icon_main_a573a15165.jpg",
+              "hash": "small_icon_main_a573a15165",
+              "mime": "image/jpeg",
+              "name": "small_icon_main.jpg",
+              "path": null,
+              "size": 36.43,
+              "width": 500,
+              "height": 330
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_icon_main_a573a15165.jpg",
+              "hash": "thumbnail_icon_main_a573a15165",
+              "mime": "image/jpeg",
+              "name": "thumbnail_icon_main.jpg",
+              "path": null,
+              "size": 9.91,
+              "width": 236,
+              "height": 156
+            }
+          },
+          "hash": "icon_main_a573a15165",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 67.7,
+          "url": "/uploads/icon_main_a573a15165.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:49:58.518Z",
+          "updatedAt": "2024-04-15T19:49:58.518Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 47,
+      "title": null,
+      "description": "Для Смольного собора Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге сделал точный список Чудотворной иконы Феодоровской Божией матери по фотографии образа, а драгоценный оклад и ризу — по фото и цифровым 3D-моделям оригинала.\n\nИконная доска сделана из массива липы, врезные элементы — из дуба. Чудотворный лик писали яичной темперой. Оклад из меди и латуни украшен сусальным золотом, ювелирными стразами и драгоценными камнями. Для украшения нимбов и короны, создания оправы камней, оправы угловых образов, звезд на Богородице и ее одежды используется более килограмма искусственно выращенного жемчуга разных размеров.\n\nОригинал иконы хранится в Богоявленском-Анастасиином женском монастыре Костромы. Феодоровская икона почитается заступницей молодых, невест, семейного благополучия. На оборотной стороне доски изображена святая мученица Параскева (Пятница), считавшаяся на Руси покровительницей свадеб и невест.\n\nИменно этой иконой на царство был благословлен первый из династии Романовых. Впоследствии ей благословляли при переходе в православие всех иноземных принцесс, которые становились царицами и императрицами, женами правителей России. Всем им давали одно отчество — Федоровна. Также Феодоровскую икону высоко чтила Мария Федоровна, мать Николая I, при котором замороженные в царствие Екатерины работы по устроению собора и монастыря были продолжены.\n\nСейчас икона уже перевезена в собор, в данный момент для нее делают киот.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 17,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 16,
+        "variant": "fade-with-previews",
+        "show_full_screen": null,
+        "show_previews": null,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "В Смольный собор прибыл список Чудотворной Феодоровской иконы Божьей матери",
+        "uid": null,
+        "createdAt": "2024-04-15T19:51:54.015Z",
+        "updatedAt": "2024-04-15T19:51:54.950Z",
+        "publishedAt": "2024-04-15T19:51:54.941Z",
+        "locale": "en"
+      }
+    }
+  ]
+}

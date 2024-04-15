@@ -1,0 +1,505 @@
+{
+  "id": 15,
+  "variant": "fade-with-previews",
+  "show_full_screen": null,
+  "show_previews": null,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "Круглый стол «Воссоздание Спаса на Сенной: мнения, целесообразность, архитектурные и градостроительные решения»",
+  "uid": null,
+  "createdAt": "2024-04-15T19:47:22.736Z",
+  "updatedAt": "2024-04-15T19:47:23.978Z",
+  "publishedAt": "2024-04-15T19:47:23.968Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 163,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 239,
+          "name": "imgonline-com-ua-convertXFM2IalsqzL9.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 6016,
+          "height": 4016,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac.png",
+              "hash": "large_imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac",
+              "mime": "image/png",
+              "name": "large_imgonline-com-ua-convertXFM2IalsqzL9.png",
+              "path": null,
+              "size": 1424.6,
+              "width": 1000,
+              "height": 668
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac.png",
+              "hash": "small_imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-convertXFM2IalsqzL9.png",
+              "path": null,
+              "size": 383.51,
+              "width": 500,
+              "height": 334
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac.png",
+              "hash": "medium_imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac",
+              "mime": "image/png",
+              "name": "medium_imgonline-com-ua-convertXFM2IalsqzL9.png",
+              "path": null,
+              "size": 823.9,
+              "width": 750,
+              "height": 501
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac.png",
+              "hash": "thumbnail_imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-convertXFM2IalsqzL9.png",
+              "path": null,
+              "size": 92.73,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 11073.24,
+          "url": "/uploads/imgonline_com_ua_convert_XFM_2_Ialsqz_L9_46881075ac.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:46:08.598Z",
+          "updatedAt": "2024-04-15T19:46:08.598Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 162,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 242,
+          "name": "imgonline-com-ua-convertbv828OOLO9hz.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 3499,
+          "height": 2624,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a.png",
+              "hash": "large_imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a",
+              "mime": "image/png",
+              "name": "large_imgonline-com-ua-convertbv828OOLO9hz.png",
+              "path": null,
+              "size": 1349,
+              "width": 1000,
+              "height": 750
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a.png",
+              "hash": "small_imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-convertbv828OOLO9hz.png",
+              "path": null,
+              "size": 357.82,
+              "width": 500,
+              "height": 375
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a.png",
+              "hash": "medium_imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a",
+              "mime": "image/png",
+              "name": "medium_imgonline-com-ua-convertbv828OOLO9hz.png",
+              "path": null,
+              "size": 775.03,
+              "width": 750,
+              "height": 562
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a.png",
+              "hash": "thumbnail_imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-convertbv828OOLO9hz.png",
+              "path": null,
+              "size": 70.14,
+              "width": 208,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 3436.35,
+          "url": "/uploads/imgonline_com_ua_convertbv828_OOLO_9hz_291507cb6a.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:46:26.226Z",
+          "updatedAt": "2024-04-15T19:46:26.226Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 164,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 243,
+          "name": "imgonline-com-ua-convertfXhxmPy2MdE7.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 4573,
+          "height": 3429,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1.png",
+              "hash": "large_imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1",
+              "mime": "image/png",
+              "name": "large_imgonline-com-ua-convertfXhxmPy2MdE7.png",
+              "path": null,
+              "size": 1318.73,
+              "width": 1000,
+              "height": 750
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1.png",
+              "hash": "small_imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-convertfXhxmPy2MdE7.png",
+              "path": null,
+              "size": 349.77,
+              "width": 500,
+              "height": 375
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1.png",
+              "hash": "medium_imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1",
+              "mime": "image/png",
+              "name": "medium_imgonline-com-ua-convertfXhxmPy2MdE7.png",
+              "path": null,
+              "size": 749.65,
+              "width": 750,
+              "height": 562
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1.png",
+              "hash": "thumbnail_imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-convertfXhxmPy2MdE7.png",
+              "path": null,
+              "size": 71.02,
+              "width": 208,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 6127.49,
+          "url": "/uploads/imgonline_com_ua_convertf_Xhxm_Py2_Md_E7_12b612e5a1.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:46:27.586Z",
+          "updatedAt": "2024-04-15T19:46:27.586Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 165,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 244,
+          "name": "imgonline-com-ua-convertA1xlxxWTONGa.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 3490,
+          "height": 2618,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e.png",
+              "hash": "large_imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e",
+              "mime": "image/png",
+              "name": "large_imgonline-com-ua-convertA1xlxxWTONGa.png",
+              "path": null,
+              "size": 1819.89,
+              "width": 1000,
+              "height": 750
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e.png",
+              "hash": "small_imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-convertA1xlxxWTONGa.png",
+              "path": null,
+              "size": 440.08,
+              "width": 500,
+              "height": 375
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e.png",
+              "hash": "medium_imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e",
+              "mime": "image/png",
+              "name": "medium_imgonline-com-ua-convertA1xlxxWTONGa.png",
+              "path": null,
+              "size": 1008.78,
+              "width": 750,
+              "height": 563
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e.png",
+              "hash": "thumbnail_imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-convertA1xlxxWTONGa.png",
+              "path": null,
+              "size": 76.87,
+              "width": 208,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 6253.29,
+          "url": "/uploads/imgonline_com_ua_convert_A1xlxx_WTON_Ga_784e4e5d6e.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:46:27.827Z",
+          "updatedAt": "2024-04-15T19:46:27.827Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 166,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 245,
+          "name": "imgonline-com-ua-convertaZ0airfaWLcL.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 5216,
+          "height": 3912,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e.png",
+              "hash": "large_imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e",
+              "mime": "image/png",
+              "name": "large_imgonline-com-ua-convertaZ0airfaWLcL.png",
+              "path": null,
+              "size": 1350.02,
+              "width": 1000,
+              "height": 750
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e.png",
+              "hash": "small_imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-convertaZ0airfaWLcL.png",
+              "path": null,
+              "size": 367.21,
+              "width": 500,
+              "height": 375
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e.png",
+              "hash": "medium_imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e",
+              "mime": "image/png",
+              "name": "medium_imgonline-com-ua-convertaZ0airfaWLcL.png",
+              "path": null,
+              "size": 781.99,
+              "width": 750,
+              "height": 563
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e.png",
+              "hash": "thumbnail_imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-convertaZ0airfaWLcL.png",
+              "path": null,
+              "size": 75.05,
+              "width": 208,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 7664.18,
+          "url": "/uploads/imgonline_com_ua_converta_Z0airfa_W_Lc_L_61d224c95e.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:46:28.411Z",
+          "updatedAt": "2024-04-15T19:46:28.411Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 167,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 240,
+          "name": "imgonline-com-ua-converto3of6EB6hbf3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 727,
+          "height": 513,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_converto3of6_EB_6hbf3_12250d5385.png",
+              "hash": "small_imgonline_com_ua_converto3of6_EB_6hbf3_12250d5385",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-converto3of6EB6hbf3.png",
+              "path": null,
+              "size": 248.17,
+              "width": 500,
+              "height": 353
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_converto3of6_EB_6hbf3_12250d5385.png",
+              "hash": "thumbnail_imgonline_com_ua_converto3of6_EB_6hbf3_12250d5385",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-converto3of6EB6hbf3.png",
+              "path": null,
+              "size": 59.79,
+              "width": 221,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_converto3of6_EB_6hbf3_12250d5385",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 120.52,
+          "url": "/uploads/imgonline_com_ua_converto3of6_EB_6hbf3_12250d5385.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:46:23.142Z",
+          "updatedAt": "2024-04-15T19:46:23.142Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 168,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 241,
+          "name": "imgonline-com-ua-convertT6a3co0w39Yu.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 727,
+          "height": 514,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_convert_T6a3co0w39_Yu_11d0d0a9d1.png",
+              "hash": "small_imgonline_com_ua_convert_T6a3co0w39_Yu_11d0d0a9d1",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-convertT6a3co0w39Yu.png",
+              "path": null,
+              "size": 234.13,
+              "width": 500,
+              "height": 354
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_convert_T6a3co0w39_Yu_11d0d0a9d1.png",
+              "hash": "thumbnail_imgonline_com_ua_convert_T6a3co0w39_Yu_11d0d0a9d1",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-convertT6a3co0w39Yu.png",
+              "path": null,
+              "size": 55.81,
+              "width": 221,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_convert_T6a3co0w39_Yu_11d0d0a9d1",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 125.09,
+          "url": "/uploads/imgonline_com_ua_convert_T6a3co0w39_Yu_11d0d0a9d1.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:46:23.145Z",
+          "updatedAt": "2024-04-15T19:46:23.145Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

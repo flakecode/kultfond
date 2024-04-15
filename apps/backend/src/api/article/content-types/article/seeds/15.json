@@ -1,0 +1,195 @@
+{
+  "id": 15,
+  "title": "В Смольном соборе представлена реплика макета монастыря с колокольней в том виде, в котором ее изначально задумывал возвести Бартоломео Франческо Растрелли.",
+  "description": "Впечатляющая модель теперь доступна всем прихожанам и гостям Северной столицы.Оригинальный макет Смольного собора был создан при Растрелли в 18 веке и сейчас хранится в Санкт-Петербургской академии художеств.",
+  "createdAt": "2024-04-15T20:23:07.589Z",
+  "updatedAt": "2024-04-15T20:25:15.439Z",
+  "publishedAt": "2024-04-15T20:23:08.554Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 291,
+      "name": "Oblozhka-1-2048x1143.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 2048,
+      "height": 1143,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "url": "/uploads/large_Oblozhka_1_2048x1143_0b444e2db4.jpg",
+          "hash": "large_Oblozhka_1_2048x1143_0b444e2db4",
+          "mime": "image/jpeg",
+          "name": "large_Oblozhka-1-2048x1143.jpg",
+          "path": null,
+          "size": 89.92,
+          "width": 1000,
+          "height": 558
+        },
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_Oblozhka_1_2048x1143_0b444e2db4.jpg",
+          "hash": "small_Oblozhka_1_2048x1143_0b444e2db4",
+          "mime": "image/jpeg",
+          "name": "small_Oblozhka-1-2048x1143.jpg",
+          "path": null,
+          "size": 29.3,
+          "width": 500,
+          "height": 279
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_Oblozhka_1_2048x1143_0b444e2db4.jpg",
+          "hash": "medium_Oblozhka_1_2048x1143_0b444e2db4",
+          "mime": "image/jpeg",
+          "name": "medium_Oblozhka-1-2048x1143.jpg",
+          "path": null,
+          "size": 57.54,
+          "width": 750,
+          "height": 419
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_Oblozhka_1_2048x1143_0b444e2db4.jpg",
+          "hash": "thumbnail_Oblozhka_1_2048x1143_0b444e2db4",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Oblozhka-1-2048x1143.jpg",
+          "path": null,
+          "size": 8.86,
+          "width": 245,
+          "height": 136
+        }
+      },
+      "hash": "Oblozhka_1_2048x1143_0b444e2db4",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 271.02,
+      "url": "/uploads/Oblozhka_1_2048x1143_0b444e2db4.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:22:10.044Z",
+      "updatedAt": "2024-04-15T20:22:10.044Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 68,
+      "title": "В Смольном соборе представлена реплика макета монастыря с колокольней в том виде, в котором ее изначально задумывал возвести Бартоломео Франческо Растрелли.",
+      "description": "Впечатляющая модель теперь доступна всем прихожанам и гостям Северной столицы.Оригинальный макет Смольного собора был создан при Растрелли в 18 веке и сейчас хранится в Санкт-Петербургской академии художеств.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": null,
+      "subtitle": "14 апреля, 2022",
+      "media": [
+        {
+          "id": 291,
+          "name": "Oblozhka-1-2048x1143.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 2048,
+          "height": 1143,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_Oblozhka_1_2048x1143_0b444e2db4.jpg",
+              "hash": "large_Oblozhka_1_2048x1143_0b444e2db4",
+              "mime": "image/jpeg",
+              "name": "large_Oblozhka-1-2048x1143.jpg",
+              "path": null,
+              "size": 89.92,
+              "width": 1000,
+              "height": 558
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_Oblozhka_1_2048x1143_0b444e2db4.jpg",
+              "hash": "small_Oblozhka_1_2048x1143_0b444e2db4",
+              "mime": "image/jpeg",
+              "name": "small_Oblozhka-1-2048x1143.jpg",
+              "path": null,
+              "size": 29.3,
+              "width": 500,
+              "height": 279
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_Oblozhka_1_2048x1143_0b444e2db4.jpg",
+              "hash": "medium_Oblozhka_1_2048x1143_0b444e2db4",
+              "mime": "image/jpeg",
+              "name": "medium_Oblozhka-1-2048x1143.jpg",
+              "path": null,
+              "size": 57.54,
+              "width": 750,
+              "height": 419
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_Oblozhka_1_2048x1143_0b444e2db4.jpg",
+              "hash": "thumbnail_Oblozhka_1_2048x1143_0b444e2db4",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Oblozhka-1-2048x1143.jpg",
+              "path": null,
+              "size": 8.86,
+              "width": 245,
+              "height": 136
+            }
+          },
+          "hash": "Oblozhka_1_2048x1143_0b444e2db4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 271.02,
+          "url": "/uploads/Oblozhka_1_2048x1143_0b444e2db4.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:22:10.044Z",
+          "updatedAt": "2024-04-15T20:22:10.044Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 69,
+      "title": null,
+      "description": "Колокольня Смольного собора по проекту известного архитектора должна была стать самым высоким зданием в Петербурге высотой 168 метров. Проводимые в 2010 году раскопки позволили обнаружить фрагменты фундамента грандиозного сооружения. Но реализация проекта колокольни в задуманном Растрелли виде была «заморожена» в 1756 году, а затем и вовсе остановлена на 70 лет. При этом высота колокольни собора замерла на втором уровне из пяти задуманных архитектором.\n\n«Оригинал макета в музее Санкт-Петербургской академии художеств имени Ильи Репина обладает большой исторической ценностью, поэтому доступен в основном для профессионалов. Мы же хотели, чтобы все горожане и гости города могли посмотреть на изначальный замысел Растрелли. Реплика масштабного макета выполнена максимально точно и насчитывает около 5 тысяч деталей», — рассказал АБН заместитель директора Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге Андрей Мезилев.\n\nАрхитектор, изготовитель реплики оригинального макета ансамбля Смольного монастыря Кирилл Яковлев рассказывает, что основная сложность состояла в том, чтобы привести модели к максимально точному соответствию с макетом, созданным Бартоломео Растрелли. Площадь основания макета примерно 3,5 на 3,5 метра, высота самого высокого здания в ансамбле — 1,73 метра. По словам архитектора, детализация была настолько точной, что в реплике удалось воспроизвести элементы лепнины Смольного собора в миллиметровой пропорции.\n\n«Частично здания были обследованы и начерчены до нас, но подробных изображений всего комплекса по большому счету не существовало. Мы сделали более 1,5 тысяч фотографий имеющейся архитектурной модели и построенных зданий ансамбля. С помощью технологии 3D-сканирования все детали, вплоть до мельчайших элементов, были восстановлены в специальной программе и впоследствии воссозданы на автоматизированных станках», — рассказал Кирилл Яковлев.\n\nЖивой интерес к макету со стороны прихожан можно было отметить уже в первый день. Настоятель Смольного собора протоиерей Петр Мухин выразил уверенность, что появление 3D–макета собора привлечёт в Смольный собор ещё больше петербуржцев и гостей города.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 23,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 22,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "В Смольном соборе представлена реплика макета монастыря с колокольней в том виде, в котором ее изначально задумывал возвести Бартоломео Франческо Растрелли.",
+        "uid": null,
+        "createdAt": "2024-04-15T20:25:01.869Z",
+        "updatedAt": "2024-04-15T20:25:02.879Z",
+        "publishedAt": "2024-04-15T20:25:02.866Z",
+        "locale": "en"
+      }
+    }
+  ]
+}

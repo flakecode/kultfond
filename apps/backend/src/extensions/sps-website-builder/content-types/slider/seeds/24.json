@@ -1,0 +1,245 @@
+{
+  "id": 24,
+  "variant": "fade-with-previews",
+  "show_full_screen": null,
+  "show_previews": null,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "В Смольном соборе создано новое музейное пространство",
+  "uid": null,
+  "createdAt": "2024-04-15T20:33:02.440Z",
+  "updatedAt": "2024-04-15T20:33:04.746Z",
+  "publishedAt": "2024-04-15T20:33:04.740Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 212,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 304,
+          "name": "ZD5_5136-scaled.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 2560,
+          "height": 1709,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_ZD_5_5136_scaled_cb853e649a.jpg",
+              "hash": "large_ZD_5_5136_scaled_cb853e649a",
+              "mime": "image/jpeg",
+              "name": "large_ZD5_5136-scaled.jpg",
+              "path": null,
+              "size": 95.01,
+              "width": 1000,
+              "height": 668
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_ZD_5_5136_scaled_cb853e649a.jpg",
+              "hash": "small_ZD_5_5136_scaled_cb853e649a",
+              "mime": "image/jpeg",
+              "name": "small_ZD5_5136-scaled.jpg",
+              "path": null,
+              "size": 31.05,
+              "width": 500,
+              "height": 334
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_ZD_5_5136_scaled_cb853e649a.jpg",
+              "hash": "medium_ZD_5_5136_scaled_cb853e649a",
+              "mime": "image/jpeg",
+              "name": "medium_ZD5_5136-scaled.jpg",
+              "path": null,
+              "size": 60.26,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_ZD_5_5136_scaled_cb853e649a.jpg",
+              "hash": "thumbnail_ZD_5_5136_scaled_cb853e649a",
+              "mime": "image/jpeg",
+              "name": "thumbnail_ZD5_5136-scaled.jpg",
+              "path": null,
+              "size": 9.14,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "ZD_5_5136_scaled_cb853e649a",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 406.35,
+          "url": "/uploads/ZD_5_5136_scaled_cb853e649a.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:32:38.202Z",
+          "updatedAt": "2024-04-15T20:32:38.202Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 214,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 306,
+          "name": "ZD5_5083-scaled.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 2560,
+          "height": 1920,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_ZD_5_5083_scaled_ca22901941.jpg",
+              "hash": "large_ZD_5_5083_scaled_ca22901941",
+              "mime": "image/jpeg",
+              "name": "large_ZD5_5083-scaled.jpg",
+              "path": null,
+              "size": 79.5,
+              "width": 1000,
+              "height": 750
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_ZD_5_5083_scaled_ca22901941.jpg",
+              "hash": "small_ZD_5_5083_scaled_ca22901941",
+              "mime": "image/jpeg",
+              "name": "small_ZD5_5083-scaled.jpg",
+              "path": null,
+              "size": 25.9,
+              "width": 500,
+              "height": 375
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_ZD_5_5083_scaled_ca22901941.jpg",
+              "hash": "medium_ZD_5_5083_scaled_ca22901941",
+              "mime": "image/jpeg",
+              "name": "medium_ZD5_5083-scaled.jpg",
+              "path": null,
+              "size": 49.38,
+              "width": 750,
+              "height": 563
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_ZD_5_5083_scaled_ca22901941.jpg",
+              "hash": "thumbnail_ZD_5_5083_scaled_ca22901941",
+              "mime": "image/jpeg",
+              "name": "thumbnail_ZD5_5083-scaled.jpg",
+              "path": null,
+              "size": 6.32,
+              "width": 208,
+              "height": 156
+            }
+          },
+          "hash": "ZD_5_5083_scaled_ca22901941",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 344.88,
+          "url": "/uploads/ZD_5_5083_scaled_ca22901941.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:32:47.987Z",
+          "updatedAt": "2024-04-15T20:32:47.987Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 213,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 305,
+          "name": "ZD5_5133-scaled.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 2560,
+          "height": 1920,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_ZD_5_5133_scaled_02d81a0fb5.jpg",
+              "hash": "large_ZD_5_5133_scaled_02d81a0fb5",
+              "mime": "image/jpeg",
+              "name": "large_ZD5_5133-scaled.jpg",
+              "path": null,
+              "size": 76.71,
+              "width": 1000,
+              "height": 750
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_ZD_5_5133_scaled_02d81a0fb5.jpg",
+              "hash": "small_ZD_5_5133_scaled_02d81a0fb5",
+              "mime": "image/jpeg",
+              "name": "small_ZD5_5133-scaled.jpg",
+              "path": null,
+              "size": 27.94,
+              "width": 500,
+              "height": 375
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_ZD_5_5133_scaled_02d81a0fb5.jpg",
+              "hash": "medium_ZD_5_5133_scaled_02d81a0fb5",
+              "mime": "image/jpeg",
+              "name": "medium_ZD5_5133-scaled.jpg",
+              "path": null,
+              "size": 50.95,
+              "width": 750,
+              "height": 563
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_ZD_5_5133_scaled_02d81a0fb5.jpg",
+              "hash": "thumbnail_ZD_5_5133_scaled_02d81a0fb5",
+              "mime": "image/jpeg",
+              "name": "thumbnail_ZD5_5133-scaled.jpg",
+              "path": null,
+              "size": 7.42,
+              "width": 208,
+              "height": 156
+            }
+          },
+          "hash": "ZD_5_5133_scaled_02d81a0fb5",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 298.04,
+          "url": "/uploads/ZD_5_5133_scaled_02d81a0fb5.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:32:47.982Z",
+          "updatedAt": "2024-04-15T20:32:47.982Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

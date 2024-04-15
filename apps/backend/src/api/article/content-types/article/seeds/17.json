@@ -1,0 +1,171 @@
+{
+  "id": 17,
+  "title": "Началось проектирование Борисоглебской церкви на Синопской набережной",
+  "description": "Проектом воссоздания церкви занимается «Архитектурная мастерская Мамошина». Здание будет воссоздано в том же объеме, в каком оно было исторически. Облик будет полностью повторять утраченный оригинал.",
+  "createdAt": "2024-04-15T20:30:44.647Z",
+  "updatedAt": "2024-04-15T20:30:45.632Z",
+  "publishedAt": "2024-04-15T20:30:45.617Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 302,
+      "name": "medium___medium_1.jpg.jpg.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1177,
+      "height": 811,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "url": "/uploads/large_medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+          "hash": "large_medium_medium_1_jpg_jpg_a1a76c5a00",
+          "mime": "image/jpeg",
+          "name": "large_medium___medium_1.jpg.jpg.jpg",
+          "path": null,
+          "size": 119.27,
+          "width": 1000,
+          "height": 689
+        },
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+          "hash": "small_medium_medium_1_jpg_jpg_a1a76c5a00",
+          "mime": "image/jpeg",
+          "name": "small_medium___medium_1.jpg.jpg.jpg",
+          "path": null,
+          "size": 34.59,
+          "width": 500,
+          "height": 345
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+          "hash": "medium_medium_medium_1_jpg_jpg_a1a76c5a00",
+          "mime": "image/jpeg",
+          "name": "medium_medium___medium_1.jpg.jpg.jpg",
+          "path": null,
+          "size": 71.36,
+          "width": 750,
+          "height": 517
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+          "hash": "thumbnail_medium_medium_1_jpg_jpg_a1a76c5a00",
+          "mime": "image/jpeg",
+          "name": "thumbnail_medium___medium_1.jpg.jpg.jpg",
+          "path": null,
+          "size": 8.35,
+          "width": 227,
+          "height": 156
+        }
+      },
+      "hash": "medium_medium_1_jpg_jpg_a1a76c5a00",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 163.13,
+      "url": "/uploads/medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:29:55.364Z",
+      "updatedAt": "2024-04-15T20:29:55.364Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 72,
+      "title": "Началось проектирование Борисоглебской церкви на Синопской набережной",
+      "description": "Проектом воссоздания церкви занимается «Архитектурная мастерская Мамошина». Здание будет воссоздано в том же объеме, в каком оно было исторически. Облик будет полностью повторять утраченный оригинал.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "10 февраля, 2022",
+      "media": [
+        {
+          "id": 302,
+          "name": "medium___medium_1.jpg.jpg.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1177,
+          "height": 811,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+              "hash": "large_medium_medium_1_jpg_jpg_a1a76c5a00",
+              "mime": "image/jpeg",
+              "name": "large_medium___medium_1.jpg.jpg.jpg",
+              "path": null,
+              "size": 119.27,
+              "width": 1000,
+              "height": 689
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+              "hash": "small_medium_medium_1_jpg_jpg_a1a76c5a00",
+              "mime": "image/jpeg",
+              "name": "small_medium___medium_1.jpg.jpg.jpg",
+              "path": null,
+              "size": 34.59,
+              "width": 500,
+              "height": 345
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+              "hash": "medium_medium_medium_1_jpg_jpg_a1a76c5a00",
+              "mime": "image/jpeg",
+              "name": "medium_medium___medium_1.jpg.jpg.jpg",
+              "path": null,
+              "size": 71.36,
+              "width": 750,
+              "height": 517
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+              "hash": "thumbnail_medium_medium_1_jpg_jpg_a1a76c5a00",
+              "mime": "image/jpeg",
+              "name": "thumbnail_medium___medium_1.jpg.jpg.jpg",
+              "path": null,
+              "size": 8.35,
+              "width": 227,
+              "height": 156
+            }
+          },
+          "hash": "medium_medium_1_jpg_jpg_a1a76c5a00",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 163.13,
+          "url": "/uploads/medium_medium_1_jpg_jpg_a1a76c5a00.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:29:55.364Z",
+          "updatedAt": "2024-04-15T20:29:55.364Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 73,
+      "title": null,
+      "description": "Проектом воссоздания церкви занимается «Архитектурная мастерская Мамошина». Здание будет воссоздано в том же объеме, в каком оно было исторически. Облик будет полностью повторять утраченный оригинал.\n\n«После решения вопроса с парковкой необходимо будет провести археологические изыскания на месте воссоздания церкви. К сегодняшнему дню проведено историко-культурное исследование на предмет возможности воссоздания храма, а также согласована изначальная высотность здания», – говорит руководитель мастерской архитектор Михаил Мамошин.\n\nБорисоглебская церковь была построена в 1882 году. Проектом занимался архитектор Михаил Щурупов. Строительство и отделка завершены А.И. Резановым и С.О. Шестаковым. В 1934 г. церковь закрыли, здание использовалось в качестве склада и завода комбикормов. В послевоенное время были разобраны боковые главы, а в 1975-м здание снесли для прокладки новой трассы Синопской набережной. В 2019 году Фонд содействия восстановлению объектов истории и культуры выступил с инициативой ее воссоздания.\n\nЦерковь будет расположена не точно на историческом месте, а чуть в стороне, поскольку в противном случае пришлось бы менять конфигурацию Синопской набережной. При этом историческое пятно частично захватывается. Новое место сейчас представляет собой пустырь, занятый перехватывающей автостоянкой.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

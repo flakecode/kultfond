@@ -1,0 +1,287 @@
+{
+  "id": 18,
+  "variant": "fade-with-previews",
+  "show_full_screen": false,
+  "show_previews": false,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "На ПМЭФ эксперты обсудили проект воссоздания колокольни Смольного собора",
+  "uid": null,
+  "createdAt": "2024-04-15T20:10:07.408Z",
+  "updatedAt": "2024-04-15T20:10:20.718Z",
+  "publishedAt": "2024-04-15T20:10:20.712Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 179,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 263,
+          "name": "men4.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 727,
+          "height": 485,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_men4_da1c56f84f.jpg",
+              "hash": "small_men4_da1c56f84f",
+              "mime": "image/jpeg",
+              "name": "small_men4.jpg",
+              "path": null,
+              "size": 20.45,
+              "width": 500,
+              "height": 334
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_men4_da1c56f84f.jpg",
+              "hash": "thumbnail_men4_da1c56f84f",
+              "mime": "image/jpeg",
+              "name": "thumbnail_men4.jpg",
+              "path": null,
+              "size": 6.03,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "men4_da1c56f84f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 37.34,
+          "url": "/uploads/men4_da1c56f84f.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:09:33.477Z",
+          "updatedAt": "2024-04-15T20:09:33.477Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 177,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 262,
+          "name": "men1.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 727,
+          "height": 484,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_men1_4a6e7ea8fd.jpg",
+              "hash": "small_men1_4a6e7ea8fd",
+              "mime": "image/jpeg",
+              "name": "small_men1.jpg",
+              "path": null,
+              "size": 16.49,
+              "width": 500,
+              "height": 333
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_men1_4a6e7ea8fd.jpg",
+              "hash": "thumbnail_men1_4a6e7ea8fd",
+              "mime": "image/jpeg",
+              "name": "thumbnail_men1.jpg",
+              "path": null,
+              "size": 5.55,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "men1_4a6e7ea8fd",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 28.49,
+          "url": "/uploads/men1_4a6e7ea8fd.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:09:33.475Z",
+          "updatedAt": "2024-04-15T20:09:33.475Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 178,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 264,
+          "name": "anna-x.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 727,
+          "height": 485,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_anna_x_60467b9b8f.jpg",
+              "hash": "small_anna_x_60467b9b8f",
+              "mime": "image/jpeg",
+              "name": "small_anna-x.jpg",
+              "path": null,
+              "size": 22.99,
+              "width": 500,
+              "height": 334
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_anna_x_60467b9b8f.jpg",
+              "hash": "thumbnail_anna_x_60467b9b8f",
+              "mime": "image/jpeg",
+              "name": "thumbnail_anna-x.jpg",
+              "path": null,
+              "size": 6.27,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "anna_x_60467b9b8f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 44.63,
+          "url": "/uploads/anna_x_60467b9b8f.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:09:33.479Z",
+          "updatedAt": "2024-04-15T20:09:33.479Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 180,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 265,
+          "name": "men3.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 727,
+          "height": 485,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_men3_eaedf5a92a.jpg",
+              "hash": "small_men3_eaedf5a92a",
+              "mime": "image/jpeg",
+              "name": "small_men3.jpg",
+              "path": null,
+              "size": 22.08,
+              "width": 500,
+              "height": 334
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_men3_eaedf5a92a.jpg",
+              "hash": "thumbnail_men3_eaedf5a92a",
+              "mime": "image/jpeg",
+              "name": "thumbnail_men3.jpg",
+              "path": null,
+              "size": 7.15,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "men3_eaedf5a92a",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 38.68,
+          "url": "/uploads/men3_eaedf5a92a.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:09:33.479Z",
+          "updatedAt": "2024-04-15T20:09:33.479Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 181,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 266,
+          "name": "men2.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 727,
+          "height": 484,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_men2_332b0a86a3.jpg",
+              "hash": "small_men2_332b0a86a3",
+              "mime": "image/jpeg",
+              "name": "small_men2.jpg",
+              "path": null,
+              "size": 16.23,
+              "width": 500,
+              "height": 333
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_men2_332b0a86a3.jpg",
+              "hash": "thumbnail_men2_332b0a86a3",
+              "mime": "image/jpeg",
+              "name": "thumbnail_men2.jpg",
+              "path": null,
+              "size": 5.53,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "men2_332b0a86a3",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 27.76,
+          "url": "/uploads/men2_332b0a86a3.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:09:33.481Z",
+          "updatedAt": "2024-04-15T20:09:33.481Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

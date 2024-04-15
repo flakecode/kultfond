@@ -1,0 +1,171 @@
+{
+  "id": 10,
+  "title": "Воссоздание храма благоверных князей Бориса и Глеба на Синопской набережной начнется в 2023 году",
+  "description": "Борисоглебская церковь числится в городском законе №820–7 об охранных зонах как одна из рекомендованных к восстановлению архитектурных доминант. В данный момент Фонд содействия восстановлению объектов истории и культуры находится в процессе обмена участками со Смольным.",
+  "createdAt": "2024-04-15T20:07:09.509Z",
+  "updatedAt": "2024-04-15T20:07:15.146Z",
+  "publishedAt": "2024-04-15T20:07:15.140Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 260,
+      "name": "imgonline-com-ua-convertDmlbBZgllxlq.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1279,
+      "height": 853,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+          "hash": "large_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+          "mime": "image/png",
+          "name": "large_imgonline-com-ua-convertDmlbBZgllxlq.png",
+          "path": null,
+          "size": 1104.84,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+          "hash": "small_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+          "mime": "image/png",
+          "name": "small_imgonline-com-ua-convertDmlbBZgllxlq.png",
+          "path": null,
+          "size": 280.33,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+          "hash": "medium_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+          "mime": "image/png",
+          "name": "medium_imgonline-com-ua-convertDmlbBZgllxlq.png",
+          "path": null,
+          "size": 621.15,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+          "hash": "thumbnail_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+          "mime": "image/png",
+          "name": "thumbnail_imgonline-com-ua-convertDmlbBZgllxlq.png",
+          "path": null,
+          "size": 68,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 431.7,
+      "url": "/uploads/imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:06:38.540Z",
+      "updatedAt": "2024-04-15T20:06:38.540Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 58,
+      "title": "Воссоздание храма благоверных князей Бориса и Глеба на Синопской набережной начнется в 2023 году",
+      "description": "Борисоглебская церковь числится в городском законе №820–7 об охранных зонах как одна из рекомендованных к восстановлению архитектурных доминант. В данный момент Фонд содействия восстановлению объектов истории и культуры находится в процессе обмена участками со Смольным.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": null,
+      "subtitle": "8 июля, 2022",
+      "media": [
+        {
+          "id": 260,
+          "name": "imgonline-com-ua-convertDmlbBZgllxlq.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1279,
+          "height": 853,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+              "hash": "large_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+              "mime": "image/png",
+              "name": "large_imgonline-com-ua-convertDmlbBZgllxlq.png",
+              "path": null,
+              "size": 1104.84,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+              "hash": "small_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-convertDmlbBZgllxlq.png",
+              "path": null,
+              "size": 280.33,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+              "hash": "medium_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+              "mime": "image/png",
+              "name": "medium_imgonline-com-ua-convertDmlbBZgllxlq.png",
+              "path": null,
+              "size": 621.15,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+              "hash": "thumbnail_imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-convertDmlbBZgllxlq.png",
+              "path": null,
+              "size": 68,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 431.7,
+          "url": "/uploads/imgonline_com_ua_convert_Dmlb_B_Zgllxlq_737ca078b1.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:06:38.540Z",
+          "updatedAt": "2024-04-15T20:06:38.540Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 59,
+      "title": null,
+      "description": "Борисоглебская церковь числится в городском законе №820–7 об охранных зонах как одна из рекомендованных к восстановлению архитектурных доминант. В данный момент Фонд содействия восстановлению объектов истории и культуры находится в процессе обмена участками со Смольным.\nБорисоглебская церковь числится в городском законе №820–7 об охранных зонах как одна из рекомендованных к восстановлению архитектурных доминант. В данный момент Фонд содействия восстановлению объектов истории и культуры находится в процессе обмена участками со Смольным.\n\nПо условиям фонд должен был найти и согласовать участок со Смольным, после чего выкупить его и передать в собственность города в обмен на «храмовый». На поиски и выкуп такого обменного актива ушло больше года. Взамен город получит участок даже чуть больше, площадью 6,1 тысячи кв. метров западнее дома №11 по проспекту Энергетиков. Вид его разрешенного использования — «для размещения промышленных объектов». Участок под храмом впоследствии будет передан приходу.\n\n«Юридически процесс обмена уже близок к завершению. В августе планируется подать заявление на оформление в собственность территории на Синопской набережной. Оформление может занять 6–8 месяцев, но при удачном стечении этот вопрос может быть решен еще в 2022 году. Разрешение на изыскания уже на руках. Более того, примерно через две недели планируется начать археологические раскопки на этой территории», — комментирует Анна Хмелева, член попечительского совета Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге.\n\nРазработкой эскиза и проектированием занимается «Архитектурная мастерская Мамошина». «На сегодняшний день материалы все сделаны, у меня готов архитектурно-градостроительный облик, готов материал эскизного проекта для согласования с КГИОП в части соответствия режимам охраны. Стадия проектирования уже идет», — говорит глава и основатель мастерской Михаил Мамошин.\n\nИсторически здание располагалось на пристани и предусматривало причальную зону. Сейчас Синопская набережная — это нагруженная транспортная магистраль, поэтому сам храм немного сместится. На это уже получено благословение митрополита Варсонофия. Воссозданное здание частично встанет на сохранившийся фрагмент фундамента оригинального храма. Высота храма будет соответствовать исторической.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

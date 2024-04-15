@@ -1,0 +1,195 @@
+{
+  "id": 13,
+  "title": "Храм иконы Божией Матери «Всех скорбящих Радость (с грошиками)» вошел в рейтинг «Проект года 2022»",
+  "description": "26 апреля на торжественном ужине Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге победил в номинации «Проект года в сфере сохранения духовного и исторического наследия» за воссоздание Скорбященского храма.",
+  "createdAt": "2024-04-15T20:14:59.884Z",
+  "updatedAt": "2024-04-15T20:16:59.143Z",
+  "publishedAt": "2024-04-15T20:15:00.921Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 271,
+      "name": "Oblozhka-3.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1258,
+      "height": 915,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "url": "/uploads/large_Oblozhka_3_ff824172af.jpg",
+          "hash": "large_Oblozhka_3_ff824172af",
+          "mime": "image/jpeg",
+          "name": "large_Oblozhka-3.jpg",
+          "path": null,
+          "size": 122.25,
+          "width": 1000,
+          "height": 727
+        },
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_Oblozhka_3_ff824172af.jpg",
+          "hash": "small_Oblozhka_3_ff824172af",
+          "mime": "image/jpeg",
+          "name": "small_Oblozhka-3.jpg",
+          "path": null,
+          "size": 41.87,
+          "width": 500,
+          "height": 364
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_Oblozhka_3_ff824172af.jpg",
+          "hash": "medium_Oblozhka_3_ff824172af",
+          "mime": "image/jpeg",
+          "name": "medium_Oblozhka-3.jpg",
+          "path": null,
+          "size": 79.13,
+          "width": 750,
+          "height": 546
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_Oblozhka_3_ff824172af.jpg",
+          "hash": "thumbnail_Oblozhka_3_ff824172af",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Oblozhka-3.jpg",
+          "path": null,
+          "size": 10.51,
+          "width": 215,
+          "height": 156
+        }
+      },
+      "hash": "Oblozhka_3_ff824172af",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 173.73,
+      "url": "/uploads/Oblozhka_3_ff824172af.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:13:50.821Z",
+      "updatedAt": "2024-04-15T20:13:50.821Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 65,
+      "title": "Храм иконы Божией Матери «Всех скорбящих Радость (с грошиками)» вошел в рейтинг «Проект года 2022»",
+      "description": "26 апреля на торжественном ужине Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге победил в номинации «Проект года в сфере сохранения духовного и исторического наследия» за воссоздание Скорбященского храма.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "26 апреля, 2022",
+      "media": [
+        {
+          "id": 271,
+          "name": "Oblozhka-3.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1258,
+          "height": 915,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_Oblozhka_3_ff824172af.jpg",
+              "hash": "large_Oblozhka_3_ff824172af",
+              "mime": "image/jpeg",
+              "name": "large_Oblozhka-3.jpg",
+              "path": null,
+              "size": 122.25,
+              "width": 1000,
+              "height": 727
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_Oblozhka_3_ff824172af.jpg",
+              "hash": "small_Oblozhka_3_ff824172af",
+              "mime": "image/jpeg",
+              "name": "small_Oblozhka-3.jpg",
+              "path": null,
+              "size": 41.87,
+              "width": 500,
+              "height": 364
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_Oblozhka_3_ff824172af.jpg",
+              "hash": "medium_Oblozhka_3_ff824172af",
+              "mime": "image/jpeg",
+              "name": "medium_Oblozhka-3.jpg",
+              "path": null,
+              "size": 79.13,
+              "width": 750,
+              "height": 546
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_Oblozhka_3_ff824172af.jpg",
+              "hash": "thumbnail_Oblozhka_3_ff824172af",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Oblozhka-3.jpg",
+              "path": null,
+              "size": 10.51,
+              "width": 215,
+              "height": 156
+            }
+          },
+          "hash": "Oblozhka_3_ff824172af",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 173.73,
+          "url": "/uploads/Oblozhka_3_ff824172af.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:13:50.821Z",
+          "updatedAt": "2024-04-15T20:13:50.821Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 64,
+      "title": null,
+      "description": "В рейтинг «Проект года», который проводит газета «Деловой Петербург», попадают успешные и показательные кейсы на рынках недвижимости, здравоохранения, социальные инициативы, проекты в сфере культуры и развития общественных пространств и т.д. Главное условие — кейс должен оказать заметное влияние на жизнь города, его экономику, а также задать новые тренды и привести к росту компании или всей отрасли.\n\n\n«Воссоздание храма — свидетельство того, что сейчас возрождаются духовные ориентиры, — говорит иерей Богдан Полевой. — Мы повернулись лицом к нашему народу, его утраченным корням, и это благой знак».\n\n\nСейчас основные строительно-монтажные работы завершены, окончена внутренняя отделка всех помещений и колокольни. Удалось восстановить даже хрустальные кресты, которые ещё при постройке церкви в 1896 году являлись её отличительной особенностью. Продолжается роспись храма, изготавливаются деревянные изделия церковного интерьера, доводятся до совершенства отдельные элементы мраморного иконостаса.\n\n\nОдновременно с воссозданием храмового комплекса стал возрождаться и некогда депрессивный квартал в районе проспекта Обуховской Обороны за мостом Александра Невского. Уже сейчас можно прогуляться по благоустроенными улицами, зелёным скверам и набережной.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 21,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 20,
+        "variant": "fade-with-previews",
+        "show_full_screen": null,
+        "show_previews": null,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Храм иконы Божией Матери «Всех скорбящих Радость (с грошиками)» вошел в рейтинг «Проект года 2022»",
+        "uid": null,
+        "createdAt": "2024-04-15T20:16:28.149Z",
+        "updatedAt": "2024-04-15T20:16:30.395Z",
+        "publishedAt": "2024-04-15T20:16:30.384Z",
+        "locale": "en"
+      }
+    }
+  ]
+}

@@ -4,4 +4,5 @@ export const variants = [...parentVariants] as const;
 
 export interface IModel extends Omit<IParentModel, "variant"> {
   variant: (typeof variants)[number];
+  subtitle?: string | null;
 }

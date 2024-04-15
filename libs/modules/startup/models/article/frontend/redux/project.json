@@ -1,0 +1,10 @@
+{
+  "name": "@sps/startup-models-article-frontend-redux",
+  "$schema": "../../../../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/modules/startup/models/article/frontend/redux/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "lint": {}
+  }
+}

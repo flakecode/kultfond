@@ -1,0 +1,195 @@
+{
+  "id": 16,
+  "title": "В духовной академии на набережной Обводного канала ведутся работы по смене кровли",
+  "description": "Комплекс Духовной академии признан памятником регионального значения. Он состоит из трех зданий — главного здания, больничного корпуса и здания бани и прачечной, построенных в 1820-х годах.",
+  "createdAt": "2024-04-15T20:28:31.610Z",
+  "updatedAt": "2024-04-15T20:28:57.676Z",
+  "publishedAt": "2024-04-15T20:28:32.649Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 298,
+      "name": "Oblozhka-3 (1).jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1024,
+      "height": 576,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "url": "/uploads/large_Oblozhka_3_1_12b76590be.jpg",
+          "hash": "large_Oblozhka_3_1_12b76590be",
+          "mime": "image/jpeg",
+          "name": "large_Oblozhka-3 (1).jpg",
+          "path": null,
+          "size": 111.68,
+          "width": 1000,
+          "height": 563
+        },
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_Oblozhka_3_1_12b76590be.jpg",
+          "hash": "small_Oblozhka_3_1_12b76590be",
+          "mime": "image/jpeg",
+          "name": "small_Oblozhka-3 (1).jpg",
+          "path": null,
+          "size": 34.33,
+          "width": 500,
+          "height": 281
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_Oblozhka_3_1_12b76590be.jpg",
+          "hash": "medium_Oblozhka_3_1_12b76590be",
+          "mime": "image/jpeg",
+          "name": "medium_Oblozhka-3 (1).jpg",
+          "path": null,
+          "size": 67.64,
+          "width": 750,
+          "height": 422
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_Oblozhka_3_1_12b76590be.jpg",
+          "hash": "thumbnail_Oblozhka_3_1_12b76590be",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Oblozhka-3 (1).jpg",
+          "path": null,
+          "size": 10.65,
+          "width": 245,
+          "height": 138
+        }
+      },
+      "hash": "Oblozhka_3_1_12b76590be",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 116.84,
+      "url": "/uploads/Oblozhka_3_1_12b76590be.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:26:04.776Z",
+      "updatedAt": "2024-04-15T20:26:04.776Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 70,
+      "title": "В духовной академии на набережной Обводного канала ведутся работы по смене кровли",
+      "description": "Комплекс Духовной академии признан памятником регионального значения. Он состоит из трех зданий — главного здания, больничного корпуса и здания бани и прачечной, построенных в 1820-х годах.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "4 марта, 2022",
+      "media": [
+        {
+          "id": 298,
+          "name": "Oblozhka-3 (1).jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1024,
+          "height": 576,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_Oblozhka_3_1_12b76590be.jpg",
+              "hash": "large_Oblozhka_3_1_12b76590be",
+              "mime": "image/jpeg",
+              "name": "large_Oblozhka-3 (1).jpg",
+              "path": null,
+              "size": 111.68,
+              "width": 1000,
+              "height": 563
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_Oblozhka_3_1_12b76590be.jpg",
+              "hash": "small_Oblozhka_3_1_12b76590be",
+              "mime": "image/jpeg",
+              "name": "small_Oblozhka-3 (1).jpg",
+              "path": null,
+              "size": 34.33,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_Oblozhka_3_1_12b76590be.jpg",
+              "hash": "medium_Oblozhka_3_1_12b76590be",
+              "mime": "image/jpeg",
+              "name": "medium_Oblozhka-3 (1).jpg",
+              "path": null,
+              "size": 67.64,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_Oblozhka_3_1_12b76590be.jpg",
+              "hash": "thumbnail_Oblozhka_3_1_12b76590be",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Oblozhka-3 (1).jpg",
+              "path": null,
+              "size": 10.65,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "Oblozhka_3_1_12b76590be",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 116.84,
+          "url": "/uploads/Oblozhka_3_1_12b76590be.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:26:04.776Z",
+          "updatedAt": "2024-04-15T20:26:04.776Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 71,
+      "title": null,
+      "description": "Комплекс Духовной академии признан памятником регионального значения. Он состоит из трех зданий — главного здания, больничного корпуса и здания бани и прачечной, построенных в 1820-х годах. Ремонт ведется Санкт-Петербургской духовной академией, а также силами Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге.\n\nНа данный момент полностью заменена стропильная система, отремонтированы перекрытия, дымовые и вентиляционные трубы, выполнен комплекс мероприятий по обеспечению безопасности. Все работы осуществляются в соответствии с регламентом по охране объектов культуры и под контролем Комитета по государственному контролю, использованию и охране памятников истории и культуры (КГИОП).\n\n«На сегодняшний момент мы профинансировали ремонт крыши Духовной академии, она полностью восстановлена силами подрядчика – группы компаний «Спектр», — говорит заместитель директора Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге Андрей Мезилев.\n\nВозможно, удастся вернуть и скульптурную композицию двух ангелов, поддерживающих крест, и барельеф в тимпане фронтона, которая была утрачена в советские годы. Фонд поддержал инициативу воссоздания ангелов и барельефа, выдвинутую владыкой Силуаном. В данный момент ведутся переговоры с КГИОП о включении композиции в число объектов, которые находятся под охраной. Работы по её воссозданию, а также фасада в целом будут закончены к концу следующего года.\n\nПолностью завершить проект по возвращению городу ещё одного памятника архитектуры планируется в ближайшие 5 лет.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 24,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 23,
+        "variant": "fade-with-previews",
+        "show_full_screen": false,
+        "show_previews": false,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "В духовной академии на набережной Обводного канала ведутся работы по смене кровли",
+        "uid": null,
+        "createdAt": "2024-04-15T20:27:34.075Z",
+        "updatedAt": "2024-04-15T20:27:34.809Z",
+        "publishedAt": "2024-04-15T20:27:34.803Z",
+        "locale": "en"
+      }
+    }
+  ]
+}

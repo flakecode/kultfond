@@ -1,0 +1,195 @@
+{
+  "id": 14,
+  "title": "К Пасхе воссозданы три мозаики Скорбященского храма",
+  "description": "24 апреля в храме иконы Божией Матери «Всех скорбящих Радость» (с грошиками) на проспекте Обуховской Обороны, 24 были освящены мозаики Николая Чудотворца, Пророка Илии и Спаса Нерукотворного.",
+  "createdAt": "2024-04-15T20:20:15.617Z",
+  "updatedAt": "2024-04-15T20:20:24.489Z",
+  "publishedAt": "2024-04-15T20:20:16.373Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 281,
+      "name": "Oblozhka-2-2048x1362.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 2048,
+      "height": 1362,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "url": "/uploads/large_Oblozhka_2_2048x1362_fef7383df7.jpg",
+          "hash": "large_Oblozhka_2_2048x1362_fef7383df7",
+          "mime": "image/jpeg",
+          "name": "large_Oblozhka-2-2048x1362.jpg",
+          "path": null,
+          "size": 72.09,
+          "width": 1000,
+          "height": 665
+        },
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_Oblozhka_2_2048x1362_fef7383df7.jpg",
+          "hash": "small_Oblozhka_2_2048x1362_fef7383df7",
+          "mime": "image/jpeg",
+          "name": "small_Oblozhka-2-2048x1362.jpg",
+          "path": null,
+          "size": 26.06,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_Oblozhka_2_2048x1362_fef7383df7.jpg",
+          "hash": "medium_Oblozhka_2_2048x1362_fef7383df7",
+          "mime": "image/jpeg",
+          "name": "medium_Oblozhka-2-2048x1362.jpg",
+          "path": null,
+          "size": 47.5,
+          "width": 750,
+          "height": 499
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_Oblozhka_2_2048x1362_fef7383df7.jpg",
+          "hash": "thumbnail_Oblozhka_2_2048x1362_fef7383df7",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Oblozhka-2-2048x1362.jpg",
+          "path": null,
+          "size": 8.27,
+          "width": 235,
+          "height": 156
+        }
+      },
+      "hash": "Oblozhka_2_2048x1362_fef7383df7",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 218.44,
+      "url": "/uploads/Oblozhka_2_2048x1362_fef7383df7.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:17:50.561Z",
+      "updatedAt": "2024-04-15T20:17:50.561Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 66,
+      "title": "К Пасхе воссозданы три мозаики Скорбященского храма",
+      "description": "24 апреля в храме иконы Божией Матери «Всех скорбящих Радость» (с грошиками) на проспекте Обуховской Обороны, 24 были освящены мозаики Николая Чудотворца, Пророка Илии и Спаса Нерукотворного.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": null,
+      "subtitle": "24 апреля, 2022",
+      "media": [
+        {
+          "id": 281,
+          "name": "Oblozhka-2-2048x1362.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 2048,
+          "height": 1362,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_Oblozhka_2_2048x1362_fef7383df7.jpg",
+              "hash": "large_Oblozhka_2_2048x1362_fef7383df7",
+              "mime": "image/jpeg",
+              "name": "large_Oblozhka-2-2048x1362.jpg",
+              "path": null,
+              "size": 72.09,
+              "width": 1000,
+              "height": 665
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_Oblozhka_2_2048x1362_fef7383df7.jpg",
+              "hash": "small_Oblozhka_2_2048x1362_fef7383df7",
+              "mime": "image/jpeg",
+              "name": "small_Oblozhka-2-2048x1362.jpg",
+              "path": null,
+              "size": 26.06,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_Oblozhka_2_2048x1362_fef7383df7.jpg",
+              "hash": "medium_Oblozhka_2_2048x1362_fef7383df7",
+              "mime": "image/jpeg",
+              "name": "medium_Oblozhka-2-2048x1362.jpg",
+              "path": null,
+              "size": 47.5,
+              "width": 750,
+              "height": 499
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_Oblozhka_2_2048x1362_fef7383df7.jpg",
+              "hash": "thumbnail_Oblozhka_2_2048x1362_fef7383df7",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Oblozhka-2-2048x1362.jpg",
+              "path": null,
+              "size": 8.27,
+              "width": 235,
+              "height": 156
+            }
+          },
+          "hash": "Oblozhka_2_2048x1362_fef7383df7",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 218.44,
+          "url": "/uploads/Oblozhka_2_2048x1362_fef7383df7.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:17:50.561Z",
+          "updatedAt": "2024-04-15T20:17:50.561Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 67,
+      "title": null,
+      "description": "24 апреля в храме иконы Божией Матери «Всех скорбящих Радость» (с грошиками) на проспекте Обуховской Обороны, 24 были освящены мозаики Николая Чудотворца, Пророка Илии и Спаса Нерукотворного. Каждая из трёх воссозданных мозаик состоит из более 50 тысяч элементов.\n\nВыполнил работу выдающийся петербургский реставратор, художник-мозаичист Игорь Лаврененко. Он набирал ее в технике микромозаики из тянутой смальты (от немецкого языка Smalte или Schmalte, schmelzen — плавить) — материала, представляющего собой цветное непрозрачное стекло, изготовленное по специальным технологиям выплавки.\n\nВ настоящий момент за пределами Российской Федерации технику используют только в Ватикане, в нашей же стране мозаику таким способом делает только Игорь Лаврененко. В такой технике работал Михайло Ломоносов. Но сама микромозаика известна еще с древних времен — 4-6 веков. В Византийской империи, которая проводила серьезные работы по созданию смальт, такие изделия считались драгоценными. В основном это были культовые изображения, иконы.",
+      "variant": "simple-centered",
+      "anchor": null,
+      "class_name": "pt-5",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 22,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 21,
+        "variant": "fade-with-previews",
+        "show_full_screen": null,
+        "show_previews": null,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "К Пасхе воссозданы три мозаики Скорбященского храма",
+        "uid": null,
+        "createdAt": "2024-04-15T20:20:11.642Z",
+        "updatedAt": "2024-04-15T20:20:14.215Z",
+        "publishedAt": "2024-04-15T20:20:14.206Z",
+        "locale": "en"
+      }
+    }
+  ]
+}

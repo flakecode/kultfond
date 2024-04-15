@@ -1,0 +1,173 @@
+{
+  "id": 19,
+  "title": "В Доме архитектора прошла презентация книги об утраченных храмах Петербурга",
+  "description": "Книга «Утраченные храмы Санкт-Петербурга» вышла при поддержке Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге.",
+  "createdAt": "2024-04-15T20:36:16.647Z",
+  "updatedAt": "2024-04-15T20:36:23.982Z",
+  "publishedAt": "2024-04-15T20:36:17.396Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 307,
+      "name": "Oblozhka-1.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 809,
+      "height": 539,
+      "formats": {
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_Oblozhka_1_f2e860191a.jpg",
+          "hash": "small_Oblozhka_1_f2e860191a",
+          "mime": "image/jpeg",
+          "name": "small_Oblozhka-1.jpg",
+          "path": null,
+          "size": 25.53,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_Oblozhka_1_f2e860191a.jpg",
+          "hash": "medium_Oblozhka_1_f2e860191a",
+          "mime": "image/jpeg",
+          "name": "medium_Oblozhka-1.jpg",
+          "path": null,
+          "size": 48.26,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_Oblozhka_1_f2e860191a.jpg",
+          "hash": "thumbnail_Oblozhka_1_f2e860191a",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Oblozhka-1.jpg",
+          "path": null,
+          "size": 7.96,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "Oblozhka_1_f2e860191a",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 54.36,
+      "url": "/uploads/Oblozhka_1_f2e860191a.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:34:48.221Z",
+      "updatedAt": "2024-04-15T20:34:48.221Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 76,
+      "title": "В Доме архитектора прошла презентация книги об утраченных храмах Петербурга",
+      "description": "Книга «Утраченные храмы Санкт-Петербурга» вышла при поддержке Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "22 января, 2022",
+      "media": [
+        {
+          "id": 307,
+          "name": "Oblozhka-1.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 809,
+          "height": 539,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_Oblozhka_1_f2e860191a.jpg",
+              "hash": "small_Oblozhka_1_f2e860191a",
+              "mime": "image/jpeg",
+              "name": "small_Oblozhka-1.jpg",
+              "path": null,
+              "size": 25.53,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_Oblozhka_1_f2e860191a.jpg",
+              "hash": "medium_Oblozhka_1_f2e860191a",
+              "mime": "image/jpeg",
+              "name": "medium_Oblozhka-1.jpg",
+              "path": null,
+              "size": 48.26,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_Oblozhka_1_f2e860191a.jpg",
+              "hash": "thumbnail_Oblozhka_1_f2e860191a",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Oblozhka-1.jpg",
+              "path": null,
+              "size": 7.96,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "Oblozhka_1_f2e860191a",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 54.36,
+          "url": "/uploads/Oblozhka_1_f2e860191a.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:34:48.221Z",
+          "updatedAt": "2024-04-15T20:34:48.221Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 77,
+      "title": null,
+      "description": "Книга «Утраченные храмы Санкт-Петербурга» вышла при поддержке Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге. В основу издания легли выпускные проекты студентов кафедры архитектурного и градостроительного наследия СПбГАСУ, которой руководит профессор Сергей Семенцов.\n\nРабота над книгой велась в течение пяти лет, в ней приняли участие специалисты «Союза архитекторов России» и «Совета по церковной архитектуре Санкт-Петербургского Союза архитекторов». В альбоме представлены исторические справки, архивные фото и 26 проектов по воссозданию храмов, в том числе уже восстановленные Фондом объекты: церковь Пресвятой Троицы в составе киновии Александро-Невской лавры на Октябрьской набережной и храм иконы Божией Матери «Всех скорбящих Радость (с грошиками) на проспекте Обуховской обороны.\n\n«Книга — это один маленький шажок к тому, чтобы вернуть к жизни другие описанные здесь прекрасные объекты. Сегодня Фонд принимает участие в воссоздании Борисоглебской церкви на Синопской набережной. В настоящее время объект пребывает в стадии проектирования», — комментирует заместитель директора Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге Андрей Мезилев.\n\nКнига поможет вернуть Петербургу ключевые ансамбли дореволюционного Петербурга, которые были разрушены во время Советского Союза. Согласно архитектурным планам города, раньше храмы и церкви формировали основные городские пространства. Например, вокруг Исаакиевского собора, Спасо-Преображенского, собора Владимирской иконы Божией Матери и других.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 26,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 25,
+        "variant": "fade-with-previews",
+        "show_full_screen": null,
+        "show_previews": null,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "В Доме архитектора прошла презентация книги об утраченных храмах Петербурга",
+        "uid": null,
+        "createdAt": "2024-04-15T20:36:14.076Z",
+        "updatedAt": "2024-04-15T20:36:15.225Z",
+        "publishedAt": "2024-04-15T20:36:15.208Z",
+        "locale": "en"
+      }
+    }
+  ]
+}

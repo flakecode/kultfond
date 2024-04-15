@@ -26,6 +26,7 @@
       "variant": "kultfond-media-on-right",
       "anchor": null,
       "class_name": null,
+      "subtitle": null,
       "media": null,
       "buttons": [
         {
@@ -142,6 +143,7 @@
       "variant": "kultfond-description",
       "anchor": "about",
       "class_name": "pt-10 pb-10 lg:pt-16 lg:pb-24",
+      "subtitle": null,
       "media": null,
       "buttons": [],
       "additional_media": null
@@ -154,6 +156,7 @@
       "variant": "kultfond-message-from-management",
       "anchor": null,
       "class_name": "pt-20 pb-20 lg:pt-24 lg:pb-32",
+      "subtitle": null,
       "media": [
         {
           "id": 49,

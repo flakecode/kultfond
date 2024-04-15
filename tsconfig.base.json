@@ -614,6 +614,48 @@
       "@sps/sps-website-builder-models-alert-block-frontend-redux": [
         "libs/modules/sps-website-builder/models/alert-block/frontend/redux/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-article-overview-block-contracts": [
+        "libs/modules/sps-website-builder/models/article-overview-block/contracts/root/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-article-overview-block-contracts-extended": [
+        "libs/modules/sps-website-builder/models/article-overview-block/contracts/extended/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-article-overview-block-frontend-api-client": [
+        "libs/modules/sps-website-builder/models/article-overview-block/frontend/api/client/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-article-overview-block-frontend-api-server": [
+        "libs/modules/sps-website-builder/models/article-overview-block/frontend/api/server/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-article-overview-block-frontend-component": [
+        "libs/modules/sps-website-builder/models/article-overview-block/frontend/component/root/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-article-overview-block-frontend-component-variants-startup-kultfond-default": [
+        "libs/modules/sps-website-builder/models/article-overview-block/frontend/component/variants/startup/kultfond-default/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-article-overview-block-frontend-redux": [
+        "libs/modules/sps-website-builder/models/article-overview-block/frontend/redux/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-articles-list-block-contracts": [
+        "libs/modules/sps-website-builder/models/articles-list-block/contracts/root/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-articles-list-block-contracts-extended": [
+        "libs/modules/sps-website-builder/models/articles-list-block/contracts/extended/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-articles-list-block-frontend-api-client": [
+        "libs/modules/sps-website-builder/models/articles-list-block/frontend/api/client/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-articles-list-block-frontend-api-server": [
+        "libs/modules/sps-website-builder/models/articles-list-block/frontend/api/server/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-articles-list-block-frontend-component": [
+        "libs/modules/sps-website-builder/models/articles-list-block/frontend/component/root/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-articles-list-block-frontend-component-variants-startup-kultfond-default": [
+        "libs/modules/sps-website-builder/models/articles-list-block/frontend/component/variants/startup/kultfond-default/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-articles-list-block-frontend-redux": [
+        "libs/modules/sps-website-builder/models/articles-list-block/frontend/redux/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-button-contracts": [
         "libs/modules/sps-website-builder/models/button/contracts/root/src/index.ts"
       ],
@@ -1597,6 +1639,36 @@
       ],
       "@sps/startup-frontend-components": [
         "libs/modules/startup/frontend/components/src/index.ts"
+      ],
+      "@sps/startup-models-article-contracts": [
+        "libs/modules/startup/models/article/contracts/root/src/index.ts"
+      ],
+      "@sps/startup-models-article-contracts-extended": [
+        "libs/modules/startup/models/article/contracts/extended/src/index.ts"
+      ],
+      "@sps/startup-models-article-frontend-api-client": [
+        "libs/modules/startup/models/article/frontend/api/client/src/index.ts"
+      ],
+      "@sps/startup-models-article-frontend-api-server": [
+        "libs/modules/startup/models/article/frontend/api/server/src/index.ts"
+      ],
+      "@sps/startup-models-article-frontend-component": [
+        "libs/modules/startup/models/article/frontend/component/root/src/index.ts"
+      ],
+      "@sps/startup-models-article-frontend-component-variants-startup-kultfond-card": [
+        "libs/modules/startup/models/article/frontend/component/variants/startup/kultfond-card/src/index.ts"
+      ],
+      "@sps/startup-models-article-frontend-component-variants-startup-kultfond-find": [
+        "libs/modules/startup/models/article/frontend/component/variants/startup/kultfond-find/src/index.ts"
+      ],
+      "@sps/startup-models-article-frontend-component-variants-startup-kultfond-find-by-id": [
+        "libs/modules/startup/models/article/frontend/component/variants/startup/kultfond-find-by-id/src/index.ts"
+      ],
+      "@sps/startup-models-article-frontend-component-variants-startup-kultfond-overview": [
+        "libs/modules/startup/models/article/frontend/component/variants/startup/kultfond-overview/src/index.ts"
+      ],
+      "@sps/startup-models-article-frontend-redux": [
+        "libs/modules/startup/models/article/frontend/redux/src/index.ts"
       ],
       "@sps/startup-models-category-contracts": [
         "libs/modules/startup/models/category/contracts/root/src/index.ts"

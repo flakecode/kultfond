@@ -1,0 +1,10 @@
+{
+  "name": "@sps/startup-models-article-frontend-component-variants-startup-kultfond-find",
+  "$schema": "../../../../../../../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/modules/startup/models/article/frontend/component/variants/startup/kultfond-find/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "lint": {}
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": 8,
+  "title": "Всемирному клубу петербуржцев исполнилось 30 лет",
+  "description": "Сегодня в Петербурге собрались самые известные люди абсолютно разных профессий: дипломаты, ученые, артисты, который объединяет любовь к Петербургу.",
+  "createdAt": "2024-04-15T20:03:00.096Z",
+  "updatedAt": "2024-04-15T20:03:00.883Z",
+  "publishedAt": "2024-04-15T20:03:00.874Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 258,
+      "name": "Bez-imeni.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1845,
+      "height": 971,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_Bez_imeni_84531a4d1f.png",
+          "hash": "large_Bez_imeni_84531a4d1f",
+          "mime": "image/png",
+          "name": "large_Bez-imeni.png",
+          "path": null,
+          "size": 1246.23,
+          "width": 1000,
+          "height": 526
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_Bez_imeni_84531a4d1f.png",
+          "hash": "small_Bez_imeni_84531a4d1f",
+          "mime": "image/png",
+          "name": "small_Bez-imeni.png",
+          "path": null,
+          "size": 333.14,
+          "width": 500,
+          "height": 263
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_Bez_imeni_84531a4d1f.png",
+          "hash": "medium_Bez_imeni_84531a4d1f",
+          "mime": "image/png",
+          "name": "medium_Bez-imeni.png",
+          "path": null,
+          "size": 719.26,
+          "width": 750,
+          "height": 395
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_Bez_imeni_84531a4d1f.png",
+          "hash": "thumbnail_Bez_imeni_84531a4d1f",
+          "mime": "image/png",
+          "name": "thumbnail_Bez-imeni.png",
+          "path": null,
+          "size": 85.93,
+          "width": 245,
+          "height": 129
+        }
+      },
+      "hash": "Bez_imeni_84531a4d1f",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 816.79,
+      "url": "/uploads/Bez_imeni_84531a4d1f.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:02:14.478Z",
+      "updatedAt": "2024-04-15T20:02:14.478Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 54,
+      "title": "Всемирному клубу петербуржцев исполнилось 30 лет",
+      "description": "Сегодня в Петербурге собрались самые известные люди абсолютно разных профессий: дипломаты, ученые, артисты, который объединяет любовь к Петербургу.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": null,
+      "subtitle": "10 августа, 2022",
+      "media": [
+        {
+          "id": 258,
+          "name": "Bez-imeni.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1845,
+          "height": 971,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_Bez_imeni_84531a4d1f.png",
+              "hash": "large_Bez_imeni_84531a4d1f",
+              "mime": "image/png",
+              "name": "large_Bez-imeni.png",
+              "path": null,
+              "size": 1246.23,
+              "width": 1000,
+              "height": 526
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_Bez_imeni_84531a4d1f.png",
+              "hash": "small_Bez_imeni_84531a4d1f",
+              "mime": "image/png",
+              "name": "small_Bez-imeni.png",
+              "path": null,
+              "size": 333.14,
+              "width": 500,
+              "height": 263
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_Bez_imeni_84531a4d1f.png",
+              "hash": "medium_Bez_imeni_84531a4d1f",
+              "mime": "image/png",
+              "name": "medium_Bez-imeni.png",
+              "path": null,
+              "size": 719.26,
+              "width": 750,
+              "height": 395
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_Bez_imeni_84531a4d1f.png",
+              "hash": "thumbnail_Bez_imeni_84531a4d1f",
+              "mime": "image/png",
+              "name": "thumbnail_Bez-imeni.png",
+              "path": null,
+              "size": 85.93,
+              "width": 245,
+              "height": 129
+            }
+          },
+          "hash": "Bez_imeni_84531a4d1f",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 816.79,
+          "url": "/uploads/Bez_imeni_84531a4d1f.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:02:14.478Z",
+          "updatedAt": "2024-04-15T20:02:14.478Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 55,
+      "title": null,
+      "description": "Сегодня в Петербурге собрались самые известные люди абсолютно разных профессий: дипломаты, ученые, артисты, который объединяет любовь к Петербургу.\n\nНа ассамблее презентовали книги, вышедшие в серии «Библиотека Всемирного клуба петербуржцев» и представили новых членов. Анна Хмелева, член попечительского совета Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге вместе с М.А. Мамошиным, вице-президентом СПб Союза архитекторов, вручили в подарок М.Б. Пиотровскому, президенту всемирного клуба петербуржцев, книги и гравюры Эрмитажа.\n\nВ рамках встречи было подписано соглашение о взаимодействии и сотрудничестве с петербургской общественной организацией «Всероссийское общество охраны памятников истории и культуры».\n\n«Как всегда у нас идут беседы вокруг острых вопросов. Мы живём в городе-памятнике, и мы защищаем его как памятник. У нас знаменитая комиссия городской среды. Мы взаимодействуем и ещё больше будем взаимодействовать с другими организациями, которые сберегают наш город и его памятники. Недавно несколько членов клуба вошли в президиум ВООПиК», — отметил директор Государственного Эрмитажа Михаил Пиотровский.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

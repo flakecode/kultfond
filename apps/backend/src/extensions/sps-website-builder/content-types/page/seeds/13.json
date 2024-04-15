@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "title": "Articles Page",
+  "url": "/articles",
+  "createdAt": "2024-04-15T17:41:32.487Z",
+  "updatedAt": "2024-04-15T17:41:33.310Z",
+  "publishedAt": "2024-04-15T17:41:33.304Z",
+  "locale": "en",
+  "localizations": [],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.articles-list-block",
+      "id": 1,
+      "variant": "kultfond-default",
+      "title": "Новости",
+      "subtitle": null,
+      "description": null,
+      "class_name": "pt-20 lg:pt-40 pb-20 lg:pb-40",
+      "anchor": null
+    }
+  ],
+  "layout": {
+    "id": 2,
+    "title": "Public Page Layout",
+    "uid": "public-page-layout",
+    "variant": "wide",
+    "class_name": "[&>.layout-container]:pt-16",
+    "createdAt": "2024-04-02T21:53:26.879Z",
+    "updatedAt": "2024-04-02T21:53:32.391Z",
+    "publishedAt": "2023-04-20T03:23:38.447Z",
+    "locale": "en"
+  }
+}

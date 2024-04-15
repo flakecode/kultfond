@@ -1,0 +1,190 @@
+{
+  "id": 19,
+  "variant": "fade-with-previews",
+  "show_full_screen": null,
+  "show_previews": null,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "Пол куполом Смольного собора появится музей «Собрание ангелов»",
+  "uid": null,
+  "createdAt": "2024-04-15T20:12:35.890Z",
+  "updatedAt": "2024-04-15T20:12:36.806Z",
+  "publishedAt": "2024-04-15T20:12:36.801Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 182,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 268,
+          "name": "7211af13-6756-4140-8db0-7e9646539367.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 390,
+          "height": 463,
+          "formats": {
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_7211af13_6756_4140_8db0_7e9646539367_254996411f.jpg",
+              "hash": "thumbnail_7211af13_6756_4140_8db0_7e9646539367_254996411f",
+              "mime": "image/jpeg",
+              "name": "thumbnail_7211af13-6756-4140-8db0-7e9646539367.jpg",
+              "path": null,
+              "size": 6.01,
+              "width": 131,
+              "height": 156
+            }
+          },
+          "hash": "7211af13_6756_4140_8db0_7e9646539367_254996411f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 42.93,
+          "url": "/uploads/7211af13_6756_4140_8db0_7e9646539367_254996411f.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:12:16.828Z",
+          "updatedAt": "2024-04-15T20:12:16.828Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 183,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 269,
+          "name": "30d916a7-3c1b-4b56-b90f-75f0111e095d_F.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 423,
+          "height": 569,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_30d916a7_3c1b_4b56_b90f_75f0111e095d_F_11c00282e7.jpg",
+              "hash": "small_30d916a7_3c1b_4b56_b90f_75f0111e095d_F_11c00282e7",
+              "mime": "image/jpeg",
+              "name": "small_30d916a7-3c1b-4b56-b90f-75f0111e095d_F.jpg",
+              "path": null,
+              "size": 54.01,
+              "width": 372,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_30d916a7_3c1b_4b56_b90f_75f0111e095d_F_11c00282e7.jpg",
+              "hash": "thumbnail_30d916a7_3c1b_4b56_b90f_75f0111e095d_F_11c00282e7",
+              "mime": "image/jpeg",
+              "name": "thumbnail_30d916a7-3c1b-4b56-b90f-75f0111e095d_F.jpg",
+              "path": null,
+              "size": 5.72,
+              "width": 116,
+              "height": 156
+            }
+          },
+          "hash": "30d916a7_3c1b_4b56_b90f_75f0111e095d_F_11c00282e7",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 70.15,
+          "url": "/uploads/30d916a7_3c1b_4b56_b90f_75f0111e095d_F_11c00282e7.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:12:16.841Z",
+          "updatedAt": "2024-04-15T20:12:16.841Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 184,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 270,
+          "name": "4d374b40-5a27-401c-b90c-7784454c5476_F.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1012,
+          "height": 569,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa.jpg",
+              "hash": "large_4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa",
+              "mime": "image/jpeg",
+              "name": "large_4d374b40-5a27-401c-b90c-7784454c5476_F.jpg",
+              "path": null,
+              "size": 103.18,
+              "width": 1000,
+              "height": 562
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa.jpg",
+              "hash": "small_4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa",
+              "mime": "image/jpeg",
+              "name": "small_4d374b40-5a27-401c-b90c-7784454c5476_F.jpg",
+              "path": null,
+              "size": 29.16,
+              "width": 500,
+              "height": 281
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa.jpg",
+              "hash": "medium_4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa",
+              "mime": "image/jpeg",
+              "name": "medium_4d374b40-5a27-401c-b90c-7784454c5476_F.jpg",
+              "path": null,
+              "size": 60.39,
+              "width": 750,
+              "height": 422
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa.jpg",
+              "hash": "thumbnail_4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa",
+              "mime": "image/jpeg",
+              "name": "thumbnail_4d374b40-5a27-401c-b90c-7784454c5476_F.jpg",
+              "path": null,
+              "size": 8.47,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 106.84,
+          "url": "/uploads/4d374b40_5a27_401c_b90c_7784454c5476_F_17a88581fa.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:12:16.855Z",
+          "updatedAt": "2024-04-15T20:12:16.855Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

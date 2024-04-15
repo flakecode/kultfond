@@ -1,0 +1,201 @@
+{
+  "id": 16,
+  "variant": "fade-with-previews",
+  "show_full_screen": null,
+  "show_previews": null,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "В Смольный собор прибыл список Чудотворной Феодоровской иконы Божьей матери",
+  "uid": null,
+  "createdAt": "2024-04-15T19:51:54.015Z",
+  "updatedAt": "2024-04-15T19:51:54.950Z",
+  "publishedAt": "2024-04-15T19:51:54.941Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 169,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 249,
+          "name": "icon3.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 727,
+          "height": 545,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_icon3_2f453e1e87.jpg",
+              "hash": "small_icon3_2f453e1e87",
+              "mime": "image/jpeg",
+              "name": "small_icon3.jpg",
+              "path": null,
+              "size": 60.76,
+              "width": 500,
+              "height": 375
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_icon3_2f453e1e87.jpg",
+              "hash": "thumbnail_icon3_2f453e1e87",
+              "mime": "image/jpeg",
+              "name": "thumbnail_icon3.jpg",
+              "path": null,
+              "size": 11.74,
+              "width": 208,
+              "height": 156
+            }
+          },
+          "hash": "icon3_2f453e1e87",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 119.78,
+          "url": "/uploads/icon3_2f453e1e87.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:51:26.426Z",
+          "updatedAt": "2024-04-15T19:51:26.426Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 170,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 248,
+          "name": "icon1.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 591,
+          "height": 788,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_icon1_28fdac16a3.jpg",
+              "hash": "small_icon1_28fdac16a3",
+              "mime": "image/jpeg",
+              "name": "small_icon1.jpg",
+              "path": null,
+              "size": 64.54,
+              "width": 375,
+              "height": 500
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_icon1_28fdac16a3.jpg",
+              "hash": "medium_icon1_28fdac16a3",
+              "mime": "image/jpeg",
+              "name": "medium_icon1.jpg",
+              "path": null,
+              "size": 132.33,
+              "width": 563,
+              "height": 750
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_icon1_28fdac16a3.jpg",
+              "hash": "thumbnail_icon1_28fdac16a3",
+              "mime": "image/jpeg",
+              "name": "thumbnail_icon1.jpg",
+              "path": null,
+              "size": 6.93,
+              "width": 116,
+              "height": 156
+            }
+          },
+          "hash": "icon1_28fdac16a3",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 134.66,
+          "url": "/uploads/icon1_28fdac16a3.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:51:26.409Z",
+          "updatedAt": "2024-04-15T19:51:26.409Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 171,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 247,
+          "name": "icon2.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 591,
+          "height": 792,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_icon2_93f4ec12a0.jpg",
+              "hash": "small_icon2_93f4ec12a0",
+              "mime": "image/jpeg",
+              "name": "small_icon2.jpg",
+              "path": null,
+              "size": 64.33,
+              "width": 373,
+              "height": 500
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_icon2_93f4ec12a0.jpg",
+              "hash": "medium_icon2_93f4ec12a0",
+              "mime": "image/jpeg",
+              "name": "medium_icon2.jpg",
+              "path": null,
+              "size": 128.95,
+              "width": 560,
+              "height": 750
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_icon2_93f4ec12a0.jpg",
+              "hash": "thumbnail_icon2_93f4ec12a0",
+              "mime": "image/jpeg",
+              "name": "thumbnail_icon2.jpg",
+              "path": null,
+              "size": 7,
+              "width": 116,
+              "height": 156
+            }
+          },
+          "hash": "icon2_93f4ec12a0",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 142.87,
+          "url": "/uploads/icon2_93f4ec12a0.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:51:26.408Z",
+          "updatedAt": "2024-04-15T19:51:26.408Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

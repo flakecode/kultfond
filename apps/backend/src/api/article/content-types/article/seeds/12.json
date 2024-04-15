@@ -1,0 +1,173 @@
+{
+  "id": 12,
+  "title": "Пол куполом Смольного собора появится музей «Собрание ангелов»",
+  "description": "В 2024 году в круговом чердачном пространстве Смольного собора откроется новый музей, в котором соберутся реплики самых известных петербургских, российских и вероятно, даже зарубежных скульптур ангелов.",
+  "createdAt": "2024-04-15T20:11:55.760Z",
+  "updatedAt": "2024-04-15T20:12:56.007Z",
+  "publishedAt": "2024-04-15T20:12:40.121Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 267,
+      "name": "Oblozhka-4.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 930,
+      "height": 525,
+      "formats": {
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_Oblozhka_4_8937606bdb.jpg",
+          "hash": "small_Oblozhka_4_8937606bdb",
+          "mime": "image/jpeg",
+          "name": "small_Oblozhka-4.jpg",
+          "path": null,
+          "size": 15.75,
+          "width": 500,
+          "height": 282
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_Oblozhka_4_8937606bdb.jpg",
+          "hash": "medium_Oblozhka_4_8937606bdb",
+          "mime": "image/jpeg",
+          "name": "medium_Oblozhka-4.jpg",
+          "path": null,
+          "size": 29.24,
+          "width": 750,
+          "height": 423
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_Oblozhka_4_8937606bdb.jpg",
+          "hash": "thumbnail_Oblozhka_4_8937606bdb",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Oblozhka-4.jpg",
+          "path": null,
+          "size": 5.57,
+          "width": 245,
+          "height": 138
+        }
+      },
+      "hash": "Oblozhka_4_8937606bdb",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 41.13,
+      "url": "/uploads/Oblozhka_4_8937606bdb.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:11:12.551Z",
+      "updatedAt": "2024-04-15T20:11:12.551Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 62,
+      "title": "Пол куполом Смольного собора появится музей «Собрание ангелов»",
+      "description": "В 2024 году в круговом чердачном пространстве Смольного собора откроется новый музей, в котором соберутся реплики самых известных петербургских, российских и вероятно, даже зарубежных скульптур ангелов.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "16 июня, 2022",
+      "media": [
+        {
+          "id": 267,
+          "name": "Oblozhka-4.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 930,
+          "height": 525,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_Oblozhka_4_8937606bdb.jpg",
+              "hash": "small_Oblozhka_4_8937606bdb",
+              "mime": "image/jpeg",
+              "name": "small_Oblozhka-4.jpg",
+              "path": null,
+              "size": 15.75,
+              "width": 500,
+              "height": 282
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_Oblozhka_4_8937606bdb.jpg",
+              "hash": "medium_Oblozhka_4_8937606bdb",
+              "mime": "image/jpeg",
+              "name": "medium_Oblozhka-4.jpg",
+              "path": null,
+              "size": 29.24,
+              "width": 750,
+              "height": 423
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_Oblozhka_4_8937606bdb.jpg",
+              "hash": "thumbnail_Oblozhka_4_8937606bdb",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Oblozhka-4.jpg",
+              "path": null,
+              "size": 5.57,
+              "width": 245,
+              "height": 138
+            }
+          },
+          "hash": "Oblozhka_4_8937606bdb",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 41.13,
+          "url": "/uploads/Oblozhka_4_8937606bdb.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:11:12.551Z",
+          "updatedAt": "2024-04-15T20:11:12.551Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 63,
+      "title": null,
+      "description": "В 2024 году в круговом чердачном пространстве Смольного собора откроется новый музей, в котором соберутся реплики самых известных петербургских, российских и вероятно, даже зарубежных скульптур ангелов.\n\nЕпархия реализует проект совместно с Фондом содействия восстановлению объектов истории и культуры в Санкт-Петербурге. Автором концепции и дизайн-проекта музейного пространства является «Мастерская братьев Архипенко». С инициативой создания музея выступил настоятель Смольного собора Петр Мухин. Идея появилась после того, как в Смольный перенесли ангела с собора Святой Екатерины, где он находится до сих пор.\n\nМузейное пространство «Собрание ангелов» расположится на высоте 50 метров, в чердачном пространстве собора. В основе экспозиции будут представлены копии скульптур, барельефов и изображений ангелов Петербурга, России и мира с мультимедийным оформлением, видеопанорамами, мультимедийной «картой ангелов», особым типом подсветки и звуковым сопровождением.\n\nНа данный момент утвержден список из 25 скульптур. В их числе ангелы с Петропавловского собора, Александровской колонны, их брат со здания Мариинской больницы, ангел с памятника Суворову, крылатая богиня Ника с Конногвардейского бульвара, ее сестра с Главного штаба — вместе с монументом «Колесница Славы», ангелы с фасада самого Смольного собора и другие. Посетители смогут ознакомиться с историей каждого представленного ангела. Кроме того, оригиналы некоторых экспонатов можно будет рассмотреть в бинокль на действующей смотровой площадке собора.\n\n«Объем работ планируется минимальный: реставрационные работы, которые заключаются в чистке кирпичной кладки, организация безопасных переходов: перила и стеклянные перегородки, так как в музее из-за особенностей помещения предполагаются большие перепады высот», — говорит Анна Хмелева, член попечительского совета Фонда содействия восстановлению объектов истории и культуры в Санкт-Петербурге.\n\nВ настоящее время вместе с ГАСУ Фонд начал историко-архитектурное исследование, чтобы найти «корни» и историю появления каждого ангела. Позднее планируется выпустить книгу по экспонатам «Собрания ангелов».",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.slider-block",
+      "id": 20,
+      "variant": "simple",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "slider": {
+        "id": 19,
+        "variant": "fade-with-previews",
+        "show_full_screen": null,
+        "show_previews": null,
+        "class_name": null,
+        "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+        "title": "Пол куполом Смольного собора появится музей «Собрание ангелов»",
+        "uid": null,
+        "createdAt": "2024-04-15T20:12:35.890Z",
+        "updatedAt": "2024-04-15T20:12:36.806Z",
+        "publishedAt": "2024-04-15T20:12:36.801Z",
+        "locale": "en"
+      }
+    }
+  ]
+}

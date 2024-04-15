@@ -1,0 +1,171 @@
+{
+  "id": 9,
+  "title": "Перехватывающая стоянка уступит место Борисоглебской церкви на Синопской набережной",
+  "description": "В Петербурге с 1 августа прекращается работа перехватывающей парковки на Синопской набережной.",
+  "createdAt": "2024-04-15T20:04:36.523Z",
+  "updatedAt": "2024-04-15T20:04:38.579Z",
+  "publishedAt": "2024-04-15T20:04:38.573Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 259,
+      "name": "imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1536,
+      "height": 1086,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/uploads/large_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+          "hash": "large_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+          "mime": "image/png",
+          "name": "large_imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+          "path": null,
+          "size": 1336.53,
+          "width": 1000,
+          "height": 707
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+          "hash": "small_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+          "mime": "image/png",
+          "name": "small_imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+          "path": null,
+          "size": 343.65,
+          "width": 500,
+          "height": 354
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/uploads/medium_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+          "hash": "medium_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+          "mime": "image/png",
+          "name": "medium_imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+          "path": null,
+          "size": 760.35,
+          "width": 750,
+          "height": 530
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+          "hash": "thumbnail_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+          "mime": "image/png",
+          "name": "thumbnail_imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+          "path": null,
+          "size": 72.63,
+          "width": 221,
+          "height": 156
+        }
+      },
+      "hash": "imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 815.48,
+      "url": "/uploads/imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T20:03:49.755Z",
+      "updatedAt": "2024-04-15T20:03:49.755Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 57,
+      "title": "Перехватывающая стоянка уступит место Борисоглебской церкви на Синопской набережной",
+      "description": "В Петербурге с 1 августа прекращается работа перехватывающей парковки на Синопской набережной.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": null,
+      "subtitle": "28 июля, 2022",
+      "media": [
+        {
+          "id": 259,
+          "name": "imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1536,
+          "height": 1086,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+              "hash": "large_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+              "mime": "image/png",
+              "name": "large_imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+              "path": null,
+              "size": 1336.53,
+              "width": 1000,
+              "height": 707
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+              "hash": "small_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+              "mime": "image/png",
+              "name": "small_imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+              "path": null,
+              "size": 343.65,
+              "width": 500,
+              "height": 354
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+              "hash": "medium_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+              "mime": "image/png",
+              "name": "medium_imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+              "path": null,
+              "size": 760.35,
+              "width": 750,
+              "height": 530
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+              "hash": "thumbnail_imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+              "mime": "image/png",
+              "name": "thumbnail_imgonline-com-ua-convert2Ywf0OCdaRCe-1536x1086.png",
+              "path": null,
+              "size": 72.63,
+              "width": 221,
+              "height": 156
+            }
+          },
+          "hash": "imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 815.48,
+          "url": "/uploads/imgonline_com_ua_convert2_Ywf0_O_Cda_R_Ce_1536x1086_315f25c485.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:03:49.755Z",
+          "updatedAt": "2024-04-15T20:03:49.755Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 56,
+      "title": null,
+      "description": "В Петербурге с 1 августа прекращается работа перехватывающей парковки на Синопской набережной. Вместо нее Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге будет воссоздавать на ее месте исторический образ Борисоглебской церкви по чертежу и партерный сквер возле нее.\n\nПерехватывающая стоянка начала работать в июле 2010 года. Она растянулась на весь квартал между Синопской набережной, проспектом Бакунина и безымянным продолжением Амбарной улицы. Однако стоянка почти не пользовалась спросом среди автомобилистов и ее решили закрыть с 1 августа. После этого территорию передадут для воссоздания проекта Борисоглебской церкви.\n\nПроект разработал архитектор Михаил Мамошин, руководитель «Архитектурной мастерской Мамошина». Начало строительных работ запланировано на 2022-2023 года. Храм будет возведен заново не совсем в его точном историческом месте по причине того, что на участке, где ранее была Борисоглебская церковь, проходит проезжая часть Синопской набережной. Поэтому здание разместится немного в стороне. Также из-за особенностей земельного участка было принято решение повернуть храм на 90 градусов.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

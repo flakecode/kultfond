@@ -1,0 +1,149 @@
+{
+  "id": 5,
+  "title": "Обнаружены фрагменты Борисоглебской церкви",
+  "description": "Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге продолжает работу над воссозданием храма Святых Благоверных князей Бориса и Глеба на Синопской набережной.",
+  "createdAt": "2024-04-15T19:53:32.641Z",
+  "updatedAt": "2024-04-15T19:53:42.247Z",
+  "publishedAt": "2024-04-15T19:53:42.242Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 250,
+      "name": "Sinopskaya.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1000,
+      "height": 647,
+      "formats": {
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_Sinopskaya_cef375b8c6.jpg",
+          "hash": "small_Sinopskaya_cef375b8c6",
+          "mime": "image/jpeg",
+          "name": "small_Sinopskaya.jpg",
+          "path": null,
+          "size": 37.87,
+          "width": 500,
+          "height": 324
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_Sinopskaya_cef375b8c6.jpg",
+          "hash": "medium_Sinopskaya_cef375b8c6",
+          "mime": "image/jpeg",
+          "name": "medium_Sinopskaya.jpg",
+          "path": null,
+          "size": 78.83,
+          "width": 750,
+          "height": 485
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_Sinopskaya_cef375b8c6.jpg",
+          "hash": "thumbnail_Sinopskaya_cef375b8c6",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Sinopskaya.jpg",
+          "path": null,
+          "size": 9.09,
+          "width": 241,
+          "height": 156
+        }
+      },
+      "hash": "Sinopskaya_cef375b8c6",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 109.61,
+      "url": "/uploads/Sinopskaya_cef375b8c6.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T19:52:57.774Z",
+      "updatedAt": "2024-04-15T19:52:57.774Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 49,
+      "title": "Обнаружены фрагменты Борисоглебской церкви",
+      "description": "Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге продолжает работу над воссозданием храма Святых Благоверных князей Бориса и Глеба на Синопской набережной.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": "13 октября, 2022",
+      "media": [
+        {
+          "id": 250,
+          "name": "Sinopskaya.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1000,
+          "height": 647,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_Sinopskaya_cef375b8c6.jpg",
+              "hash": "small_Sinopskaya_cef375b8c6",
+              "mime": "image/jpeg",
+              "name": "small_Sinopskaya.jpg",
+              "path": null,
+              "size": 37.87,
+              "width": 500,
+              "height": 324
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_Sinopskaya_cef375b8c6.jpg",
+              "hash": "medium_Sinopskaya_cef375b8c6",
+              "mime": "image/jpeg",
+              "name": "medium_Sinopskaya.jpg",
+              "path": null,
+              "size": 78.83,
+              "width": 750,
+              "height": 485
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_Sinopskaya_cef375b8c6.jpg",
+              "hash": "thumbnail_Sinopskaya_cef375b8c6",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Sinopskaya.jpg",
+              "path": null,
+              "size": 9.09,
+              "width": 241,
+              "height": 156
+            }
+          },
+          "hash": "Sinopskaya_cef375b8c6",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 109.61,
+          "url": "/uploads/Sinopskaya_cef375b8c6.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:52:57.774Z",
+          "updatedAt": "2024-04-15T19:52:57.774Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 48,
+      "title": null,
+      "description": "Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге продолжает работу над воссозданием храма Святых Благоверных князей Бориса и Глеба на Синопской набережной.\n\nВ августе состоялись разведочные археологические работы на историческом месте. В результате археологической разведки выявлен участок западной стены западного притвора церкви и пол подвального этажа. Фрагменты фундамента храма с прилегающим культурным слоем были включены в реестр памятников культурного наследия.\n\nНапомним, Борисоглебская церковь была построена в 1869-1882 году по проекту архитектора Михаила Щурупова. С 1877 г. при храме действовало благотворительное общество с домом для престарелых и детский приют. С начала ХХ века – дамский благотворительный кружок и братство «Лепта милосердия». Но в 1934 г. храм закрыли, здание использовалось в качестве склада и завода комбикормов. В послевоенное время были разобраны боковые главы храма. а в 1975-м здание снесли для прокладки новой трассы Синопской набережной. В 2019 году Фонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге выступил с инициативой воссоздания Борисоглебской церкви.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

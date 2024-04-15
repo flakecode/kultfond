@@ -1,0 +1,171 @@
+{
+  "id": 7,
+  "title": "Начался ремонт фасадов Духовной академии на Обводном канале",
+  "description": "Начался ремонт фасадов главного здания Духовной академии на набережной Обводного канала, 7, литера Г. В будущем планируется привести в порядок помещения для организации учебного процесса.",
+  "createdAt": "2024-04-15T19:59:20.761Z",
+  "updatedAt": "2024-04-15T19:59:21.561Z",
+  "publishedAt": "2024-04-15T19:59:21.554Z",
+  "locale": "en",
+  "localizations": [],
+  "media": [
+    {
+      "id": 257,
+      "name": "img_9552-scaled.jpg__1200_0x0.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1200,
+      "height": 800,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "url": "/uploads/large_img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+          "hash": "large_img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+          "mime": "image/jpeg",
+          "name": "large_img_9552-scaled.jpg__1200_0x0.jpg",
+          "path": null,
+          "size": 114.04,
+          "width": 1000,
+          "height": 667
+        },
+        "small": {
+          "ext": ".jpg",
+          "url": "/uploads/small_img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+          "hash": "small_img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+          "mime": "image/jpeg",
+          "name": "small_img_9552-scaled.jpg__1200_0x0.jpg",
+          "path": null,
+          "size": 37.95,
+          "width": 500,
+          "height": 333
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "/uploads/medium_img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+          "hash": "medium_img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+          "mime": "image/jpeg",
+          "name": "medium_img_9552-scaled.jpg__1200_0x0.jpg",
+          "path": null,
+          "size": 72.63,
+          "width": 750,
+          "height": 500
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "/uploads/thumbnail_img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+          "hash": "thumbnail_img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+          "mime": "image/jpeg",
+          "name": "thumbnail_img_9552-scaled.jpg__1200_0x0.jpg",
+          "path": null,
+          "size": 11.04,
+          "width": 234,
+          "height": 156
+        }
+      },
+      "hash": "img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 151.91,
+      "url": "/uploads/img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "folderPath": "/",
+      "createdAt": "2024-04-15T19:58:42.087Z",
+      "updatedAt": "2024-04-15T19:58:42.087Z"
+    }
+  ],
+  "page_blocks": [
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 52,
+      "title": "Начался ремонт фасадов Духовной академии на Обводном канале",
+      "description": "Начался ремонт фасадов главного здания Духовной академии на набережной Обводного канала, 7, литера Г. В будущем планируется привести в порядок помещения для организации учебного процесса.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-0",
+      "subtitle": null,
+      "media": [
+        {
+          "id": 257,
+          "name": "img_9552-scaled.jpg__1200_0x0.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1200,
+          "height": 800,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+              "hash": "large_img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+              "mime": "image/jpeg",
+              "name": "large_img_9552-scaled.jpg__1200_0x0.jpg",
+              "path": null,
+              "size": 114.04,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+              "hash": "small_img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+              "mime": "image/jpeg",
+              "name": "small_img_9552-scaled.jpg__1200_0x0.jpg",
+              "path": null,
+              "size": 37.95,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+              "hash": "medium_img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+              "mime": "image/jpeg",
+              "name": "medium_img_9552-scaled.jpg__1200_0x0.jpg",
+              "path": null,
+              "size": 72.63,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+              "hash": "thumbnail_img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+              "mime": "image/jpeg",
+              "name": "thumbnail_img_9552-scaled.jpg__1200_0x0.jpg",
+              "path": null,
+              "size": 11.04,
+              "width": 234,
+              "height": 156
+            }
+          },
+          "hash": "img_9552_scaled_jpg_1200_0x0_7c6d23ed77",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 151.91,
+          "url": "/uploads/img_9552_scaled_jpg_1200_0x0_7c6d23ed77.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T19:58:42.087Z",
+          "updatedAt": "2024-04-15T19:58:42.087Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "__component": "page-blocks.hero-section-block",
+      "id": 53,
+      "title": null,
+      "description": "Начался ремонт фасадов главного здания Духовной академии на набережной Обводного канала, 7, литера Г. В будущем планируется привести в порядок помещения для организации учебного процесса.\n\nСейчас леса устанавливаются с западной стороны, это дворовый фасад. Помимо работ по штукатурке, предполагается заменить оконные и дверные блоки. По планам этот этап завершится к концу 2023 года.\n\nФонд содействия восстановлению объектов истории и культуры в Санкт-Петербурге планирует провести ремонт и внутренних помещений для нужд Санкт-Петербургской духовной академии. Сейчас они находятся в аварийном состоянии, из-за чего студенты вынуждены учиться в другом здании. Ремонт начнется после завершения работ на фасадах, не ранее 2024 года.",
+      "variant": "kultfond-description-light",
+      "anchor": null,
+      "class_name": "pt-5 pb-36",
+      "subtitle": null,
+      "media": null,
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}

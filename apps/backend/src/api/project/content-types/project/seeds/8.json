@@ -83,6 +83,7 @@
       "variant": "kultfond-media-on-right-small",
       "anchor": null,
       "class_name": null,
+      "subtitle": null,
       "media": null,
       "buttons": [],
       "additional_media": [
@@ -161,6 +162,7 @@
       "variant": "kultfond-description-light",
       "anchor": null,
       "class_name": "py-5",
+      "subtitle": null,
       "media": null,
       "buttons": [],
       "additional_media": null
@@ -243,6 +245,7 @@
       "variant": "kultfond-description-light",
       "anchor": null,
       "class_name": "pt-5 pb-36",
+      "subtitle": null,
       "media": null,
       "buttons": [],
       "additional_media": null

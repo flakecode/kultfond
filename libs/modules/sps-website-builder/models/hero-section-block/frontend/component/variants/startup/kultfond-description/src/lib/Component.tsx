@@ -2,6 +2,7 @@ import React from "react";
 import { IComponentPropsExtended } from "./interface";
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
+import { Component as File } from "@sps/sps-file-storage-models-file-frontend-component";
 
 export function Component(props: IComponentPropsExtended) {
   return (
@@ -42,6 +43,17 @@ export function Component(props: IComponentPropsExtended) {
           >
             {props.data.description}
           </ReactMarkdown>
+        ) : null}
+        {props.data.media && props.data.media.length ? (
+          <div>
+            <File
+              isServer={props.isServer}
+              variant="image"
+              data={props.data.media[0]}
+              containerClassName="relative w-full aspect-w-16 aspect-h-9 overflow-hidden"
+              className="object-cover w-full h-full"
+            />
+          </div>
         ) : null}
       </div>
     </div>

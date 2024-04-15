@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_page_blocks_articles_list_blocks",
+  "info": {
+    "displayName": "Articles List Block",
+    "icon": "feather"
+  },
+  "options": {},
+  "attributes": {
+    "variant": {
+      "type": "enumeration",
+      "enum": ["kultfond-default"],
+      "default": "kultfond-default",
+      "required": true
+    },
+    "title": {
+      "type": "richtext"
+    },
+    "subtitle": {
+      "type": "richtext"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "class_name": {
+      "type": "string"
+    },
+    "anchor": {
+      "type": "string"
+    }
+  }
+}

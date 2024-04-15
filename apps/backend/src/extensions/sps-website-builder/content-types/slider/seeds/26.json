@@ -1,0 +1,245 @@
+{
+  "id": 26,
+  "variant": "fade-with-previews",
+  "show_full_screen": null,
+  "show_previews": null,
+  "class_name": null,
+  "aspect_ratio_class_name": "aspect-h-1 aspect-w-1 xl:aspect-w-15 xl:aspect-h-10",
+  "title": "В Петербурге состоялся тестовый запуск шоу дронов «Колокольня Смольного собора»",
+  "uid": null,
+  "createdAt": "2024-04-15T20:38:38.485Z",
+  "updatedAt": "2024-04-15T20:38:39.883Z",
+  "publishedAt": "2024-04-15T20:38:39.877Z",
+  "locale": "en",
+  "localizations": [],
+  "slides": [
+    {
+      "id": 218,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 312,
+          "name": "tild3131-3130-4331-b265-646632353764__pc260060.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1066,
+          "height": 1600,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23.jpg",
+              "hash": "large_tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23",
+              "mime": "image/jpeg",
+              "name": "large_tild3131-3130-4331-b265-646632353764__pc260060.jpg",
+              "path": null,
+              "size": 136.17,
+              "width": 666,
+              "height": 1000
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23.jpg",
+              "hash": "small_tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23",
+              "mime": "image/jpeg",
+              "name": "small_tild3131-3130-4331-b265-646632353764__pc260060.jpg",
+              "path": null,
+              "size": 41.66,
+              "width": 333,
+              "height": 500
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23.jpg",
+              "hash": "medium_tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23",
+              "mime": "image/jpeg",
+              "name": "medium_tild3131-3130-4331-b265-646632353764__pc260060.jpg",
+              "path": null,
+              "size": 82.94,
+              "width": 500,
+              "height": 750
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23.jpg",
+              "hash": "thumbnail_tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23",
+              "mime": "image/jpeg",
+              "name": "thumbnail_tild3131-3130-4331-b265-646632353764__pc260060.jpg",
+              "path": null,
+              "size": 6.78,
+              "width": 104,
+              "height": 156
+            }
+          },
+          "hash": "tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 255.38,
+          "url": "/uploads/tild3131_3130_4331_b265_646632353764_pc260060_bf0d4ceb23.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:38:20.364Z",
+          "updatedAt": "2024-04-15T20:38:20.364Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 219,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 313,
+          "name": "tild3663-3230-4734-b463-323332613631__pc260047.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1600,
+          "height": 1067,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc.jpg",
+              "hash": "large_tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc",
+              "mime": "image/jpeg",
+              "name": "large_tild3663-3230-4734-b463-323332613631__pc260047.jpg",
+              "path": null,
+              "size": 91,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc.jpg",
+              "hash": "small_tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc",
+              "mime": "image/jpeg",
+              "name": "small_tild3663-3230-4734-b463-323332613631__pc260047.jpg",
+              "path": null,
+              "size": 30.13,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc.jpg",
+              "hash": "medium_tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc",
+              "mime": "image/jpeg",
+              "name": "medium_tild3663-3230-4734-b463-323332613631__pc260047.jpg",
+              "path": null,
+              "size": 57.03,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc.jpg",
+              "hash": "thumbnail_tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc",
+              "mime": "image/jpeg",
+              "name": "thumbnail_tild3663-3230-4734-b463-323332613631__pc260047.jpg",
+              "path": null,
+              "size": 9.48,
+              "width": 235,
+              "height": 156
+            }
+          },
+          "hash": "tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 159.66,
+          "url": "/uploads/tild3663_3230_4734_b463_323332613631_pc260047_49cf110fcc.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:38:26.383Z",
+          "updatedAt": "2024-04-15T20:38:26.383Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    },
+    {
+      "id": 220,
+      "title": null,
+      "description": null,
+      "subtitle": null,
+      "show_backdrop": null,
+      "media": [
+        {
+          "id": 314,
+          "name": "tild6262-3738-4565-a264-353339613638__pc260045.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1600,
+          "height": 1067,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc.jpg",
+              "hash": "large_tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc",
+              "mime": "image/jpeg",
+              "name": "large_tild6262-3738-4565-a264-353339613638__pc260045.jpg",
+              "path": null,
+              "size": 90.88,
+              "width": 1000,
+              "height": 667
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc.jpg",
+              "hash": "small_tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc",
+              "mime": "image/jpeg",
+              "name": "small_tild6262-3738-4565-a264-353339613638__pc260045.jpg",
+              "path": null,
+              "size": 22.37,
+              "width": 500,
+              "height": 333
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc.jpg",
+              "hash": "medium_tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc",
+              "mime": "image/jpeg",
+              "name": "medium_tild6262-3738-4565-a264-353339613638__pc260045.jpg",
+              "path": null,
+              "size": 50.94,
+              "width": 750,
+              "height": 500
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc.jpg",
+              "hash": "thumbnail_tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc",
+              "mime": "image/jpeg",
+              "name": "thumbnail_tild6262-3738-4565-a264-353339613638__pc260045.jpg",
+              "path": null,
+              "size": 5.79,
+              "width": 235,
+              "height": 156
+            }
+          },
+          "hash": "tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 172.84,
+          "url": "/uploads/tild6262_3738_4565_a264_353339613638_pc260045_b6cb7699bc.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2024-04-15T20:38:26.396Z",
+          "updatedAt": "2024-04-15T20:38:26.396Z"
+        }
+      ],
+      "buttons": [],
+      "additional_media": null
+    }
+  ]
+}
