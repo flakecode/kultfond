@@ -9,6 +9,7 @@ export default {
     await setPermissions();
 
     strapi.errorCatcher = (error, ctx) => {
+      5;
       if (process.env.SENTRY_DSN) {
         strapi.plugin("sentry").service("sentry").sendError(error);
       }

@@ -6,13 +6,15 @@ import { IModel as IProjectsListBlock } from "@sps/sps-website-builder-models-pr
 import { IModel as IProjectOverviewBlock } from "@sps/sps-website-builder-models-project-overview-block-contracts";
 import { IModel as IArticlesListBlock } from "@sps/sps-website-builder-models-articles-list-block-contracts";
 import { IModel as IArticleOverviewBlock } from "@sps/sps-website-builder-models-article-overview-block-contracts";
+import { IModel as IPostsListBlock } from "@sps/sps-website-builder-models-posts-list-block-contracts";
 
 export type IPageBlock =
   | IParentPageBlock
   | IProjectsListBlock
   | IProjectOverviewBlock
   | IArticlesListBlock
-  | IArticleOverviewBlock;
+  | IArticleOverviewBlock
+  | IPostsListBlock;
 
 export interface IModel extends Omit<IParentModel, "data"> {
   data: {

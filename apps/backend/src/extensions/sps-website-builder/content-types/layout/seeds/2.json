@@ -30,7 +30,7 @@
     "position": "fixed",
     "side": "top",
     "createdAt": "2024-04-02T21:53:26.915Z",
-    "updatedAt": "2024-04-15T19:15:00.870Z",
+    "updatedAt": "2024-04-15T21:32:35.668Z",
     "publishedAt": "2023-04-08T05:04:22.148Z",
     "locale": "en"
   },
@@ -108,6 +108,15 @@
       "createdAt": "2024-04-15T17:43:14.739Z",
       "updatedAt": "2024-04-15T18:51:46.174Z",
       "publishedAt": "2024-04-15T17:43:15.566Z",
+      "locale": "en"
+    },
+    {
+      "id": 15,
+      "title": "Press",
+      "url": "/press",
+      "createdAt": "2024-04-15T21:32:14.183Z",
+      "updatedAt": "2024-04-15T21:34:01.581Z",
+      "publishedAt": "2024-04-15T21:33:23.735Z",
       "locale": "en"
     }
   ]

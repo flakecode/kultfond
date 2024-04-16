@@ -67,7 +67,8 @@
         "page-blocks.projects-list-block",
         "page-blocks.project-overview-block",
         "page-blocks.articles-list-block",
-        "page-blocks.article-overview-block"
+        "page-blocks.article-overview-block",
+        "page-blocks.posts-list-block"
       ]
     },
     "layout": {

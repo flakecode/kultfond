@@ -2,6 +2,7 @@ import React from "react";
 import { IComponentPropsExtended } from "./interface";
 import { Component as File } from "@sps/sps-file-storage-models-file-frontend-component";
 import Link from "next/link";
+import dayjs from "dayjs";
 
 export function Component(props: IComponentPropsExtended) {
   return (
@@ -21,16 +22,27 @@ export function Component(props: IComponentPropsExtended) {
           className="object-cover w-full h-full"
         />
       ) : null}
-      <div className="p-3 lg:p-5 flex flex-col gap-3 bg-white h-full">
-        <p className="text-lg text-medium text-[#1F1F1F] leading-tight">
-          {props.data.title?.split(" ")?.slice(0, 7)?.join(" ")}...
-        </p>
-        {props.data.description ? (
-          <p className="text-[#808080] leading-tight">
-            {props.data.description?.split(" ")?.slice(0, 10)?.join(" ")}...
-            <span className="underline pl-2">Читать</span>
+      <div className="p-3 lg:p-5 flex flex-col justify-between gap-3 bg-white h-full">
+        <div className="flex flex-col gap-3">
+          <p className="text-base text-[#808080] group-hover:text-[#A48A67] transition duration-200">
+            {dayjs(props.data.date).format("DD.MM.YYYY")}
           </p>
-        ) : null}
+
+          <p className="text-lg text-semibold text-[#1F1F1F] leading-tight">
+            {props.data.title?.split(" ").length > 7
+              ? `${props.data.title?.split(" ")?.slice(0, 7)?.join(" ")}...`
+              : props.data.title}
+          </p>
+          {props.data.description ? (
+            <p className="text-[#808080] leading-tight">
+              {props.data.description?.split(" ")?.slice(0, 10)?.join(" ")}...
+            </p>
+          ) : null}
+        </div>
+
+        <p className="text-[#808080] leading-tight text-base underline group-hover:text-[#A48A67] transition duration-200">
+          Читать
+        </p>
       </div>
     </Link>
   );
