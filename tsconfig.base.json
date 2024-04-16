@@ -854,6 +854,9 @@
       "@sps/sps-website-builder-models-feature-frontend-component-variants-startup-kultfond-contact": [
         "libs/modules/sps-website-builder/models/feature/frontend/component/variants/startup/kultfond-contact/src/index.ts"
       ],
+      "@sps/sps-website-builder-models-feature-frontend-component-variants-startup-kultfond-management": [
+        "libs/modules/sps-website-builder/models/feature/frontend/component/variants/startup/kultfond-management/src/index.ts"
+      ],
       "@sps/sps-website-builder-models-feature-frontend-component-variants-startup-kultfond-year": [
         "libs/modules/sps-website-builder/models/feature/frontend/component/variants/startup/kultfond-year/src/index.ts"
       ],
@@ -880,6 +883,9 @@
       ],
       "@sps/sps-website-builder-models-features-section-block-frontend-component-variants-startup-kultfond-contacts": [
         "libs/modules/sps-website-builder/models/features-section-block/frontend/component/variants/startup/kultfond-contacts/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-features-section-block-frontend-component-variants-startup-kultfond-message-from-management": [
+        "libs/modules/sps-website-builder/models/features-section-block/frontend/component/variants/startup/kultfond-message-from-management/src/index.ts"
       ],
       "@sps/sps-website-builder-models-features-section-block-frontend-component-variants-startup-kultfond-years": [
         "libs/modules/sps-website-builder/models/features-section-block/frontend/component/variants/startup/kultfond-years/src/index.ts"
