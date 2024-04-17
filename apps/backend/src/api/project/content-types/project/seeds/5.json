@@ -1,9 +1,9 @@
 {
   "id": 5,
   "title": "Колокольня Смольного собора",
-  "location": "Санкт-Петербург, Синопская наб.",
+  "location": "Санкт-Петербург, пл. Растрелли",
   "createdAt": "2024-04-09T23:53:31.913Z",
-  "updatedAt": "2024-04-11T21:11:45.058Z",
+  "updatedAt": "2024-04-17T10:07:21.468Z",
   "publishedAt": "2024-04-09T23:53:33.017Z",
   "locale": "en",
   "localizations": [],
@@ -79,7 +79,7 @@
       "__component": "page-blocks.hero-section-block",
       "id": 23,
       "title": "Колокольня Смольного собора",
-      "description": "Санкт-Петербург, Синопская наб.",
+      "description": "Санкт-Петербург, пл. Растрелли",
       "variant": "kultfond-media-on-right-small",
       "anchor": null,
       "class_name": null,
@@ -186,7 +186,7 @@
         "title": "Колокольня Смольного собора",
         "uid": null,
         "createdAt": "2024-04-10T14:45:19.274Z",
-        "updatedAt": "2024-04-10T14:45:20.230Z",
+        "updatedAt": "2024-04-17T10:05:19.776Z",
         "publishedAt": "2024-04-10T14:45:20.221Z",
         "locale": "en"
       }

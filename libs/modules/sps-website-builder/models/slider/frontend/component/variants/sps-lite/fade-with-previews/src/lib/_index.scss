@@ -1,7 +1,7 @@
 [data-module="sps-website-builder"] {
   &[data-model="slider"] {
     &[data-variant="fade-with-previews"] {
-      @apply flex flex-col w-full;
+      @apply flex flex-col w-full bg-[#F5F5F5];
 
       .slides-container {
         @apply flex items-center;
