@@ -16,7 +16,7 @@
     "variant": "kultfond-black",
     "class_name": null,
     "createdAt": "2024-04-02T21:53:26.857Z",
-    "updatedAt": "2024-04-15T20:40:49.904Z",
+    "updatedAt": "2024-04-20T02:18:53.112Z",
     "publishedAt": "2024-01-10T11:45:35.047Z",
     "locale": "en"
   },
@@ -30,7 +30,7 @@
     "position": "fixed",
     "side": "top",
     "createdAt": "2024-04-02T21:53:26.915Z",
-    "updatedAt": "2024-04-15T21:32:35.668Z",
+    "updatedAt": "2024-04-20T02:17:22.517Z",
     "publishedAt": "2023-04-08T05:04:22.148Z",
     "locale": "en"
   },
@@ -97,8 +97,8 @@
       "title": "Articles Page",
       "url": "/articles",
       "createdAt": "2024-04-15T17:41:32.487Z",
-      "updatedAt": "2024-04-15T17:41:33.310Z",
-      "publishedAt": "2024-04-15T17:41:33.304Z",
+      "updatedAt": "2024-04-20T02:17:29.257Z",
+      "publishedAt": null,
       "locale": "en"
     },
     {
@@ -106,8 +106,8 @@
       "title": "Article Page",
       "url": "/articles/[api::article.article.id]",
       "createdAt": "2024-04-15T17:43:14.739Z",
-      "updatedAt": "2024-04-15T18:51:46.174Z",
-      "publishedAt": "2024-04-15T17:43:15.566Z",
+      "updatedAt": "2024-04-20T02:17:38.188Z",
+      "publishedAt": null,
       "locale": "en"
     },
     {

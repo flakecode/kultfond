@@ -7,7 +7,7 @@
   "position": "fixed",
   "side": "top",
   "createdAt": "2024-04-02T21:53:26.915Z",
-  "updatedAt": "2024-04-15T21:32:35.668Z",
+  "updatedAt": "2024-04-20T02:17:22.517Z",
   "publishedAt": "2023-04-08T05:04:22.148Z",
   "locale": "en",
   "localizations": [
@@ -79,18 +79,6 @@
           "description": null,
           "variant": "link",
           "title": "Проекты",
-          "additional_attributes": null,
-          "class_name": null,
-          "media": null,
-          "additional_media": null,
-          "flyout": null
-        },
-        {
-          "id": 44,
-          "url": "/articles",
-          "description": null,
-          "variant": "link",
-          "title": "Новости",
           "additional_attributes": null,
           "class_name": null,
           "media": null,

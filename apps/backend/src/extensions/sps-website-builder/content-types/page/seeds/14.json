@@ -3,8 +3,8 @@
   "title": "Article Page",
   "url": "/articles/[api::article.article.id]",
   "createdAt": "2024-04-15T17:43:14.739Z",
-  "updatedAt": "2024-04-15T18:51:46.174Z",
-  "publishedAt": "2024-04-15T17:43:15.566Z",
+  "updatedAt": "2024-04-20T02:17:38.188Z",
+  "publishedAt": null,
   "locale": "en",
   "localizations": [],
   "page_blocks": [
