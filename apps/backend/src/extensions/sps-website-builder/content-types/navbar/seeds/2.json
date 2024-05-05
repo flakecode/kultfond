@@ -20,7 +20,7 @@
       "position": "fixed",
       "side": "top",
       "createdAt": "2024-04-02T21:53:26.915Z",
-      "updatedAt": "2024-04-20T02:17:22.517Z",
+      "updatedAt": "2024-05-05T13:29:34.104Z",
       "publishedAt": "2023-04-08T05:04:22.148Z",
       "locale": "en"
     }
@@ -36,6 +36,7 @@
         "id": 4,
         "title": null,
         "url": "/",
+        "class_name": null,
         "media": null,
         "additional_media": null
       },
