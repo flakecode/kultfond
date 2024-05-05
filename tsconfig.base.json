@@ -17,7 +17,6 @@
     "paths": {
       "@sps/hooks": ["libs/shared/hooks/src/index.ts"],
       "@sps/shadcn": ["libs/shared/ui/shadcn/src/index.ts"],
-      "@sps/shadcn/server": ["libs/shared/ui/shadcn/src/server.ts"],
       "@sps/shared-frontend-utils-client": [
         "libs/shared/frontend/utils/client/src/index.ts"
       ],
@@ -25,6 +24,7 @@
         "libs/shared/frontend/utils/server/src/index.ts"
       ],
       "@sps/shared-utils": ["libs/shared/utils/src/index.ts"],
+      "@sps/sps-billing": ["libs/modules/sps-billing/backend/src/index.ts"],
       "@sps/sps-billing-frontend": [
         "libs/modules/sps-billing/frontend/root/src/index.ts"
       ],
@@ -102,9 +102,6 @@
       ],
       "@sps/sps-crm-models-form-frontend-component": [
         "libs/modules/sps-crm/models/form/frontend/component/root/src/index.ts"
-      ],
-      "@sps/sps-crm-models-form-frontend-component-variants-sps-lite-list": [
-        "libs/modules/sps-crm/models/form/frontend/component/variants/sps-lite/list/src/index.ts"
       ],
       "@sps/sps-crm-models-form-frontend-component-variants-sps-lite-simple": [
         "libs/modules/sps-crm/models/form/frontend/component/variants/sps-lite/simple/src/index.ts"
@@ -673,6 +670,27 @@
       ],
       "@sps/sps-website-builder-models-button-frontend-component-variants-sps-lite-default": [
         "libs/modules/sps-website-builder/models/button/frontend/component/variants/sps-lite/default/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-button-frontend-component-variants-sps-lite-destructive": [
+        "libs/modules/sps-website-builder/models/button/frontend/component/variants/sps-lite/destructive/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-button-frontend-component-variants-sps-lite-ghost": [
+        "libs/modules/sps-website-builder/models/button/frontend/component/variants/sps-lite/ghost/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-button-frontend-component-variants-sps-lite-link": [
+        "libs/modules/sps-website-builder/models/button/frontend/component/variants/sps-lite/link/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-button-frontend-component-variants-sps-lite-locale": [
+        "libs/modules/sps-website-builder/models/button/frontend/component/variants/sps-lite/locale/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-button-frontend-component-variants-sps-lite-outline": [
+        "libs/modules/sps-website-builder/models/button/frontend/component/variants/sps-lite/outline/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-button-frontend-component-variants-sps-lite-primary": [
+        "libs/modules/sps-website-builder/models/button/frontend/component/variants/sps-lite/primary/src/index.ts"
+      ],
+      "@sps/sps-website-builder-models-button-frontend-component-variants-sps-lite-secondary": [
+        "libs/modules/sps-website-builder/models/button/frontend/component/variants/sps-lite/secondary/src/index.ts"
       ],
       "@sps/sps-website-builder-models-button-frontend-redux": [
         "libs/modules/sps-website-builder/models/button/frontend/redux/src/index.ts"
@@ -1782,8 +1800,7 @@
         "libs/modules/startup/models/project/frontend/redux/src/index.ts"
       ],
       "@sps/store": ["libs/shared/store/src/index.ts"],
-      "@sps/ui-adapter": ["libs/shared/ui/adapter/src/index.ts"],
-      "@sps/ui-adapter/server": ["libs/shared/ui/adapter/src/server.ts"]
+      "@sps/ui-adapter": ["libs/shared/ui/adapter/src/index.ts"]
     },
     "typeRoots": ["./node_modules/@types", "types"]
   },
