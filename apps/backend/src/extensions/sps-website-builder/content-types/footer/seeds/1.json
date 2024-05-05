@@ -5,7 +5,7 @@
   "variant": "kultfond-black",
   "class_name": null,
   "createdAt": "2024-04-02T21:53:26.857Z",
-  "updatedAt": "2024-04-20T02:18:53.112Z",
+  "updatedAt": "2024-05-05T13:30:28.548Z",
   "publishedAt": "2024-01-10T11:45:35.047Z",
   "locale": "en",
   "localizations": [
@@ -33,6 +33,7 @@
         "id": 1,
         "title": null,
         "url": null,
+        "class_name": null,
         "media": [
           {
             "id": 228,
@@ -74,7 +75,7 @@
               "variant": "link",
               "title": "О фонде",
               "additional_attributes": null,
-              "class_name": null,
+              "class_name": "w-fit",
               "media": null,
               "additional_media": null,
               "flyout": null
@@ -86,7 +87,7 @@
               "variant": "link",
               "title": "Контакты",
               "additional_attributes": null,
-              "class_name": null,
+              "class_name": "w-fit",
               "media": null,
               "additional_media": null,
               "flyout": null
@@ -98,7 +99,7 @@
               "variant": "link",
               "title": "СМИ о нас",
               "additional_attributes": null,
-              "class_name": null,
+              "class_name": "w-fit",
               "media": null,
               "additional_media": null,
               "flyout": null
@@ -123,7 +124,7 @@
               "variant": "link",
               "title": "В стадии реализации",
               "additional_attributes": null,
-              "class_name": null,
+              "class_name": "w-fit",
               "media": null,
               "additional_media": null,
               "flyout": null
@@ -135,7 +136,7 @@
               "variant": "link",
               "title": "Завершенные",
               "additional_attributes": null,
-              "class_name": null,
+              "class_name": "w-fit",
               "media": null,
               "additional_media": null,
               "flyout": null
@@ -147,7 +148,7 @@
               "variant": "link",
               "title": "Колокольня Смольного собора",
               "additional_attributes": null,
-              "class_name": null,
+              "class_name": "w-fit",
               "media": null,
               "additional_media": null,
               "flyout": null

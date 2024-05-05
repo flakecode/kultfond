@@ -7,7 +7,7 @@
   "position": "fixed",
   "side": "top",
   "createdAt": "2024-04-02T21:53:26.915Z",
-  "updatedAt": "2024-04-20T02:17:22.517Z",
+  "updatedAt": "2024-05-05T13:29:34.104Z",
   "publishedAt": "2023-04-08T05:04:22.148Z",
   "locale": "en",
   "localizations": [
@@ -36,6 +36,7 @@
         "id": 3,
         "title": null,
         "url": "/",
+        "class_name": null,
         "media": [
           {
             "id": 229,
@@ -68,7 +69,7 @@
           "variant": "link",
           "title": "О фонде",
           "additional_attributes": null,
-          "class_name": null,
+          "class_name": "w-fit",
           "media": null,
           "additional_media": null,
           "flyout": null
@@ -80,7 +81,7 @@
           "variant": "link",
           "title": "Проекты",
           "additional_attributes": null,
-          "class_name": null,
+          "class_name": "w-fit",
           "media": null,
           "additional_media": null,
           "flyout": null
@@ -92,7 +93,7 @@
           "variant": "link",
           "title": "СМИ о нас",
           "additional_attributes": null,
-          "class_name": null,
+          "class_name": "w-fit",
           "media": null,
           "additional_media": null,
           "flyout": null
@@ -104,7 +105,7 @@
           "variant": "link",
           "title": "Контакты",
           "additional_attributes": null,
-          "class_name": null,
+          "class_name": "w-fit",
           "media": null,
           "additional_media": null,
           "flyout": null
